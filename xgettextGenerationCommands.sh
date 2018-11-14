@@ -106,6 +106,10 @@ while getopts "hl:o:s:" ARG; do
         s)
             GIBBON_HOME=$(realpath "$OPTARG")
             ;;
+        *)
+            usage $0
+            exit 1
+            ;;
     esac
 done
 

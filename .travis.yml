@@ -1,0 +1,20 @@
+language: php
+dist: trusty
+os:
+  - linux
+
+php:
+  - 7.0
+
+addons:
+  apt:
+    packages:
+      - gettext
+
+sudo: false
+
+install:
+  - git clone --single-branch --depth=1 --branch=v17.0.00 https://github.com/GibbonEdu/core.git $HOME/GibbonEduCore
+
+script:
+  - ./xgettextGenerationCommands.sh -s $HOME/GibbonEduCore -o .
