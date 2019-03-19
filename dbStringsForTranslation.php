@@ -2197,7 +2197,7 @@ __('Link to an external form that will be emailed to a referee of the applicant\
 __('Message bubble background color in RGBA (e.g. 100,100,100,0.50). If blank, theme default will be used.');
 __('Minimum acceptable password length.');
 __('Must be numeric. Number of records shown per page.');
-__('Name of Google Project in Devlopers Console.');
+__('Name of Google Project in Developers Console.');
 __('Name of organisation, as registered with gibbonedu.com, for access to value-added services.');
 __('On which day should the week begin?');
 __('Organisation\'s private key, as registered with gibbonedu.com, for access to value-added services.');
