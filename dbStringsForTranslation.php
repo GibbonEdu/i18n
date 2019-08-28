@@ -2147,7 +2147,7 @@ __('A name to use isntead of \"Effort\" in the second grade column of the markbo
 __('A short name to use isntead of \"Attainment\" in the first grade column of the markbook.');
 __('A short name to use isntead of \"Effort\" in the second grade column of the markbook.');
 __('Additional allowable choices for purpose when creating a resource, for those with \"Manage All Resources\" rights');
-__('Adds a Message Wall widget to the home page, hihglighting current messages.');
+__('Adds a Message Wall widget to the home page, highlighting current messages.');
 __('Adds PHPMailer settings for servers with an SMTP connection.');
 __('After how many negative records should letter 1 be sent?');
 __('After how many negative records should letter 2 be sent?');
