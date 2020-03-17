@@ -125,7 +125,7 @@ foreach ($queries as $query) {
 
     // Trim out duplicate strings, then add slashes and output
     foreach (array_unique($strings) as $string) {
-        print "__('" . addslashes($string) . "');<br/>";
+        print "__('" . str_replace("'", "\'", $string) . "');<br/>";
     }
 
     print "<br/>" ;
