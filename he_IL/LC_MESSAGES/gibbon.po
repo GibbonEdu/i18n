@@ -96,11 +96,11 @@ msgid ""
 "this report, and do not have permission to read it, please return it to %2$s "
 "(%3$s). In the event that it cannot be returned, please destroy it."
 msgstr ""
-"ההדפסה זה מכיל מידע שהוא המאפיין של%1$s s. אם אתה מוצא דוח זה ואין לך הרשאה "
+"ההדפסה זה מכיל מידע שהוא המאפיין של%1$s. אם אתה מוצא דוח זה ואין לך הרשאה "
 "לקרוא אותו, החזר אותו ל-%2$s (%3$s). אם זה לא ניתן להחזיר, אנא להרוס אותו."
 
 msgid "Created by %1$s (%2$s) at %3$s on %4$s."
-msgstr "נוצר על ידי% 1 $ s (% 2 $ s) ב-% 3 $ s ב-% 4 $ s."
+msgstr "נוצר על ידי%1$s (%2$s) ב-%3$s ב-%4$s."
 
 msgid "Photo"
 msgstr "תמונה"
@@ -357,22 +357,22 @@ msgid "One"
 msgstr "אחד"
 
 msgid "Create %1$s Outcomes"
-msgstr "צור% 1 $ s תוצאות"
+msgstr "צור%1$s תוצאות"
 
 msgid "Two"
 msgstr "שניים"
 
 msgid "Plan & Deploy %1$s Smart Units"
-msgstr "תכנון ופריסה של יחידות חכמות של% 1 $ s"
+msgstr "תכנון ופריסה של יחידות חכמות של%1$s"
 
 msgid "Three"
 msgstr "שלוש"
 
 msgid "Share, Teach %1$s & Interact"
-msgstr "שתף, למד% 1 $ s & אינטראקציה"
+msgstr "שתף, למד%1$s & אינטראקציה"
 
 msgid "Assign & Collect %1$s Work"
-msgstr "הקצאת & איסוף% 1 $ s עבודה"
+msgstr "הקצאת & איסוף%1$s עבודה"
 
 msgid "Four"
 msgstr "ארבע"
@@ -381,7 +381,7 @@ msgid "Five"
 msgstr "חמש"
 
 msgid "Assess & Give %1$s Feedback"
-msgstr "הערכה & תן% 1 $ s משוב"
+msgstr "הערכה & תן%1$s משוב"
 
 msgid ""
 "<b>Outcomes</b> provide a way to plan and track what is being taught in "
@@ -430,7 +430,7 @@ msgid ""
 msgstr ""
 "<b> מתכנן </ b> תומך במערכי שיעור מקוונים שניתן לשתף עם תלמידים, הורים "
 "ומורים אחרים. צור את השיעור שלך באופן ידני, או באופן אוטומטי באמצעות% 1 $ "
-"sSmart יחידות% 2 $ s. תוכניות השיעור מאפשרות שיתוף תוכן הקורס, הקצאת שיעורי "
+"sSmart יחידות%2$s. תוכניות השיעור מאפשרות שיתוף תוכן הקורס, הקצאת שיעורי "
 "בית והגשה, צ'אט טקסט ונוכחות נוכחות. <br/> <br/> בחר תאריך או מחלקה, באמצעות "
 "התפריט מימין ולאחר מכן לחץ על הלחצן 'הוסף' (מתחת להודעה זו, בצד ימין) כדי "
 "להוסיף יחידה חדשה."
@@ -453,7 +453,7 @@ msgstr ""
 "<b> שיעורי בית + מועדים </ b> מאפשרים למורים ולתלמידים לראות מועדים קרובים, "
 "המוצגים באופן נקי במקום אחד. לחץ על רשומה כדי להציג את הפרטים עבור אותה "
 "שיעורי בית, והלקח אליו הוא מחובר. <br /> <br/> ניתן להקצות שיעורי בית באמצעות"
-"% 1 $ sPlanner% 2 $ s, אשר גם מאפשר למורים להציג את כל העבודה שהוגשה, "
+"%1$sPlanner%2$s, אשר גם מאפשר למורים להציג את כל העבודה שהוגשה, "
 "ורשומות עבודה מאוחרת ולא שלמה."
 
 msgid ""
@@ -466,7 +466,7 @@ msgid ""
 msgstr ""
 "<b> Markbook </ b> מספק דרך מאורגנת להעריך, להקליט ולדווח על התקדמות "
 "התלמידים. השתמש בקשקשים כיתה, רובריקות, הערות והעלאות קבצים כדי לעדכן את "
-"התלמידים וההורים. קשר את הסמנים ל% 1 $ sPlanner% 2 $ s, וראה את עבודת "
+"התלמידים וההורים. קשר את הסמנים ל%1$sPlanner%2$s, וראה את עבודת "
 "התלמידים בזמן שאתה מסמן אותה. <br/> <br/> בחר בכיתה מהתפריט בצד ימין ולאחר "
 "מכן לחץ על הלחצן 'הוסף' (מתחת להודעה זו, בצד ימין) כדי ליצור עמודה חדשה של "
 "Markbook."
@@ -635,11 +635,11 @@ msgstr "היום היום הולדת של {name}"
 
 #, php-format
 msgid "Individual Needs alert is set, with an alert level of %1$s."
-msgstr "התראה 'צרכים אישיים' מוגדרת, עם רמת התראה של% 1 $ s."
+msgstr "התראה 'צרכים אישיים' מוגדרת, עם רמת התראה של%1$s."
 
 #, php-format
 msgid "Individual Needs alerts are set, up to a maximum alert level of %1$s."
-msgstr "התראות 'צרכים אישיים' מוגדרות, עד לרמת התראה מקסימלית של% 1 $ s."
+msgstr "התראות 'צרכים אישיים' מוגדרות, עד לרמת התראה מקסימלית של%1$s."
 
 msgid "IN"
 msgstr "In"
@@ -656,14 +656,14 @@ msgstr "B"
 
 #, php-format
 msgid "Medical alerts are set, up to a maximum of %1$s"
-msgstr "התראות רפואיות מוגדרות, עד למקסימום של% 1 $ s"
+msgstr "התראות רפואיות מוגדרות, עד למקסימום של%1$s"
 
 msgid "M"
 msgstr "M"
 
 #, php-format
 msgid "Privacy is required: %1$s"
-msgstr "נדרשת פרטיות:% 1 $ s"
+msgstr "נדרשת פרטיות:%1$s"
 
 msgid "P"
 msgstr "P"
@@ -1411,7 +1411,7 @@ msgid ""
 "version. You need to take care of the file updates, and based on the new "
 "files, Gibbon will do the database upgrades."
 msgstr ""
-"דף זה מאפשר לך לעדכן באופן אוטומטי את המודול% 1 $ s באופן אוטומטי לגרסה "
+"דף זה מאפשר לך לעדכן באופן אוטומטי את המודול%1$s באופן אוטומטי לגרסה "
 "חדשה. אתה צריך לטפל בעדכוני הקבצים, ועל סמך הקבצים החדשים, גיבון תעשה את "
 "שדרוגי מסד הנתונים."
 
@@ -1427,11 +1427,11 @@ msgstr "הוראות עדכון"
 
 #, php-format
 msgid "You are currently using %1$s v%2$s."
-msgstr "אתה משתמש כעת ב-% 1 $ s v% 2 $ s."
+msgstr "אתה משתמש כעת ב-%1$s v%2$s."
 
 #, php-format
 msgid "Check %1$s for a newer version of this module."
-msgstr "סמן את% 1 $ s לגרסה חדשה יותר של מודול זה."
+msgstr "סמן את%1$s לגרסה חדשה יותר של מודול זה."
 
 msgid "Download the latest version, and unzip it on your computer."
 msgstr "הורד את הגירסה העדכנית ביותר ופתח אותה במחשב."
@@ -1509,11 +1509,11 @@ msgstr "נראה שאתה כל מעודכן, חבר לעבודה טוב!"
 
 #, php-format
 msgid "You are currently using Gibbon v%1$s."
-msgstr "אתה משתמש כרגע בגיבון v% 1 $ s."
+msgstr "אתה משתמש כרגע בגיבון v%1$s."
 
 #, php-format
 msgid "Check %1$s for a newer version of Gibbon."
-msgstr "סמן את% 1 $ s לגרסה חדשה יותר של גיבון."
+msgstr "סמן את%1$s לגרסה חדשה יותר של גיבון."
 
 msgid ""
 "Your system is set up to run Cutting Edge code, which may or may not be as "
@@ -1525,11 +1525,11 @@ msgstr ""
 
 #, php-format
 msgid "You are currently using Cutting Edge Gibbon v%1$s"
-msgstr "אתה משתמש כרגע ב- Cutting Edge Gibbon v% 1 $ s"
+msgstr "אתה משתמש כרגע ב- Cutting Edge Gibbon v%1$s"
 
 #, php-format
 msgid "Check %1$s to get the latest commits."
-msgstr "סמן את% 1 $ s כדי לקבל את ההמחאות האחרונות."
+msgstr "סמן את%1$s כדי לקבל את ההמחאות האחרונות."
 
 msgid "Download the latest commits, and unzip it on your computer."
 msgstr "הורד את ההתחייבויות האחרונות, ופתח אותו במחשב שלך."
@@ -1647,7 +1647,7 @@ msgstr "רישום לפי כיתה"
 
 #, php-format
 msgid "Edit %1$s.%2$s Enrolment"
-msgstr "ערוך% 1 $ s.% 2 $ s הרשמה"
+msgstr "ערוך%1$s.%2$s הרשמה"
 
 msgid "Add Participants"
 msgstr "הוסף משתתפים"
@@ -1834,7 +1834,7 @@ msgid ""
 "Import cannot proceed, as the submitted file has a MIME-TYPE of %1$s, and as "
 "such does not appear to be a CSV file."
 msgstr ""
-"הייבוא ​​אינו יכול להמשיך, שכן לקובץ שנשלח יש MIME-TYPE של% 1 $ s, וככזה אינו "
+"הייבוא ​​אינו יכול להמשיך, שכן לקובץ שנשלח יש MIME-TYPE של%1$s, וככזה אינו "
 "נראה כקובץ CSV."
 
 msgid ""
@@ -1889,7 +1889,7 @@ msgid ""
 "not be found in Gibbon: %1$s. Add the spaces into Gibbon and then try the "
 "import again."
 msgstr ""
-"בדיקת החלל נכשלה. החללים הבאים היו בקובץ הייבוא ​​אך לא נמצאו בגיבון:% 1 $ s. "
+"בדיקת החלל נכשלה. החללים הבאים היו בקובץ הייבוא ​​אך לא נמצאו בגיבון:%1$s. "
 "הוסף את החללים לתוך גיבון ולאחר מכן נסה שוב את הייבוא."
 
 msgid ""
@@ -1903,7 +1903,7 @@ msgid ""
 "be found in Gibbon: %1$s. Add the days into Gibbon and then try the import "
 "again."
 msgstr ""
-"בדיקת יום נכשלה. הימים הבאים היו בקובץ הייבוא, אך לא נמצאו בגיבון:% 1 $ s. "
+"בדיקת יום נכשלה. הימים הבאים היו בקובץ הייבוא, אך לא נמצאו בגיבון:%1$s. "
 "הוסף את הימים לגיבון ולאחר מכן נסה את הייבוא ​​שוב."
 
 msgid ""
@@ -1919,7 +1919,7 @@ msgid ""
 "be found in Gibbon: %1$s. Add the rows into Gibbon and then try the import "
 "again."
 msgstr ""
-"בדיקת שורה נכשלה. השורות הבאות היו בקובץ הייבוא, אך לא נמצאו בגיבון:% 1 $ s. "
+"בדיקת שורה נכשלה. השורות הבאות היו בקובץ הייבוא, אך לא נמצאו בגיבון:%1$s. "
 "הוסף את השורות לגיבון ולאחר מכן נסה שוב את הייבוא."
 
 msgid ""
@@ -1936,7 +1936,7 @@ msgid ""
 "try the import again."
 msgstr ""
 "בדיקת הקורס נכשלה. הקורסים הבאים היו בקובץ הייבוא, אך לא ניתן היה למצוא אותם "
-"בגיבון:% 1 $ s. הוסף את הקורסים לתוך גיבון ולאחר מכן נסה את הייבוא ​​שוב."
+"בגיבון:%1$s. הוסף את הקורסים לתוך גיבון ולאחר מכן נסה את הייבוא ​​שוב."
 
 msgid ""
 "The course check was successfully completed: all courses in the import file "
@@ -1946,7 +1946,7 @@ msgstr ""
 
 #, php-format
 msgid "The following courses were added to Gibbon: %1$s."
-msgstr "הקורסים הבאים נוספו לגיבון:% 1 $ s."
+msgstr "הקורסים הבאים נוספו לגיבון:%1$s."
 
 #, php-format
 msgid ""
@@ -1955,7 +1955,7 @@ msgid ""
 "try the import again."
 msgstr ""
 "בדיקת הכיתה נכשלה. השיעורים הבאים היו בקובץ הייבוא, אך לא ניתן היה למצוא "
-"אותם או לבצע אותם בגיבון:% 1 $ s. הוסף את השיעורים לגיבון ולאחר מכן נסה שוב "
+"אותם או לבצע אותם בגיבון:%1$s. הוסף את השיעורים לגיבון ולאחר מכן נסה שוב "
 "את הייבוא."
 
 msgid ""
@@ -1966,7 +1966,7 @@ msgstr ""
 
 #, php-format
 msgid "The following classes were added to Gibbon: %1$s."
-msgstr "השיעורים הבאים נוספו לגיבון:% 1 $ s."
+msgstr "השיעורים הבאים נוספו לגיבון:%1$s."
 
 msgid "Teacher Sync"
 msgstr "סנכרון המורה"
@@ -1989,8 +1989,8 @@ msgid ""
 "You are ready to go. %1$sClick here to import the timetable. Your old "
 "timetable will be obliterated%2$s."
 msgstr ""
-"אתה מוכן ללכת. % 1 $ s לחץ כאן כדי לייבא את לוח הזמנים. לוח הזמנים הישן שלך "
-"ימחק% 2 $ s."
+"אתה מוכן ללכת. %1$s לחץ כאן כדי לייבא את לוח הזמנים. לוח הזמנים הישן שלך "
+"ימחק%2$s."
 
 msgid "Step 3 - Import"
 msgstr "שלב 3 - ייבוא"
@@ -2131,7 +2131,7 @@ msgstr "שלב"
 
 #, php-format
 msgid "Are you sure you want to accept the application for %1$s?"
-msgstr "האם אתה בטוח שברצונך לקבל את הבקשה עבור% 1 $ s?"
+msgstr "האם אתה בטוח שברצונך לקבל את הבקשה עבור%1$s?"
 
 #, fuzzy
 msgid "Automatically inform <u>student</u> of Gibbon login details by email?"
@@ -2269,7 +2269,7 @@ msgstr "דוא\"ל ברוכים הבאים"
 
 #, php-format
 msgid "Welcome to %1$s at %2$s"
-msgstr "ברוך הבא אל% 1 $ s בכתובת% 2 $ s"
+msgstr "ברוך הבא אל%1$s בכתובת%2$s"
 
 msgid "A welcome email was successfully sent to"
 msgstr "דוא\"ל קבלת פנים נשלח בהצלחה אל"
@@ -2362,7 +2362,7 @@ msgstr "תשלום"
 
 #, php-format
 msgid "Has payment (%1$s %2$s) been made for this application."
-msgstr "האם בוצעה תשלום (% 1 $ s% 2 $ s) עבור יישום זה."
+msgstr "האם בוצעה תשלום (%1$s%2$s) עבור יישום זה."
 
 msgid "Student Personal Data"
 msgstr "נתונים אישיים של סטודנטים"
@@ -2555,7 +2555,7 @@ msgstr "מעסיק"
 
 #, php-format
 msgid "The applying family is already a member of %1$s."
-msgstr "המשפחה החלתית כבר חברה ב-% 1 $ s."
+msgstr "המשפחה החלתית כבר חברה ב-%1$s."
 
 msgid "Siblings"
 msgstr "אחים"
@@ -2690,39 +2690,39 @@ msgstr "הורה 1 מעסיק"
 
 #, php-format
 msgid "Parent %1$s Name"
-msgstr "שם ההורה% 1 $ s"
+msgstr "שם ההורה%1$s"
 
 #, php-format
 msgid "Parent %1$s Relationship"
-msgstr "יחסי הורה% 1 $ s"
+msgstr "יחסי הורה%1$s"
 
 #, php-format
 msgid "Parent %1$s Contact Priority"
-msgstr "ההורה% 1 $ s עדיפות הקשר"
+msgstr "ההורה%1$s עדיפות הקשר"
 
 #, php-format
 msgid "Parent %1$s First Language"
-msgstr "% 1 $ s שפה ראשונה"
+msgstr "%1$s שפה ראשונה"
 
 #, php-format
 msgid "Parent %1$s Phone"
-msgstr "הורה% 1 $ s טלפון"
+msgstr "הורה%1$s טלפון"
 
 #, php-format
 msgid "Parent %1$s Email"
-msgstr "הודעת אב של% 1 $ s"
+msgstr "הודעת אב של%1$s"
 
 #, php-format
 msgid "Parent %1$s Second Language"
-msgstr "% 1 $ s שפה שנייה"
+msgstr "%1$s שפה שנייה"
 
 #, php-format
 msgid "Parent %1$s Profession"
-msgstr "ההורה% 1 $ s מקצוע"
+msgstr "ההורה%1$s מקצוע"
 
 #, php-format
 msgid "Parent %1$s Employer"
-msgstr "הורה% 1 $ s מעסיק"
+msgstr "הורה%1$s מעסיק"
 
 msgid "There is no family information available for the current student."
 msgstr "אין מידע משפחתי זמין עבור התלמיד הנוכחי."
@@ -2735,7 +2735,7 @@ msgstr "אל תיצור קשר בטלפון."
 
 #, php-format
 msgid "Parent %1$s By Email"
-msgstr "ההורה% 1 $ s בדוא\"ל"
+msgstr "ההורה%1$s בדוא\"ל"
 
 msgid "Do not contact by email."
 msgstr "אל תיצור קשר בדוא\"ל."
@@ -2760,7 +2760,7 @@ msgstr "דחה את הבקשה"
 
 #, php-format
 msgid "Are you sure you want to reject the application for %1$s?"
-msgstr "האם אתה בטוח שברצונך לדחות את הבקשה עבור% 1 $ s?"
+msgstr "האם אתה בטוח שברצונך לדחות את הבקשה עבור%1$s?"
 
 msgid "Application Form Settings"
 msgstr "הגדרות טופס בקשה"
@@ -2948,7 +2948,7 @@ msgid "This field cannot be required"
 msgstr "לא ניתן לדרוש שדה זה"
 
 msgid "Phone %1$s"
-msgstr "טלפון% 1 $ s"
+msgstr "טלפון%1$s"
 
 msgid "Manage Districts"
 msgstr "ניהול מחוזות"
@@ -3119,7 +3119,7 @@ msgid "There was an error updating user:"
 msgstr "אירעה שגיאה בעדכון המשתמש:"
 
 msgid "User %1$s was successfully updated."
-msgstr "המשתמש% 1 $ s עודכן בהצלחה."
+msgstr "המשתמש%1$s עודכן בהצלחה."
 
 msgid "Manage Medical Forms"
 msgstr "ניהול טפסים רפואיים"
@@ -3175,7 +3175,7 @@ msgid ""
 "current limit is %1$s). Ask your web host or system administrator to "
 "increase the value of the max_input_vars in php.ini."
 msgstr ""
-"סביבת ה- PHP אינה יכולה לטפל בכל השדות בטופס זה (המגבלה הנוכחית היא% 1 $ s). "
+"סביבת ה- PHP אינה יכולה לטפל בכל השדות בטופס זה (המגבלה הנוכחית היא%1$s). "
 "שאל את מארח האינטרנט או מנהל המערכת כדי להגדיל את הערך של max_input_vars ב "
 "php.ini."
 
@@ -3206,9 +3206,9 @@ msgid ""
 "This will change data in numerous tables across the system! %3$sYou are "
 "really, very strongly advised to backup all data before you proceed%4$s."
 msgstr ""
-"על ידי לחיצה על הלחצן \"המשך\" בהמשך, תתחיל את המעבר מ% 1 $ s ל% 2 $ s. בבית "
+"על ידי לחיצה על הלחצן \"המשך\" בהמשך, תתחיל את המעבר מ%1$s ל%2$s. בבית "
 "ספר גדול פעולה זו עשויה לקחת קצת זמן כדי להשלים. זה ישתנה נתונים בטבלאות "
-"רבות ברחבי המערכת! % 3 $ s מומלץ מאוד לגבות את כל הנתונים לפני שתמשיך ב-% 4 "
+"רבות ברחבי המערכת! %3$s מומלץ מאוד לגבות את כל הנתונים לפני שתמשיך ב-% 4 "
 "$ s."
 
 msgid "Step 2"
@@ -3219,12 +3219,12 @@ msgid ""
 "In rolling over to %1$s, the following actions will take place. You may need "
 "to adjust some fields below to get the result you desire."
 msgstr ""
-"במעבר ל% 1 $ s, הפעולות הבאות יתקיימו. ייתכן שיהיה עליך להתאים כמה שדות למטה "
+"במעבר ל%1$s, הפעולות הבאות יתקיימו. ייתכן שיהיה עליך להתאים כמה שדות למטה "
 "כדי לקבל את התוצאה הרצויה."
 
 #, php-format
 msgid "Add Year Following %1$s"
-msgstr "הוסף שנה לאחר% 1 $ s"
+msgstr "הוסף שנה לאחר%1$s"
 
 msgid "School Year Name"
 msgstr "שנת הלימודים"
@@ -3330,11 +3330,11 @@ msgstr "מראש היה מוצלח, אתה עכשיו בשנה אקדמית חד
 
 #, php-format
 msgid "%1$s updates failed."
-msgstr "עדכוני% 1 $ s נכשלו."
+msgstr "עדכוני%1$s נכשלו."
 
 #, php-format
 msgid "%1$s adds failed."
-msgstr "% 1 $ s הוספה נכשלה."
+msgstr "%1$s הוספה נכשלה."
 
 msgid "Manage Staff"
 msgstr "ניהול צוות"
@@ -3679,16 +3679,16 @@ msgid "Slot"
 msgstr "חריץ"
 
 msgid "Slot %1$s Day"
-msgstr "משבצת% 1 $ s יום"
+msgstr "משבצת%1$s יום"
 
 msgid "Slot %1$s Start Time"
-msgstr "זמן התחלה של% 1 $ s"
+msgstr "זמן התחלה של%1$s"
 
 msgid "Slot %1$s End Time"
-msgstr "זמן סיום של% 1 $ s"
+msgstr "זמן סיום של%1$s"
 
 msgid "Slot %1$s Location"
-msgstr "מיקום% 1 $ s במיקום"
+msgstr "מיקום%1$s במיקום"
 
 msgid "Organiser"
 msgstr "ארגונית"
@@ -3799,7 +3799,7 @@ msgstr "אפשרות גיבוי"
 
 #, php-format
 msgid "In case %1$s is full."
-msgstr "כמות% 1 $ s היא מלאה."
+msgstr "כמות%1$s היא מלאה."
 
 msgid ""
 "You are not currently registered for this activity and so cannot unregister."
@@ -3810,7 +3810,7 @@ msgid ""
 "Are you sure you want to unregister from activity \"%1$s\"? If you try to "
 "reregister later you may lose a space already assigned to you."
 msgstr ""
-"האם אתה בטוח שברצונך לבטל את הרישום מפעילות \"% 1 $ s\"? אם תנסה לרשום מחדש, "
+"האם אתה בטוח שברצונך לבטל את הרישום מפעילות \"%1$s\"? אם תנסה לרשום מחדש, "
 "אתה עלול לאבד שטח שהוקצה לך."
 
 msgid "Activity Choices By Student"
@@ -4235,7 +4235,7 @@ msgstr "ערוך שורות שורות ועמודות"
 
 #, php-format
 msgid "Row %1$s Title"
-msgstr "שורה% 1 $ s כותרת"
+msgstr "שורה%1$s כותרת"
 
 msgid "Standalone"
 msgstr "עצמאי"
@@ -4251,7 +4251,7 @@ msgstr "עמודות"
 
 #, php-format
 msgid "Column %1$s Title"
-msgstr "כותרת עמודה% 1 $ s"
+msgstr "כותרת עמודה%1$s"
 
 msgid "View Rubrics"
 msgstr "צפה בתגובות"
@@ -7513,11 +7513,11 @@ msgstr "תאריך התחלה מתוכנן"
 
 #, php-format
 msgid "Grades%1$sAttended"
-msgstr "ציונים% 1 $ s"
+msgstr "ציונים%1$s"
 
 #, php-format
 msgid "Language of%1$sInstruction"
-msgstr "שפה של% 1 $ sInstruction"
+msgstr "שפה של%1$sInstruction"
 
 msgid "System login ID."
 msgstr "מזהה כניסה למערכת."
@@ -7594,7 +7594,7 @@ msgstr "יומן הנוכחות הבא נרשם עבור התלמיד שנבחר
 
 #, php-format
 msgid "Recorded at %1$s on %2$s by %3$s."
-msgstr "הוקלט ב-% 1 $ s ב-% 2 $ s ב-% 3 $ s."
+msgstr "הוקלט ב-%1$s ב-%2$s ב-%3$s."
 
 msgid "Recent Attendance Summary"
 msgstr "סיכום נוכחות לאחרונה"
@@ -7761,7 +7761,7 @@ msgstr ""
 
 #, php-format
 msgid "Please contact %1$s if you have any questions."
-msgstr "צור קשר עם% 1 $ s אם יש לך שאלות."
+msgstr "צור קשר עם%1$s אם יש לך שאלות."
 
 #, fuzzy
 msgid ""
@@ -7803,7 +7803,7 @@ msgid ""
 msgstr ""
 "דף זה מאפשר לכל מבוגר עם גישה לנתונים הרשאה לבקש עדכוני נתונים פיננסיים "
 "נבחרים עבור כל הילדים במשפחה שלהם. אם אחד מילדיך לא מופיע ברשימה זו, צור קשר "
-"עם% 1 $ s."
+"עם%1$s."
 
 msgid "Choose User"
 msgstr "בחר משתמש"
@@ -7888,23 +7888,23 @@ msgstr "משאבים שוטפים"
 
 #, php-format
 msgid "New Resource %1$s"
-msgstr "משאב חדש% 1 $ s"
+msgstr "משאב חדש%1$s"
 
 #, php-format
 msgid "Resource %1$s Name"
-msgstr "שם% 1 $ s למשאב"
+msgstr "שם%1$s למשאב"
 
 #, php-format
 msgid "Resource %1$s Type"
-msgstr "המשאב% 1 $ s סוג"
+msgstr "המשאב%1$s סוג"
 
 #, php-format
 msgid "Resource %1$s URL"
-msgstr "כתובת אתר של% 1 $ s למשאב"
+msgstr "כתובת אתר של%1$s למשאב"
 
 #, php-format
 msgid "Resource %1$s File"
-msgstr "קובץ% 1 $ s למשאב"
+msgstr "קובץ%1$s למשאב"
 
 msgid "Administration"
 msgstr "מינהל"
@@ -7952,7 +7952,7 @@ msgstr ""
 "חשבוניות עבור סוגים שונים של עמלות."
 
 msgid "This category cannot%1$sbe edited or deleted."
-msgstr "קטגוריה זו לא יכולה% 1 $ sbe לערוך או למחוק."
+msgstr "קטגוריה זו לא יכולה%1$sbe לערוך או למחוק."
 
 msgid "Add Category"
 msgstr "הוסף קטגוריה"
@@ -7978,7 +7978,7 @@ msgstr "בתשלום"
 
 #, php-format
 msgid "Numeric value of the fee in %1$s."
-msgstr "הערך המספרי של האגרה ב% 1 $ s."
+msgstr "הערך המספרי של האגרה ב%1$s."
 
 msgid "Numeric value of the fee."
 msgstr "הערך המספרי של האגרה."
@@ -8008,7 +8008,7 @@ msgid ""
 "has successfully created %1$s record(s) for you."
 msgstr ""
 "זה היה מזוהה כי חלק מהתלמידים לא היו רשומות invoicee. המערכת יצרה עבורך "
-"בהצלחה רשומות% 1 $ s."
+"בהצלחה רשומות%1$s."
 
 msgid "All Students"
 msgstr "כל התלמידים"
@@ -8087,7 +8087,7 @@ msgstr "אד הוק"
 
 #, php-format
 msgid "%1$s invoice(s) in current view"
-msgstr "% 1 $ s חשבוניות בתצוגה הנוכחית"
+msgstr "%1$s חשבוניות בתצוגה הנוכחית"
 
 msgid "Are you sure you wish to process this action? It cannot be undone."
 msgstr "האם אתה בטוח שברצונך לעבד פעולה זו? זה לא ניתן לבטל."
@@ -8146,7 +8146,7 @@ msgstr "חשבוניות"
 msgid ""
 "Visit %1$sManage Invoicees%2$s to automatically generate missing students."
 msgstr ""
-"בקר ב% 1 $ sManage חשבוניות% 2 $ s כדי ליצור באופן אוטומטי תלמידים חסרים."
+"בקר ב%1$sManage חשבוניות%2$s כדי ליצור באופן אוטומטי תלמידים חסרים."
 
 #, fuzzy
 msgid "All Enrolled Students by Form Group"
@@ -8384,7 +8384,7 @@ msgstr "הצג פריט"
 
 #, php-format
 msgid "This item is now %1$s%2$s days overdue"
-msgstr "הפריט הזה הוא כעת% 1 $ s% 2 $ s ימים שחלפו"
+msgstr "הפריט הזה הוא כעת%1$s%2$s ימים שחלפו"
 
 msgid "Item Details"
 msgstr "פרטי הפריט"
@@ -8461,7 +8461,7 @@ msgstr "חידוש פריט"
 
 #, php-format
 msgid "Default renew length is today plus %1$s day(s)"
-msgstr "אורך חידוש ברירת המחדל הוא היום בתוספת% 1 $ s ימים"
+msgstr "אורך חידוש ברירת המחדל הוא היום בתוספת%1$s ימים"
 
 msgid "Return Item"
 msgstr "פריט החזרה"
@@ -8782,11 +8782,11 @@ msgstr ""
 
 #, php-format
 msgid "%1$s email(s) were dispatched."
-msgstr "% 1 $ s אימייל נשלחו."
+msgstr "%1$s אימייל נשלחו."
 
 #, php-format
 msgid "%1$s SMS(es) were dispatched in %2$s batch(es)."
-msgstr "% 1 $ s SMS (s) נשלחו באצוות% 2 $ s."
+msgstr "%1$s SMS (s) נשלחו באצוות%2$s."
 
 msgid "Email From"
 msgstr "אי מייל מ"
@@ -8810,11 +8810,11 @@ msgstr ""
 
 #, php-format
 msgid "SMS NOT CONFIGURED. Please contact %1$s for help."
-msgstr "לא מודפס SMS. צור קשר עם% 1 $ s לקבלת עזרה."
+msgstr "לא מודפס SMS. צור קשר עם%1$s לקבלת עזרה."
 
 #, php-format
 msgid "Email sent via %1$s at %2$s."
-msgstr "אימייל נשלח באמצעות% 1 $ s ב-% 2 $ s."
+msgstr "אימייל נשלח באמצעות%1$s ב-%2$s."
 
 msgid ""
 "Are you sure you want to leave this page? Any unsaved changes will be lost."
@@ -9019,7 +9019,7 @@ msgid "Deadline"
 msgstr "מועד אחרון"
 
 msgid "Online%1$sSubmission"
-msgstr "Online% 1 $ ssmission"
+msgstr "Online%1$ssmission"
 
 msgid "Complete?"
 msgstr "השלם?"
@@ -9120,7 +9120,7 @@ msgid "This lesson has not had any content assigned to it."
 msgstr "שיעור זה לא הקצה לו תוכן."
 
 msgid "Due on %1$s at %2$s."
-msgstr "מועד התשלום הוא% 1 $ s ב-% 2 $ s."
+msgstr "מועד התשלום הוא%1$s ב-%2$s."
 
 msgid "Online Submission"
 msgstr "הגשת מקוון"
@@ -9258,7 +9258,7 @@ msgid ""
 "If you wish to take this unit out of Gibbon, simply copy and paste the "
 "contents into a word processing application."
 msgstr ""
-"דף זה מאפשר לך להציג את כל התוכן של יחידה נבחרת (% 1 $ s). אם אתה רוצה לקחת "
+"דף זה מאפשר לך להציג את כל התוכן של יחידה נבחרת (%1$s). אם אתה רוצה לקחת "
 "את זה יחידת גיבון, פשוט להעתיק ולהדביק את התוכן לתוך יישום עיבוד תמלילים."
 
 msgid "Unit Overview"
@@ -9321,7 +9321,7 @@ msgid ""
 "In this way you can use your refined and improved unit as your master next "
 "time you deploy."
 msgstr ""
-"פונקציה זו מאפשרת לך לקחת את כל הבלוקים מיחידת העבודה שנבחרה (% 1 $ s ב-% 2 "
+"פונקציה זו מאפשרת לך לקחת את כל הבלוקים מיחידת העבודה שנבחרה (%1$s ב-% 2 "
 "$ s) ולהשתמש בהם כדי להחליף את הבלוקים ביחידת האב. בדרך זו אתה יכול להשתמש "
 "ביחידה מעודן ומשופר שלך כמאסטר שלך בפעם הבאה שאתה לפרוס."
 
@@ -9335,7 +9335,7 @@ msgid ""
 "this way you can use your refined and improved unit as a new master unit "
 "whilst leaving your existing master unit untouched."
 msgstr ""
-"פונקציה זו מאפשרת לך לקחת את יחידת העבודה שנבחרה (% 1 $ s ב% 2 $ s) ולהשתמש "
+"פונקציה זו מאפשרת לך לקחת את יחידת העבודה שנבחרה (%1$s ב%2$s) ולהשתמש "
 "בלוקים שלה, ואת יחידת יחידת הפרטים, כדי ליצור יחידה חדשה. בדרך זו ניתן "
 "להשתמש ביחידה מעודן ומשופר שלך כמו יחידת הורים חדשה תוך השארת יחידת יחידת "
 "הקיים שלך נגעה."
@@ -9357,13 +9357,13 @@ msgstr ""
 "שיעורים ללא תוכניות קיימות יכולים להיכלל בפריסה."
 
 msgid "Lesson%1$sNumber"
-msgstr "שיעור% 1 $ sNumber"
+msgstr "שיעור%1$sNumber"
 
 msgid "Month"
 msgstr "חודש"
 
 msgid "Planned%1$sLesson"
-msgstr "מתוכנן% 1 $ sLesson"
+msgstr "מתוכנן%1$sLesson"
 
 msgid "Include?"
 msgstr "כלול?"
@@ -9399,7 +9399,7 @@ msgid "Choose Lessons"
 msgstr "בחר שיעורים"
 
 msgid "TT Period%1$sTime"
-msgstr "TT תקופה% 1 $ sTime"
+msgstr "TT תקופה%1$sTime"
 
 msgid "Copy Back Block"
 msgstr "העתק חזרה לחסום"
@@ -9672,7 +9672,7 @@ msgstr "למבוגרים בלבד"
 
 #, php-format
 msgid "This student has one or more %1$s risk medical conditions."
-msgstr "לסטודנט זה יש מצב רפואי אחד או יותר של% 1 $ s."
+msgstr "לסטודנט זה יש מצב רפואי אחד או יותר של%1$s."
 
 msgid "Privacy required:"
 msgstr "נדרשת פרטיות:"
@@ -10597,7 +10597,7 @@ msgstr "ציונים היעד GCSE"
 
 #, php-format
 msgid "Current balance: %1$s credit(s)."
-msgstr "יתרה נוכחית:% 1 $ s אשראי (ים)."
+msgstr "יתרה נוכחית:%1$s אשראי (ים)."
 
 msgid "International Baccalaureate Diploma"
 msgstr "תעודת בגרות בינלאומית"
@@ -10738,14 +10738,14 @@ msgstr "בדיקת הגרסה נכשלה"
 #, php-format
 msgid ""
 "Version check successful. Your Gibbon installation is up to date at %1$s."
-msgstr "בדיקת הגרסה בוצעה בהצלחה. התקנת Gibbon שלך מעודכנת ב-% 1 $ s."
+msgstr "בדיקת הגרסה בוצעה בהצלחה. התקנת Gibbon שלך מעודכנת ב-%1$s."
 
 #, php-format
 msgid ""
 "Version check successful. Your Gibbon installation is out of date. Please "
 "visit %1$s to download the latest version."
 msgstr ""
-"בדיקת הגרסה בוצעה בהצלחה. התקנת גיבון שלך אינה מעודכנת. בקר בכתובת% 1 $ s "
+"בדיקת הגרסה בוצעה בהצלחה. התקנת גיבון שלך אינה מעודכנת. בקר בכתובת%1$s "
 "כדי להוריד את הגרסה העדכנית ביותר."
 
 msgid "Database Type"
@@ -10778,7 +10778,7 @@ msgstr "הספרייה המכילה את קובצי Gibbon ניתנת לכתיב
 #, php-format
 msgid ""
 "A database connection could not be established. Please %1$stry again%2$s."
-msgstr "לא ניתן ליצור חיבור למסד נתונים. אנא% 1 $ חזור שוב על% 2 $ s."
+msgstr "לא ניתן ליצור חיבור למסד נתונים. אנא% 1 $ חזור שוב על%2$s."
 
 msgid ""
 "../config.php could not be created, and so the installer cannot proceed."
@@ -10803,7 +10803,7 @@ msgid ""
 "To complete your installation, it is advisable to follow the %1$sPost-"
 "Install and Server Config instructions%2$s."
 msgstr ""
-"כמו כן מומלץ לעקוב אחר ההוראות% 1 $ sPost-Install ו- Server Config% 2 $ s."
+"כמו כן מומלץ לעקוב אחר ההוראות%1$sPost-Install ו- Server Config%2$s."
 
 msgid "Welcome To Gibbon"
 msgstr "ברוכים הבאים לגיבון"
@@ -10823,7 +10823,7 @@ msgstr ""
 "בתי ספר."
 
 msgid "For support, please visit %1$sgibbonedu.org%2$s."
-msgstr "לקבלת תמיכה, בקר בכתובת% 1 $ sgibbonedu.org% 2 $ s."
+msgstr "לקבלת תמיכה, בקר בכתובת%1$sgibbonedu.org%2$s."
 
 msgid "User Account"
 msgstr "חשבון משתמש"
@@ -10835,7 +10835,7 @@ msgid ""
 "login as user <u>admin</u> with password <u>gibbon</u>."
 msgstr ""
 "הגדרות מסוימות לא נשמרו. המערכת עשויה לפעול, אך ייתכן שיהיה עליך להסיר הכל "
-"ולהתחיל מחדש. נסה את% 1 $ sgo לדף הבית של Gibbon% 2 $ s והכנס כמשתמש <u> "
+"ולהתחיל מחדש. נסה את%1$sgo לדף הבית של Gibbon%2$s והכנס כמשתמש <u> "
 "admin </ u> עם <u> גיבון </ u>."
 
 #, php-format
@@ -10843,7 +10843,7 @@ msgid ""
 "Congratulations, your installation is complete. Feel free to %1$sgo to your "
 "Gibbon homepage%2$s and login with the username and password you created."
 msgstr ""
-"ברכותינו, ההתקנה שלך הושלמה. אתה מוזמן ל% 1 $ sgo לדף הבית של Gibbon% 2 $ s "
+"ברכותינו, ההתקנה שלך הושלמה. אתה מוזמן ל%1$sgo לדף הבית של Gibbon%2$s "
 "ולהתחבר עם שם המשתמש והסיסמה שיצרת."
 
 msgid "Edit User"
@@ -10885,20 +10885,20 @@ msgstr "התנהגות שלילית נרשמת השבוע"
 
 #, php-format
 msgid "Dear %1$s"
-msgstr "% 1 $ s יקר"
+msgstr "%1$s יקר"
 
 #, fuzzy
 msgid "Please find below a summary of homework and behaviour for %1$s."
-msgstr "ראה להלן סיכום של שיעורי הבית וההתנהגות עבור% 1 $ s."
+msgstr "ראה להלן סיכום של שיעורי הבית וההתנהגות עבור%1$s."
 
 msgid ""
 "Please %1$sclick here%2$s to confirm that you have received and read this "
 "summary email."
-msgstr "אנא% 1 $ לחץ כאן% 2 $ s כדי לאשר שקיבלת וקראת את הודעת האימייל הזו."
+msgstr "אנא% 1 $ לחץ כאן%2$s כדי לאשר שקיבלת וקראת את הודעת האימייל הזו."
 
 #, php-format
 msgid "Weekly Planner Summary for %1$s via %2$s at %3$s"
-msgstr "סיכום מתכנן שבועי עבור% 1 $ s דרך% 2 $ s ב-% 3 $ s"
+msgstr "סיכום מתכנן שבועי עבור%1$s דרך%2$s ב-%3$s"
 
 msgid "Student Count"
 msgstr "ספירת סטודנטים"
@@ -10997,32 +10997,32 @@ msgid ""
 "slot. <b>Are you sure you want to bump %1$s?"
 msgstr ""
 "לחיצה על \"כן\" להלן תעביר את השיעור הזה, ואת כל השיעורים המתקדמים או הבאים "
-"בכיתה זו, לחריץ הזמן הקודם או הבא. <b> האם אתה בטוח שברצונך להכות% 1 $ s?"
+"בכיתה זו, לחריץ הזמן הקודם או הבא. <b> האם אתה בטוח שברצונך להכות%1$s?"
 
 msgid "Student Email & Website"
 msgstr "דוא\"ל הסטודנטים & אתר"
 
 #, php-format
 msgid "Create Student Email/Websites for %1$s at %2$s"
-msgstr "צור אימייל של תלמידים / אתרים עבור% 1 $ s ב-% 2 $ s"
+msgstr "צור אימייל של תלמידים / אתרים עבור%1$s ב-%2$s"
 
 #, php-format
 msgid "Please create the following for new student %1$s."
-msgstr "צור את הפרטים הבאים עבור תלמיד חדש% 1 $ s."
+msgstr "צור את הפרטים הבאים עבור תלמיד חדש%1$s."
 
 #, php-format
 msgid ""
 "A request to create a student email address and/or website address was "
 "successfully sent to %1$s."
 msgstr ""
-"בקשה ליצירת כתובת דוא\"ל ו / או כתובת אתר של תלמיד נשלחה בהצלחה אל% 1 $ s."
+"בקשה ליצירת כתובת דוא\"ל ו / או כתובת אתר של תלמיד נשלחה בהצלחה אל%1$s."
 
 #, php-format
 msgid ""
 "A request to create a student email address and/or website address failed. "
 "Please contact %1$s to request these manually."
 msgstr ""
-"בקשה ליצירת כתובת דוא\"ל ו / או כתובת אתר של תלמיד נכשלה. צור קשר עם% 1 $ s "
+"בקשה ליצירת כתובת דוא\"ל ו / או כתובת אתר של תלמיד נכשלה. צור קשר עם%1$s "
 "כדי לבקש זאת ידנית."
 
 msgid "Email Alternate"
@@ -11056,7 +11056,7 @@ msgid ""
 "database is up to date in %1$sUpdates%2$s."
 msgstr ""
 "אם עדכנת לאחרונה את קובצי המערכת שלך, בדוק שמסד הנתונים שלך מעודכן ב-% 1 $ "
-"sUpdates% 2 $ s."
+"sUpdates%2$s."
 
 msgid "Notifications"
 msgstr "התראות"
@@ -11074,7 +11074,7 @@ msgstr "סגור"
 
 #, fuzzy
 msgid "{person} has commented on your homework for lesson plan {student}."
-msgstr "מישהו הגיב על שיעורי הבית שלך עבור שיעור השיעור \"% 1 $ s\"."
+msgstr "מישהו הגיב על שיעורי הבית שלך עבור שיעור השיעור \"%1$s\"."
 
 msgid "Select Role Categories"
 msgstr "בחר קטגוריות תפקידים"
@@ -11087,7 +11087,7 @@ msgid ""
 "should get through to each family."
 msgstr ""
 "לכל משפחה בגיבון יש הורה אחד בעל עדיפות ראשונה, ויש לאפשר לו לקבל הודעות דוא"
-"\"ל ו- SMS מ-% 1 $ s. כתוצאה מכך, כאשר מתפתחים הורים, אתה יכול להיות בטוח "
+"\"ל ו- SMS מ-%1$s. כתוצאה מכך, כאשר מתפתחים הורים, אתה יכול להיות בטוח "
 "למדי כי הודעות צריך לעבור לכל משפחה."
 
 #, fuzzy
@@ -11365,7 +11365,7 @@ msgid ""
 "contact the school ASAP, quoting code %2$s."
 msgstr ""
 "התשלום שלך בוצע בהצלחה בכרטיס האשראי שלך, אך אירעה שגיאה בהקלדת התשלום שלך ב-"
-"% 1 $ s. אנא הדפס את המסך ופנה לבית הספר בהקדם האפשרי, תוך ציטוט קוד% 2 $ s."
+"%1$s. אנא הדפס את המסך ופנה לבית הספר בהקדם האפשרי, תוך ציטוט קוד%2$s."
 
 msgid "Online Payment"
 msgstr "תשלום אונליין"
@@ -11398,7 +11398,7 @@ msgid ""
 msgstr ""
 "התשלום ניתן באמצעות כרטיס אשראי, באמצעות שער התשלום המאובטח שלנו PayPal. "
 "כאשר תלחץ על 'שלם עכשיו', תועבר לדף% 1 $ שממנו תוכל להשתמש ב- PayPal כדי "
-"לבצע תשלום. תוכל להמשיך עם התשלום באמצעות% 1 $ s אם אתה מחובר או לא. במהלך "
+"לבצע תשלום. תוכל להמשיך עם התשלום באמצעות%1$s אם אתה מחובר או לא. במהלך "
 "תהליך זה איננו רואים או שומרים את פרטי כרטיס האשראי שלך."
 
 msgid "Pay Now"
@@ -11409,19 +11409,19 @@ msgstr "בחר קורס"
 
 #, php-format
 msgid "%1$s Outcomes"
-msgstr "% 1 $ s תוצאות"
+msgstr "%1$s תוצאות"
 
 #, php-format
 msgid "In %1$s."
-msgstr "ב-% 1 $ s."
+msgstr "ב-%1$s."
 
 #, php-format
 msgid "All form groups have been registered today (%1$s)."
-msgstr "כל קבוצות הטופס נרשמו היום (% 1 $ s)."
+msgstr "כל קבוצות הטופס נרשמו היום (%1$s)."
 
 #, php-format
 msgid "%1$s form groups have not been registered today  (%2$s)."
-msgstr "% 1 $ s קבוצות הטופס לא נרשמו היום (% 2 $ s)."
+msgstr "%1$s קבוצות הטופס לא נרשמו היום (%2$s)."
 
 msgid "Add Multiple"
 msgstr "הוסף מרובים"
@@ -11467,7 +11467,7 @@ msgid ""
 "then refresh this page. After refresh, the module should appear in the list "
 "below: use the install button in the Actions column to set it up."
 msgstr ""
-"כדי להתקין מודול, העלה את תיקיית המודול ל-% 1 $ s בשרת שלך ולאחר מכן רענן את "
+"כדי להתקין מודול, העלה את תיקיית המודול ל-%1$s בשרת שלך ולאחר מכן רענן את "
 "הדף. לאחר הרענון, על המודול להופיע ברשימה שלהלן: השתמש בלחצן ההתקנה בעמודה "
 "פעולות כדי להגדיר אותו."
 
@@ -11497,7 +11497,7 @@ msgstr ""
 "אם בית הספר שלך משתמש ב- Google Apps, תוכל להפעיל כניסה יחידה ולשתף לוח שנה "
 "עם גיבון. תהליך זה עושה שימוש בממשקי ה- API של Google ומאפשר למשתמש לגשת אל "
 "גיבון ללא שם משתמש וסיסמה, בתנאי שכתובת האימייל הרשומה שלהם היא חשבון Google "
-"שאליו יש להם גישה. להנחיות תצורה,% 1 $ לחץ כאן% 2 $ s."
+"שאליו יש להם גישה. להנחיות תצורה,% 1 $ לחץ כאן%2$s."
 
 #, php-format
 msgid ""
@@ -11505,7 +11505,7 @@ msgid ""
 "refresh this page. After refresh, the theme should appear in the list below: "
 "use the install button in the Actions column to set it up."
 msgstr ""
-"כדי להתקין ערכת נושא, העלה את תיקיית הנושא ל-% 1 $ s בשרת שלך ולאחר מכן רענן "
+"כדי להתקין ערכת נושא, העלה את תיקיית הנושא ל-%1$s בשרת שלך ולאחר מכן רענן "
 "את הדף. לאחר הרענון, העיצוב אמור להופיע ברשימה הבאה: השתמש בלחצן התקנה "
 "בעמודה פעולות כדי להגדיר אותו."
 
@@ -11838,7 +11838,7 @@ msgstr ""
 
 #, php-format
 msgid "Week %1$s"
-msgstr "שבוע% 1 $ s"
+msgstr "שבוע%1$s"
 
 msgid "Receive Email Notifications?"
 msgstr "לקבל הודעות אימייל?"
@@ -11882,7 +11882,7 @@ msgstr "יומן אישי"
 
 #, php-format
 msgid "All Day%1$s Events"
-msgstr "כל היומיים% 1 $ s אירועים"
+msgstr "כל היומיים%1$s אירועים"
 
 msgid "General Alarm!"
 msgstr "אזעקה כללי!"
@@ -11891,7 +11891,7 @@ msgid "N/A"
 msgstr "N / A"
 
 msgid "You have received a notification on %1$s at %2$s (%3$s %4$s)"
-msgstr "קיבלת הודעה ב-% 1 $ s בכתובת% 2 $ s (% 3 $ s% 4 $ s)"
+msgstr "קיבלת הודעה ב-%1$s בכתובת%2$s (%3$s%4$s)"
 
 msgid "Quick File Upload"
 msgstr "העלאת קובץ מהירה"
@@ -12105,7 +12105,7 @@ msgstr "הקצאות תקציב"
 
 #, php-format
 msgid "Numeric value in %1$s."
-msgstr "ערך מספרי ב-% 1 $ s."
+msgstr "ערך מספרי ב-%1$s."
 
 msgid "Numeric value."
 msgstr "ערך מספרי."
@@ -12230,7 +12230,7 @@ msgstr "תקציב"
 
 #, php-format
 msgid "%1$s expense requests in current view"
-msgstr "% 1 $ s בקשות בחשבון בתצוגה הנוכחית"
+msgstr "%1$s בקשות בחשבון בתצוגה הנוכחית"
 
 msgid "Reimbursement"
 msgstr "החזר"
@@ -12338,12 +12338,12 @@ msgstr "אשר"
 
 #, php-format
 msgid "Your expense request for \"%1$s\" in budget \"%2$s\" has been rejected."
-msgstr "בקשת ההוצאות שלך עבור \"% 1 $ s\" בתקציב \"% 2 $ s\" נדחתה."
+msgstr "בקשת ההוצאות שלך עבור \"%1$s\" בתקציב \"%2$s\" נדחתה."
 
 #, php-format
 msgid ""
 "A newly approved expense (%1$s) needs to be purchased from budget \"%2$s\"."
-msgstr "יש לרכוש הוצאה חדשה שאושרה (% 1 $ s) מתקציב \"% 2 $ s\"."
+msgstr "יש לרכוש הוצאה חדשה שאושרה (%1$s) מתקציב \"%2$s\"."
 
 msgid ""
 "The Purchasing Officer has been alerted, and will purchase the item on your "
@@ -12353,7 +12353,7 @@ msgstr "קונה רכש התראה, וכן לרכוש את הפריט בשמך."
 #, php-format
 msgid ""
 "Your expense request for \"%1$s\" in budget \"%2$s\" has been fully approved."
-msgstr "בקשת ההוצאות שלך עבור \"% 1 $ s\" בתקציב \"% 2 $ s\" אושרה במלואה."
+msgstr "בקשת ההוצאות שלך עבור \"%1$s\" בתקציב \"%2$s\" אושרה במלואה."
 
 msgid "Edit Expense"
 msgstr "ערוך את ההוצאות"
@@ -12368,7 +12368,7 @@ msgstr "החזר תגובה"
 msgid ""
 "Your reimbursement expense request for \"%1$s\" in budget \"%2$s\" has been "
 "completed."
-msgstr "הבקשה להוצאת החזר בגין \"% 1 $ s\" בתקציב \"% 2 $ s\" הושלמה."
+msgstr "הבקשה להוצאת החזר בגין \"%1$s\" בתקציב \"%2$s\" הושלמה."
 
 msgid "Print Expense"
 msgstr "הוצאות הדפסה"
@@ -12412,7 +12412,7 @@ msgstr "תוכניות בארכיון"
 
 #, php-format
 msgid "Assess %1$s?"
-msgstr "להעריך% 1 $ s?"
+msgstr "להעריך%1$s?"
 
 msgid "Assess Attainment?"
 msgstr "להעריך הישג?"
@@ -12450,13 +12450,13 @@ msgid ""
 "\"smart blockify\" an existing unit."
 msgstr ""
 "פונקציה זו מאפשרת לך לקחת את כל תוכן השיעור (פרטים ותגובות המורה) מיחידת "
-"העבודה שנבחרה (% 1 $ s ב-% 2 $ s) ולהשתמש בהם כדי ליצור בלוקים חכמים חדשים "
+"העבודה שנבחרה (%1$s ב-%2$s) ולהשתמש בהם כדי ליצור בלוקים חכמים חדשים "
 "ביחידת הבסיס, ולאחר מכן להשתמש בהם כדי להחליף את התוכן המקורי ביחידת העבודה. "
 "בדרך זו ניתן QuickL \"חכם לחסום\" יחידה קיימת."
 
 #, php-format
 msgid "File %1$s"
-msgstr "קובץ% 1 $ s"
+msgstr "קובץ%1$s"
 
 msgid "Student's Teachers"
 msgstr "מורים של תלמידים"
@@ -12490,7 +12490,7 @@ msgid ""
 "Your request failed because you do not meet the minimum age for joining this "
 "site (%1$s years of age)."
 msgstr ""
-"הבקשה שלך נכשלה משום שאינך עומד בגיל המינימלי להצטרפות לאתר זה (% 1 $ s שנות "
+"הבקשה שלך נכשלה משום שאינך עומד בגיל המינימלי להצטרפות לאתר זה (%1$s שנות "
 "גיל)."
 
 msgid ""
@@ -12521,7 +12521,7 @@ msgstr "נעל!"
 
 #, php-format
 msgid "The current class (%1$s.%2$s) has already been selected."
-msgstr "המחלקה הנוכחית (% 1 $ s.% 2 $ s) כבר נבחרה."
+msgstr "המחלקה הנוכחית (%1$s.%2$s) כבר נבחרה."
 
 msgid "Assessment Complete?"
 msgstr "הערכה מלאה?"
@@ -12530,7 +12530,7 @@ msgid "Field Values"
 msgstr "ערכי שדות"
 
 msgid "Online submission is %1$s for this homework."
-msgstr "הגשת מקוון היא% 1 $ s לשיעורי הבית."
+msgstr "הגשת מקוון היא%1$s לשיעורי הבית."
 
 msgid "8A (highest) to B3 (lowest)"
 msgstr "8A (הגבוה ביותר) ל- B3 (הנמוך ביותר)"
@@ -12690,7 +12690,7 @@ msgstr "סקריפט CLI של Planner פועל."
 
 #, php-format
 msgid "A User Admin CLI script has run, updating %1$s users."
-msgstr "סקריפט משתמש של ממשק המשתמש CLI פועל, תוך עדכון משתמשים% 1 $ s."
+msgstr "סקריפט משתמש של ממשק המשתמש CLI פועל, תוך עדכון משתמשים%1$s."
 
 msgid "Fast Finder"
 msgstr "חיפוש מהיר"
@@ -12722,7 +12722,7 @@ msgid ""
 "config.php and %1$stry again%2$s."
 msgstr ""
 "אירעו שגיאות באכלוס מסד הנתונים; ריק את מסד הנתונים שלך, להסיר ../config.php "
-"ו% 1 $ stry שוב% 2 $ s."
+"ו%1$stry שוב%2$s."
 
 #, fuzzy
 msgid "{person} failed to login to account {username} 3 times in a row."
@@ -12789,7 +12789,7 @@ msgstr "נדרש - אישור נדרש"
 msgid ""
 "{person} has commented on your expense request for {title} in budget "
 "{budgetName}."
-msgstr "מישהו הגיב על בקשת ההוצאות שלך עבור \"% 1 $ s\" בתקציב \"% 2 $ s\"."
+msgstr "מישהו הגיב על בקשת ההוצאות שלך עבור \"%1$s\" בתקציב \"%2$s\"."
 
 msgid "Paid - Partial"
 msgstr "- חלקי"
@@ -12823,7 +12823,7 @@ msgstr "יומן תשלומים"
 
 #, php-format
 msgid "Receipt %1$s"
-msgstr "קבלה% 1 $ s"
+msgstr "קבלה%1$s"
 
 msgid "Payment Event"
 msgstr "אירוע תשלום"
@@ -12924,8 +12924,8 @@ msgid ""
 "backup all data before you proceed%4$s."
 msgstr ""
 "על ידי לחיצה על הלחצן \"המשך\" בהמשך, תתחיל את מעבר ההרשמה של הקורס מ-% 1 $ "
-"s ל-% 2 $ s. בבית ספר גדול פעולה זו עשויה לקחת קצת זמן כדי להשלים. % 3 $ s "
-"מומלץ מאוד לגבות את כל הנתונים לפני שתמשיך ב-% 4 $ s."
+"s ל-%2$s. בבית ספר גדול פעולה זו עשויה לקחת קצת זמן כדי להשלים. %3$s "
+"מומלץ מאוד לגבות את כל הנתונים לפני שתמשיך ב-%4$s."
 
 msgid "Include Students"
 msgstr "כלול סטודנטים"
@@ -13033,7 +13033,7 @@ msgstr "ערוך שדה מותאם אישית"
 
 #, fuzzy, php-format
 msgid "A new public registration, for %1$s, is pending approval."
-msgstr "רישום ציבורי חדש, עבור% 1 $ s, ממתין לאישור."
+msgstr "רישום ציבורי חדש, עבור%1$s, ממתין לאישור."
 
 msgid "Return to"
 msgstr "לחזור ל"
@@ -13043,7 +13043,7 @@ msgid ""
 "If you do not wish to receive email notifications from %1$s, please "
 "%2$sclick here%3$s to adjust your preferences:"
 msgstr ""
-"אם אינך מעוניין לקבל הודעות אימייל מ-% 1 $ s, אנא לחץ% 2 $ כאן% 3 $ s כדי "
+"אם אינך מעוניין לקבל הודעות אימייל מ-%1$s, אנא לחץ% 2 $ כאן%3$s כדי "
 "לשנות את ההעדפות שלך:"
 
 msgid "Invoices Not Yet Generated"
@@ -13058,12 +13058,12 @@ msgid ""
 "invoice)."
 msgstr ""
 "הרשימה שלהלן מציגה תלמידים שהתקבלו לפעילות בשנה הנוכחית, שעדיין לא היו להם "
-"חשבוניות שנוצרו עבורם. תוכל ליצור חשבוניות לתזמון% 1 $ sBilling% 2 $ s, או "
+"חשבוניות שנוצרו עבורם. תוכל ליצור חשבוניות לתזמון%1$sBilling%2$s, או "
 "לדמות יצירה (לדוגמה, לסמן אותן כפי שהן נוצרות, אך למעשה לא להפיק חשבונית)."
 
 #, php-format
 msgid "Generate Invoices To %1$s"
-msgstr "הפק חשבוניות אל% 1 $ s"
+msgstr "הפק חשבוניות אל%1$s"
 
 msgid "Generate Invoice - Simulate"
 msgstr "יצירת חשבונית - סימולציה"
@@ -13073,7 +13073,7 @@ msgstr "חשבוניות שנוצרו"
 
 #, php-format
 msgid "%1$s Days Absent"
-msgstr "% 1 $ s הימים נעדרים"
+msgstr "%1$s הימים נעדרים"
 
 msgid "Your optional extra data failed to save."
 msgstr "הנתונים הנוספים האופציונליים שלך לא נשמרו."
@@ -13149,14 +13149,14 @@ msgid ""
 "permission to do this. Please contact %1$s for help with this issue."
 msgstr ""
 "נקודות תצורה צריך להיות מוגדר לפני השימוש, אבל אין לך הרשאה לעשות את זה. צור "
-"קשר עם% 1 $ s לקבלת עזרה בנושא זה."
+"קשר עם%1$s לקבלת עזרה בנושא זה."
 
 #, php-format
 msgid ""
 "Data Points needs to be configured before use. Please take a look at "
 "%1$sTracking Settings%2$s to set up what data points to use."
 msgstr ""
-"יש להגדיר את נקודות הנתונים לפני השימוש. עיין ב% 1 $ sTracking Settings% 2 $ "
+"יש להגדיר את נקודות הנתונים לפני השימוש. עיין ב%1$sTracking Settings% 2 $ "
 "s כדי להגדיר את נקודות הנתונים לשימוש."
 
 #, php-format
@@ -13175,7 +13175,7 @@ msgid ""
 "are included."
 msgstr ""
 "נקודות הנתונים הוגדרו לייצוא נתוני הערכה מרכזיים מסוימים. עיין ב% 1 $ "
-"sTracking Settings% 2 $ s כדי לשנות את נקודות הנתונים הכלולות."
+"sTracking Settings%2$s כדי לשנות את נקודות הנתונים הכלולות."
 
 msgid ""
 "Use the export button below to prepare your Data Points export for download."
@@ -13205,15 +13205,15 @@ msgstr ""
 
 #, php-format
 msgid "The student has automatically been assigned to %1$s house."
-msgstr "הסטודנט הוקצה אוטומטית לבית% 1 $ s."
+msgstr "הסטודנט הוקצה אוטומטית לבית%1$s."
 
 #, php-format
 msgid ""
 "Login to %1$s and use the notification icon to check your new notification, "
 "or %2$sclick here%3$s."
 msgstr ""
-"היכנס אל% 1 $ s והשתמש בסמל ההתראה כדי לבדוק את ההודעה החדשה, או% 2 $ לחץ כאן"
-"% 3 $ s."
+"היכנס אל%1$s והשתמש בסמל ההתראה כדי לבדוק את ההודעה החדשה, או% 2 $ לחץ כאן"
+"%3$s."
 
 #, fuzzy
 msgid "Attendance By Form Group"
@@ -13221,10 +13221,10 @@ msgstr "נוכחות על ידי קבוצת רול"
 
 #, php-format
 msgid "A student (%1$s) in your form group has received a behaviour letter."
-msgstr "סטודנט (% 1 $ s) בקבוצת הטופס שלך קיבל מכתב התנהגות."
+msgstr "סטודנט (%1$s) בקבוצת הטופס שלך קיבל מכתב התנהגות."
 
 msgid "Behaviour Letter for %1$s via %2$s at %3$s"
-msgstr "מכתב התנהגות עבור% 1 $ s באמצעות% 2 $ s בכתובת% 3 $ s"
+msgstr "מכתב התנהגות עבור%1$s באמצעות%2$s בכתובת%3$s"
 
 msgid "The Behaviour Letter CLI script has run: no emails were sent."
 msgstr "כתב ההתנהגות CLI Script פועל: לא נשלחו הודעות אימייל."
@@ -13234,12 +13234,12 @@ msgid ""
 "The Behaviour Letter CLI script has run: %1$s emails were sent, of which "
 "%2$s failed."
 msgstr ""
-"כתב ההתנהגות של כתב ההתנהגות של CLI מופעל: נשלחו% 1 $ s הודעות דוא\"ל, מתוכם"
-"% 2 $ s נכשלו."
+"כתב ההתנהגות של כתב ההתנהגות של CLI מופעל: נשלחו%1$s הודעות דוא\"ל, מתוכם"
+"%2$s נכשלו."
 
 #, php-format
 msgid "You have an overdue loan item that needs to be returned (%1$s)."
-msgstr "יש לך פריט הלוואה איחור שיש להחזיר (% 1 $ s)."
+msgstr "יש לך פריט הלוואה איחור שיש להחזיר (%1$s)."
 
 msgid "View Behaviour Letters"
 msgstr "הצג מכתבי התנהגות"
@@ -13268,9 +13268,9 @@ msgid ""
 "once certain negative behaviour threshold levels have been reached. In your "
 "letter text you may use the following fields: %4$s"
 msgstr ""
-"על ידי שימוש בתסריט CLI% 2 $ s שכלל% 1 $ s, ניתן להגדיר את% 3 $ s כדי ליצור "
+"על ידי שימוש בתסריט CLI%2$s שכלל%1$s, ניתן להגדיר את%3$s כדי ליצור "
 "באופן אוטומטי ולשלוח מכתבי התנהגות להורים ומורים באופן אוטומטי, לאחר קבלת "
-"רמות סף התנהגותיות מסוימות. בטקסט של המכתב ניתן להשתמש בשדות הבאים:% 4 $ s"
+"רמות סף התנהגותיות מסוימות. בטקסט של המכתב ניתן להשתמש בשדות הבאים:%4$s"
 
 msgid "Analyse"
 msgstr "לנתח"
@@ -13508,7 +13508,7 @@ msgstr "חזרה לא ידועה"
 
 #, php-format
 msgid "You can edit your newly created record %1$shere%2$s."
-msgstr "תוכל לערוך את הרשומה החדשה שלך% 1 $ shere% 2 $ s."
+msgstr "תוכל לערוך את הרשומה החדשה שלך%1$shere%2$s."
 
 msgid "Parent Dashboard"
 msgstr "לוח המחוונים אב"
@@ -13601,7 +13601,7 @@ msgstr ""
 "המשפחה שלך."
 
 msgid "%1$s record(s) in current view"
-msgstr "% 1 $ s רשומות בתצוגה הנוכחית"
+msgstr "%1$s רשומות בתצוגה הנוכחית"
 
 msgid "Bookable As Facility?"
 msgstr "הזמנת כמתקן?"
@@ -13642,15 +13642,15 @@ msgstr "השגת שקלול"
 
 #, php-format
 msgid "Below personalised target of %1$s"
-msgstr "מתחת ליעד מותאם אישית של% 1 $ s"
+msgstr "מתחת ליעד מותאם אישית של%1$s"
 
 #, php-format
 msgid "Equal to or above personalised target of %1$s"
-msgstr "שווה ליעד מותאם אישית של% 1 $ s או מעל"
+msgstr "שווה ליעד מותאם אישית של%1$s או מעל"
 
 #, php-format
 msgid "Class taught by %1$s"
-msgstr "מחלקה בהדרכת% 1 $ s"
+msgstr "מחלקה בהדרכת%1$s"
 
 #, fuzzy
 msgid ""
@@ -13723,13 +13723,13 @@ msgid ""
 "creation of duplicate data about you! Once logged in, you can find the form "
 "under People > Staff in the main menu."
 msgstr ""
-"אם כבר יש לך חשבון עבור% 1 $ s% 2 $ s, התחבר כעת כדי למנוע יצירת נתונים "
+"אם כבר יש לך חשבון עבור%1$s%2$s, התחבר כעת כדי למנוע יצירת נתונים "
 "כפולים לגביך! לאחר הכניסה, תוכל למצוא את הטופס תחת People> Staff בתפריט "
 "הראשי."
 
 #, php-format
 msgid "If you do not have an account for %1$s %2$s, please use the form below."
-msgstr "אם אין לך חשבון עבור% 1 $ s% 2 $ s, השתמש בטופס שלהלן."
+msgstr "אם אין לך חשבון עבור%1$s%2$s, השתמש בטופס שלהלן."
 
 msgid ""
 "If you need to contact the school in reference to this application, please "
@@ -13740,7 +13740,7 @@ msgstr ""
 
 #, php-format
 msgid "Please contact %1$s if you have any questions, comments or complaints."
-msgstr "צור קשר עם% 1 $ s אם יש לך שאלות, הערות או תלונות."
+msgstr "צור קשר עם%1$s אם יש לך שאלות, הערות או תלונות."
 
 msgid ""
 "Your application was successfully submitted. Our Human Resources team will "
@@ -13809,7 +13809,7 @@ msgid "Submit Application Form"
 msgstr "שלח טופס בקשה"
 
 msgid "Job Type: %1$s"
-msgstr "סוג עבודה:% 1 $ s"
+msgstr "סוג עבודה:%1$s"
 
 msgid "Application ID, preferred, surname"
 msgstr "מזהה יישום, מועדף, שם משפחה"
@@ -13842,11 +13842,11 @@ msgstr "חבר צוות חדש דוא\"ל & אתר"
 
 #, php-format
 msgid "Create applicant Email/Websites for %1$s at %2$s"
-msgstr "צור דוא\"ל / אתר אינטרנט של המבקש עבור% 1 $ s ב-% 2 $ s"
+msgstr "צור דוא\"ל / אתר אינטרנט של המבקש עבור%1$s ב-%2$s"
 
 #, php-format
 msgid "Please create the following for new staff member %1$s."
-msgstr "צור את הפרטים הבאים עבור חבר צוות חדש% 1 $ s."
+msgstr "צור את הפרטים הבאים עבור חבר צוות חדש%1$s."
 
 msgid "Job Type"
 msgstr "סוג עבודה"
@@ -13856,14 +13856,14 @@ msgid ""
 "A request to create a applicant email address and/or website address was "
 "successfully sent to %1$s."
 msgstr ""
-"בקשה ליצירת כתובת דוא\"ל ו / או כתובת אתר של המבקש נשלחה בהצלחה ל-% 1 $ s."
+"בקשה ליצירת כתובת דוא\"ל ו / או כתובת אתר של המבקש נשלחה בהצלחה ל-%1$s."
 
 #, php-format
 msgid ""
 "A request to create a applicant email address and/or website address failed. "
 "Please contact %1$s to request these manually."
 msgstr ""
-"בקשה ליצירת כתובת דוא\"ל ו / או כתובת אתר של המבקש נכשלה. צור קשר עם% 1 $ s "
+"בקשה ליצירת כתובת דוא\"ל ו / או כתובת אתר של המבקש נכשלה. צור קשר עם%1$s "
 "כדי לבקש זאת ידנית."
 
 msgid "Applicant could not be created!"
@@ -13907,7 +13907,7 @@ msgstr "מועמד פנימי"
 
 #, php-format
 msgid "An application form has been submitted for %1$s."
-msgstr "טופס בקשה הוגש עבור% 1 $ s."
+msgstr "טופס בקשה הוגש עבור%1$s."
 
 msgid "Request For Reference"
 msgstr "בקשה לעיון"
@@ -13921,10 +13921,10 @@ msgid ""
 "<br/><br/>Please feel free to contact me, should you have any questions in "
 "regard to this matter.%4$sRegards,%4$s%3$s"
 msgstr ""
-"למי זה עשוי להיות מודאג,% 4 $ s הודעת דוא\"ל זו נשלחת ביחס ליישום העבודה של "
-"אדם אשר מינה אותך כשופט:% 1 $ s.% 4 $ s בהערכת הבקשה שלהם לתפקיד של $ 5 $ "
-"אנו מעוניינים לגייס את עזרתך להשלמת טופס ההפניה הבא:% 2 $ s. <br/> <br/> אל "
-"תהסס לפנות אלי, אם יש לך שאלות כלשהן בנושא זה. % 4 $ sRegards,% 4 $ s% 3 $ s"
+"למי זה עשוי להיות מודאג,%4$s הודעת דוא\"ל זו נשלחת ביחס ליישום העבודה של "
+"אדם אשר מינה אותך כשופט:%1$s.%4$s בהערכת הבקשה שלהם לתפקיד של $ 5 $ "
+"אנו מעוניינים לגייס את עזרתך להשלמת טופס ההפניה הבא:%2$s. <br/> <br/> אל "
+"תהסס לפנות אלי, אם יש לך שאלות כלשהן בנושא זה. %4$sRegards,%4$s%3$s"
 
 msgid "Opening Date"
 msgstr "תאריך פתיחה"
@@ -13995,7 +13995,7 @@ msgid ""
 "creation of duplicate data about you! Once logged in, you can find the form "
 "under People > Students in the main menu."
 msgstr ""
-"אם כבר יש לך חשבון עבור% 1 $ s% 2 $ s, התחבר כעת כדי למנוע יצירת נתונים "
+"אם כבר יש לך חשבון עבור%1$s%2$s, התחבר כעת כדי למנוע יצירת נתונים "
 "כפולים לגביך! לאחר הכניסה, תוכל למצוא את הטופס תחת אנשים> סטודנטים בתפריט "
 "הראשי."
 
@@ -14035,10 +14035,10 @@ msgid ""
 "free to contact me, should you have any questions in regard to this matter."
 "%4$sRegards,%4$s%3$s"
 msgstr ""
-"למי זה עשוי להיות מודאג,% 4 $ s דוא\"ל זה נשלח ביחס ליישום של תלמיד הנוכחי "
-"או לשעבר של בית הספר שלך:% 1 $ s.% 4 $ s בהערכת הבקשה שלהם לבית הספר שלנו, "
-"ברצוננו להתגייס עזרתך בהשלמת טופס ההפניה הבא:% 2 $ s. <br/> <br/> אל תהסס "
-"לפנות אלי, אם יש לך שאלות כלשהן בנושא זה.% 4 $ sRegards,% 4 $ s% 3 $ s"
+"למי זה עשוי להיות מודאג,%4$s דוא\"ל זה נשלח ביחס ליישום של תלמיד הנוכחי "
+"או לשעבר של בית הספר שלך:%1$s.%4$s בהערכת הבקשה שלהם לבית הספר שלנו, "
+"ברצוננו להתגייס עזרתך בהשלמת טופס ההפניה הבא:%2$s. <br/> <br/> אל תהסס "
+"לפנות אלי, אם יש לך שאלות כלשהן בנושא זה.%4$sRegards,%4$s%3$s"
 
 msgid ""
 "Uninstall was successful. You will still need to remove the module's files "
@@ -14154,7 +14154,7 @@ msgstr "בחר מתקן"
 
 #, php-format
 msgid "Your tutee, %1$s, has had their privacy settings altered."
-msgstr "המנחה שלך,% 1 $ s, שינה את הגדרות הפרטיות שלו."
+msgstr "המנחה שלך,%1$s, שינה את הגדרות הפרטיות שלו."
 
 msgid "Step 1 - Select ZIP File"
 msgstr "שלב 1 - בחר קובץ ZIP"
@@ -14209,11 +14209,11 @@ msgid ""
 "Import cannot proceed, as the submitted file has a MIME-TYPE of %1$s, and as "
 "such does not appear to be a ZIP file."
 msgstr ""
-"הייבוא ​​אינו יכול להמשיך, שכן לקובץ שנשלח יש MIME-TYPE של% 1 $ s, וככזה אינו "
+"הייבוא ​​אינו יכול להמשיך, שכן לקובץ שנשלח יש MIME-TYPE של%1$s, וככזה אינו "
 "נראה כקובץ ZIP."
 
 msgid "Image %1$s does not appear to be, formatted as JPG or PNG."
-msgstr "התמונה% 1 $ s לא נראית, מעוצבת כ- JPG או PNG."
+msgstr "התמונה%1$s לא נראית, מעוצבת כ- JPG או PNG."
 
 msgid "There was an error uploading photo for user:"
 msgstr "אירעה שגיאה בהעלאת תמונה למשתמש:"
@@ -14230,7 +14230,7 @@ msgid ""
 "Add the line <i>max_input_vars=%1$s</i> to your php.ini file on your server."
 msgstr ""
 "טופס זה גדול מאוד והנתונים יקוצצו, אלא אם תערוך את php.ini. הוסף את השורה "
-"<i> max_input_vars =% 1 $ s </ i> לקובץ php.ini בשרת שלך."
+"<i> max_input_vars =%1$s </ i> לקובץ php.ini בשרת שלך."
 
 msgid "Staff Application Form Settings"
 msgstr "הגדרות טופס בקשה לצוות"
@@ -14264,7 +14264,7 @@ msgid ""
 "the system. Please contact %1$s if you have any questions."
 msgstr ""
 "לא ניתן לעדכן את סטטוס החשבון שלך, ולכן לא תוכל להמשיך להשתמש במערכת. צור "
-"קשר עם% 1 $ s אם יש לך שאלות."
+"קשר עם%1$s אם יש לך שאלות."
 
 msgid ""
 "Your account has been successfully updated. You can now continue to use the "
@@ -14648,7 +14648,7 @@ msgid ""
 "Please feel free to reply to this email should you have any questions.<br/"
 "><br/>%1$s,<br/><br/>%2$s Administrator"
 msgstr ""
-"אל תהסס להשיב לדוא\"ל זה אם יש לך שאלות. <br/> <br/>% 1 $ s, <br/> <br/>% 2 "
+"אל תהסס להשיב לדוא\"ל זה אם יש לך שאלות. <br/> <br/>%1$s, <br/> <br/>% 2 "
 "$ s מנהל"
 
 msgid "Do not include a second parent/guardian"
@@ -14666,7 +14666,7 @@ msgid ""
 msgstr ""
 "%1$s יקר, <br/> <br/> ברוכים הבאים אל %2$s, המערכת של %3$s לניהול מידע על "
 "בית הספר. תוכל לגשת למערכת על ידי מעבר אל %4$s והיכנס באמצעות שם המשתמש החדש "
-"שלך (%5$s) והסיסמה (%6$s). תוכל לקבל מידע נוסף על השימוש ב-% 7 $ s באתר "
+"שלך (%5$s) והסיסמה (%6$s). תוכל לקבל מידע נוסף על השימוש ב-%7$s באתר "
 "התמיכה הרשמי (https://gibbonedu.org/support/parents). <br/> <br/> כדי לשמור "
 "על אבטחת הנתונים שלך, מומלץ מאוד אתה משנה את הסיסמה שלך למשהו שקל לזכור אבל "
 "קשה לנחש. ניתן לעשות זאת באמצעות הדף 'העדפות' לאחר הכניסה (בפינה הימנית "
@@ -14700,8 +14700,8 @@ msgid ""
 "below to continue. This operation cannot be undone: backup your entire "
 "database prior to running the update!"
 msgstr ""
-"נראה שעדכנת את קוד המודול של% 1 $ s לגרסה חדשה, ואתה מוכן לעדכן את מסד "
-"הנתונים שלך מ-% 2 $ s ל-% v $ 3 $ s. <b> לחץ על \"שלח\" למטה כדי להמשיך. "
+"נראה שעדכנת את קוד המודול של%1$s לגרסה חדשה, ואתה מוכן לעדכן את מסד "
+"הנתונים שלך מ-%2$s ל-% v $ 3 $ s. <b> לחץ על \"שלח\" למטה כדי להמשיך. "
 "פעולה זו לא ניתן לבטל: גיבוי מסד הנתונים כולו שלך לפני הפעלת העדכון!"
 
 #, php-format
@@ -14712,7 +14712,7 @@ msgid ""
 "prior to running the update!"
 msgstr ""
 "נראה שעדכנת את קוד הגיבון שלך לגרסה חדשה, ואתה מוכן לעדכן את מסד הנתונים שלך "
-"מ-% 1 $ s ל-% v $ 2 $ s. <b> לחץ על \"שלח\" למטה כדי להמשיך. פעולה זו לא "
+"מ-%1$s ל-% v $ 2 $ s. <b> לחץ על \"שלח\" למטה כדי להמשיך. פעולה זו לא "
 "ניתן לבטל: גיבוי מסד הנתונים כולו שלך לפני הפעלת העדכון!"
 
 #, php-format
@@ -14723,7 +14723,7 @@ msgid ""
 "backup your entire database prior to running the update!"
 msgstr ""
 "נראה שעדכנת את קוד הגיבון שלך לגרסה חדשה, ואתה מוכן לעדכן את מסד הנתונים שלך "
-"מתוך שורה% v $ 1 $ s% 2 $ s ל- v% 3 $ s שורה% 4 $ s. <b> לחץ על \"שלח\" למטה "
+"מתוך שורה% v $ 1 $ s%2$s ל- v%3$s שורה%4$s. <b> לחץ על \"שלח\" למטה "
 "כדי להמשיך. פעולה זו לא ניתן לבטל: גיבוי מסד הנתונים כולו שלך לפני הפעלת "
 "העדכון!"
 
@@ -14752,7 +14752,7 @@ msgstr "דואר SMTP"
 
 #, php-format
 msgid "All classes have been registered today (%1$s)."
-msgstr "כל השיעורים נרשמו היום (% 1 $ s)."
+msgstr "כל השיעורים נרשמו היום (%1$s)."
 
 msgid "Recent Feedback"
 msgstr "משוב לאחרונה"
@@ -14972,20 +14972,20 @@ msgstr "הגדרות תצוגה"
 
 #, php-format
 msgid "%1$s classes have not been registered today (%2$s)."
-msgstr "% 1 $ s מחלקות לא נרשמו היום (% 2 $ s)."
+msgstr "%1$s מחלקות לא נרשמו היום (%2$s)."
 
 msgid ""
 "A warning has been issued for a student (%1$s) in your form group, pending a "
 "behaviour letter."
 msgstr ""
-"הוצגה אזהרה עבור תלמיד (% 1 $ s) בקבוצת הטופס שלך, בהמתנה למכתב התנהגות."
+"הוצגה אזהרה עבור תלמיד (%1$s) בקבוצת הטופס שלך, בהמתנה למכתב התנהגות."
 
 #, php-format
 msgid ""
 "A warning has been issued for a student (%1$s) in one of your classes, "
 "pending a behaviour letter."
 msgstr ""
-"אזהרה נשלחה לסטודנט (% 1 $ s) באחת מהשיעורים שלך, בהמתנה למכתב התנהגות."
+"אזהרה נשלחה לסטודנט (%1$s) באחת מהשיעורים שלך, בהמתנה למכתב התנהגות."
 
 #, fuzzy
 msgid "The list below includes all items assigned during the past week."
@@ -14993,7 +14993,7 @@ msgstr "הרשימה שלהלן כוללת את כל שיעורי הבית שה�
 
 #, fuzzy
 msgid "Please find below a summary of the homework for %1$s."
-msgstr "ראה להלן סיכום של שיעורי הבית עבור% 1 $ s."
+msgstr "ראה להלן סיכום של שיעורי הבית עבור%1$s."
 
 msgid "Curriculum Overview"
 msgstr "סקירה כללית של תכנית הלימודים"
@@ -15280,7 +15280,7 @@ msgstr "שכפל עם המשתתפים"
 
 #, php-format
 msgid "%1$s Day Absent"
-msgstr "% 1 $ s יום נעדר"
+msgstr "%1$s יום נעדר"
 
 msgid "Fee Category"
 msgstr "קטגוריה בתשלום"
@@ -15494,16 +15494,16 @@ msgstr "הוסף אפליקציות מקושרות"
 
 #, php-format
 msgid "Dear Parent%1$sThank you for applying for a student place at %2$s."
-msgstr "הורה נכבד% 1 $ s תודה על הגשת מועמדות למיקום של תלמיד ב-% 2 $ s."
+msgstr "הורה נכבד%1$s תודה על הגשת מועמדות למיקום של תלמיד ב-%2$s."
 
 #, php-format
 msgid ""
 "In the meantime, should you have any questions please contact %1$s at %2$s."
-msgstr "בינתיים, אם יש לך שאלות, צור קשר עם% 1 $ s בכתובת% 2 $ s."
+msgstr "בינתיים, אם יש לך שאלות, צור קשר עם%1$s בכתובת%2$s."
 
 #, php-format
 msgid "%1$s Application Form Confirmation"
-msgstr "אישור טופס בקשה% 1 $ s"
+msgstr "אישור טופס בקשה%1$s"
 
 msgid "First Aid Records"
 msgstr "רשומות עזרה ראשונה"
@@ -15602,7 +15602,7 @@ msgid ""
 "system, and press submit: a unique password reset link will be emailed to "
 "you."
 msgstr ""
-"הזן את שם המשתמש שלך ב-% 1 $ s, או את כתובת האימייל שציינת במערכת, ולחץ על "
+"הזן את שם המשתמש שלך ב-%1$s, או את כתובת האימייל שציינת במערכת, ולחץ על "
 "'שלח': קישור איפוס סיסמה ייחודי יישלח אליך בדוא\"ל."
 
 msgid "Password reset request successfully initiated, please check your email."
@@ -15624,9 +15624,9 @@ msgid ""
 "please ignore this email.%2$sIf you do wish to reset your password, please "
 "use the link below to access the reset form:%2$s%3$s%2$s%4$s"
 msgstr ""
-"בוצעה בקשה לאיפוס סיסמה עבור חשבון% 1 $ s שנרשם לכתובת דוא\"ל זו.% 2 $ אם לא "
+"בוצעה בקשה לאיפוס סיסמה עבור חשבון%1$s שנרשם לכתובת דוא\"ל זו.% 2 $ אם לא "
 "יזמת בקשה זו, התעלם מדוא\"ל זה.% 2 $ אם ברצונך לאפס את הסיסמה, השתמש בקישור "
-"הבא כדי לגשת לטופס האיפוס:% 2 $ s% 3 $ s% 2 $ s% 4 $ s"
+"הבא כדי לגשת לטופס האיפוס:%2$s%3$s%2$s%4$s"
 
 msgid "A Behaviour CLI script has run."
 msgstr "התסריט של CLI התנהגות פועל."
@@ -15634,14 +15634,14 @@ msgstr "התסריט של CLI התנהגות פועל."
 #, php-format
 msgid "A Library Overdue Items CLI script has run, notifying %1$s users."
 msgstr ""
-"פריטים שסופקו על-ידי ספריה CLI script מופעל, תוך מתן הודעה למשתמשים% 1 $ s."
+"פריטים שסופקו על-ידי ספריה CLI script מופעל, תוך מתן הודעה למשתמשים%1$s."
 
 msgid ""
 "Planner Weekly Summary Email: an error (%1$s) occured sending an email to "
 "%2$s."
 msgstr ""
-"סיכום שבועי של Planner הודעת דוא\"ל: שגיאה (% 1 $ s) התעוררה שליחת דוא\"ל אל"
-"% 2 $ s."
+"סיכום שבועי של Planner הודעת דוא\"ל: שגיאה (%1$s) התעוררה שליחת דוא\"ל אל"
+"%2$s."
 
 msgid "Start typing a name..."
 msgstr "התחל להקליד שם..."
@@ -15663,14 +15663,14 @@ msgstr " הצטרף לקהילת הלמידה שלנו."
 msgid ""
 "This alert level occurs when there are more than %1$s events recorded for a "
 "student."
-msgstr "רמת התראה זו מתרחשת כאשר נרשמים יותר מ-% 1 $ s אירועים עבור תלמיד."
+msgstr "רמת התראה זו מתרחשת כאשר נרשמים יותר מ-%1$s אירועים עבור תלמיד."
 
 #, php-format
 msgid ""
 "This alert level occurs when there are between %1$s and %2$s events recorded "
 "for a student."
 msgstr ""
-"רמת התראה זו מתרחשת כאשר קיימים בין% 1 $ s ל-% 2 $ s אירועים שהוקלטו לסטודנט."
+"רמת התראה זו מתרחשת כאשר קיימים בין%1$s ל-%2$s אירועים שהוקלטו לסטודנט."
 
 msgid "Activity Attendance by Date"
 msgstr "פעילות לפי תאריך"
@@ -15841,7 +15841,7 @@ msgstr ""
 
 #, php-format
 msgid "Attendance has been taken for you today. Your current status is: %1$s"
-msgstr "הנוכחות נלקחה עבורכם היום. הסטטוס הנוכחי שלך הוא:% 1 $ s"
+msgstr "הנוכחות נלקחה עבורכם היום. הסטטוס הנוכחי שלך הוא:%1$s"
 
 msgid "Before Start Date"
 msgstr "לפני תאריך ההתחלה"
@@ -15857,7 +15857,7 @@ msgstr "יומן יום מפורט היכן:"
 
 #, php-format
 msgid "%1$s has altered the privacy settings for %2$s."
-msgstr "% 1 $ s שינה את הגדרות הפרטיות עבור% 2 $ s."
+msgstr "%1$s שינה את הגדרות הפרטיות עבור%2$s."
 
 msgid "Issue (Without Email)"
 msgstr "בעיה (ללא אימייל)"
@@ -15901,7 +15901,7 @@ msgstr ""
 
 #, php-format
 msgid "%1$s has added a student note (\"%2$s\") about %3$s."
-msgstr "% 1 $ s הוסיף הערה לתלמיד (\"% 2 $ s\") בערך% 3 $ s."
+msgstr "%1$s הוסיף הערה לתלמיד (\"%2$s\") בערך%3$s."
 
 msgid "Day Column Name"
 msgstr "שם טור יום"
@@ -15933,7 +15933,7 @@ msgstr "סיכום התנהגות יומיומית"
 
 #, php-format
 msgid "%1$s (%2$s) received a report for %3$s from %4$s"
-msgstr "% 1 $ s (% 2 $ s) קיבל דוח עבור% 3 $ s מ-% 4 $ s"
+msgstr "%1$s (%2$s) קיבל דוח עבור%3$s מ-%4$s"
 
 msgid "Students by House"
 msgstr "סטודנטים של בית"
@@ -16071,11 +16071,11 @@ msgstr ""
 
 #, php-format
 msgid "%1$s Class Absent"
-msgstr "% 1 $ s נעדר"
+msgstr "%1$s נעדר"
 
 #, php-format
 msgid "%1$s Classes Absent"
-msgstr "% 1 $ s שיעורים נעדרים"
+msgstr "%1$s שיעורים נעדרים"
 
 msgid "Change All"
 msgstr "שנה הכל"
@@ -16095,15 +16095,15 @@ msgid ""
 "to register yourself as %1$sAbsent%2$s today."
 msgstr ""
 "נראה שאתה מחוץ לבית הספר עכשיו. לחץ על הלחצן שלח למטה כדי לרשום את עצמך בתור"
-"% 1 $ sAbsent% 2 $ s היום."
+"%1$sAbsent%2$s היום."
 
 #, php-format
 msgid ""
 "Welcome back to %1$s. Click the Submit button below to register yourself as "
 "%2$sPresent%3$s today."
 msgstr ""
-"ברוך הבא אל% 1 $ s. לחץ על הלחצן שלח למטה כדי לרשום את עצמך כ-% 2 $ sPresent"
-"% 3 $ s היום."
+"ברוך הבא אל%1$s. לחץ על הלחצן שלח למטה כדי לרשום את עצמך כ-%2$sPresent"
+"%3$s היום."
 
 #, php-format
 msgid ""
@@ -16111,7 +16111,7 @@ msgid ""
 "section of Gibbon. You will see the 50 most recent resources that match the "
 "filters you have used."
 msgstr ""
-"הטבלה הבאה מציגה משאבים משותפים שנלקחו מקטע% 1 $ sPlanner% 2 $ s של גיבון. "
+"הטבלה הבאה מציגה משאבים משותפים שנלקחו מקטע%1$sPlanner%2$s של גיבון. "
 "תראה את 50 המשאבים האחרונים שמתאימים למסננים שבהם השתמשת."
 
 msgid "Type a tag..."
@@ -16186,11 +16186,11 @@ msgstr "מקבל קבצי PDF."
 
 #, php-format
 msgid "%1$s available"
-msgstr "% 1 $ s זמין"
+msgstr "%1$s זמין"
 
 #, php-format
 msgid "%1$s already in use"
-msgstr "% 1 $ s כבר בשימוש"
+msgstr "%1$s כבר בשימוש"
 
 msgid "Generate"
 msgstr "צור"
@@ -16259,7 +16259,7 @@ msgid ""
 "them here. PROCEED WITH CAUTION!"
 msgstr ""
 "הגדרת הסטטוס של שנת הלימודים הנוכחית הנוכחית תשנה את שנת הלימודים הנוכחית% 1 "
-"$ s ל-% 2 $ s. התאמות לשנה האקדמית יכולות להשפיע על הנראות של נתונים חיוניים "
+"$ s ל-%2$s. התאמות לשנה האקדמית יכולות להשפיע על הנראות של נתונים חיוניים "
 "במערכת. מומלץ להשתמש בכלי Rollover ב'מנהל משתמש 'כדי לקדם את שנות הלימודים "
 "במקום לשנות אותם כאן. להמשיך בזהירות!"
 
@@ -16305,11 +16305,11 @@ msgstr "טרום מילוי & ברירות מחדל"
 
 #, php-format
 msgid "Your current IP address (%1$s) is included in the saved list."
-msgstr "כתובת ה- IP הנוכחית שלך (% 1 $ s) כלולה ברשימה השמורה."
+msgstr "כתובת ה- IP הנוכחית שלך (%1$s) כלולה ברשימה השמורה."
 
 #, php-format
 msgid "Your current IP address (%1$s) is not included in the saved list."
-msgstr "כתובת ה- IP הנוכחית שלך (% 1 $ s) אינה נכללת ברשימה השמורה."
+msgstr "כתובת ה- IP הנוכחית שלך (%1$s) אינה נכללת ברשימה השמורה."
 
 msgid "Balance by Gender?"
 msgstr "מאזן לפי מין?"
@@ -16339,7 +16339,7 @@ msgstr "125x125px jpg / png / gif"
 
 #, php-format
 msgid "%1$s has updated the individual needs record for %2$s."
-msgstr "% 1 $ s עדכן את רשומת הצרכים האישית עבור% 2 $ s."
+msgstr "%1$s עדכן את רשומת הצרכים האישית עבור%2$s."
 
 msgid "Add New Assistants"
 msgstr "הוסף עוזרים חדשים"
@@ -16411,7 +16411,7 @@ msgid ""
 "Please feel free to reply to this email should you have any questions.<br/"
 "><br/>%1$s,<br/><br/>%2$s Admissions Administrator"
 msgstr ""
-"אל תהסס להשיב לדוא\"ל זה אם יש לך שאלות. <br/> <br/>% 1 $ s, <br/> <br/>% 2 "
+"אל תהסס להשיב לדוא\"ל זה אם יש לך שאלות. <br/> <br/>%1$s, <br/> <br/>% 2 "
 "$ s הרשאות מנהל"
 
 msgid "There are no student email addresses to send to."
@@ -16424,7 +16424,7 @@ msgstr "אין כתובות אימייל של הורים שאליהן ברצונ
 msgid ""
 "An application form for %1$s (%2$s) has been accepted for the %3$s school "
 "year."
-msgstr "טופס בקשה עבור% 1 $ s (% 2 $ s) התקבל עבור שנת הלימודים% 3 $ s."
+msgstr "טופס בקשה עבור%1$s (%2$s) התקבל עבור שנת הלימודים%3$s."
 
 msgid "Add Form"
 msgstr "הוסף טופס"
@@ -16481,7 +16481,7 @@ msgid ""
 "student counts by house, updated year groups are highlighted in green. Hover "
 "over a number to see the balance by gender."
 msgstr ""
-"% 1 $ s תלמידים הוקצו לבתים. תוצאות אלו כוללות את כל סעיפי התלמידים לפי בית, "
+"%1$s תלמידים הוקצו לבתים. תוצאות אלו כוללות את כל סעיפי התלמידים לפי בית, "
 "קבוצות שנה מעודכנות מודגשות בירוק. העבר את העכבר מעל למספר כדי לראות את "
 "האיזון לפי מין."
 
@@ -16520,19 +16520,19 @@ msgstr "היום הבא"
 
 #, php-format
 msgid "%1$s has registered for the activity %2$s (%3$s)"
-msgstr "% 1 $ s נרשם לפעילות% 2 $ s (% 3 $ s)"
+msgstr "%1$s נרשם לפעילות%2$s (%3$s)"
 
 #, php-format
 msgid "%1$s has withdrawn from the activity %2$s"
-msgstr "% 1 $ s נסוג מהפעילות% 2 $ s"
+msgstr "%1$s נסוג מהפעילות%2$s"
 
 #, php-format
 msgid "Cost (%1$s)"
-msgstr "עלות (% 1 $ s)"
+msgstr "עלות (%1$s)"
 
 #, php-format
 msgid "%1$s Cost (%2$s)"
-msgstr "% 1 $ s מחיר (% 2 $ s)"
+msgstr "%1$s מחיר (%2$s)"
 
 msgid "Entire Programme"
 msgstr "תוכנית שלמה"
@@ -16567,11 +16567,11 @@ msgstr "אם תמחק חריץ זמן, כל השינויים שלא נשמרו �
 
 #, php-format
 msgid "%1$s Finance"
-msgstr "מימון של% 1 $ s"
+msgstr "מימון של%1$s"
 
 #, php-format
 msgid "Email Reminder %1$s"
-msgstr "תזכורת בדוא\"ל% 1 $ s"
+msgstr "תזכורת בדוא\"ל%1$s"
 
 msgid "Self"
 msgstr "עצמי"
@@ -16587,7 +16587,7 @@ msgstr "כרטיס אשראי"
 
 #, php-format
 msgid "Applicant has been successfully accepted into %1$s."
-msgstr "המבקש התקבל בהצלחה לתוך% 1 $ s."
+msgstr "המבקש התקבל בהצלחה לתוך%1$s."
 
 msgid "Download"
 msgstr "הורד"
@@ -16645,7 +16645,7 @@ msgid ""
 "Classes will be matched to Form Groups that fit the specified pattern. "
 "Choose from %1$s. Must contain %2$s"
 msgstr ""
-"הכיתות יותאמו לקבוצות רול המתאימות לדפוס שצוין. בחר מתוך% 1 $ s. חייב להכיל% "
+"הכיתות יותאמו לקבוצות רול המתאימות לדפוס שצוין. בחר מתוך%1$s. חייב להכיל% "
 "2 $ s"
 
 msgid "Database Settings"
@@ -16665,7 +16665,7 @@ msgstr "תתחיל להקליד..."
 
 #, php-format
 msgid "Must be in format %1$s"
-msgstr "חייב להיות בפורמט% 1 $ s"
+msgstr "חייב להיות בפורמט%1$s"
 
 msgid "Unsaved changes will be lost."
 msgstr "שינויים שלא נשמרו יאבדו."
@@ -16685,7 +16685,7 @@ msgstr "בטל"
 
 #, php-format
 msgid "Type %1$s to confirm"
-msgstr "הקלד% 1 $ s כדי לאשר"
+msgstr "הקלד%1$s כדי לאשר"
 
 msgid "DELETE"
 msgstr "DELETE"
@@ -18014,7 +18014,7 @@ msgstr ""
 
 #, php-format
 msgid "Copy %1$s ID"
-msgstr "העתק מזהה% 1 $ s"
+msgstr "העתק מזהה%1$s"
 
 msgid "Must be alphanumeric"
 msgstr "חייב להיות אלפאנומרי"
@@ -18036,11 +18036,11 @@ msgstr "לכלול הורים?"
 
 #, php-format
 msgid "Why not read the messages below, or %1$scheck your email%2$s?"
-msgstr "מדוע אינך קורא את ההודעות למטה, או% 1 $ בודק את הדוא\"ל שלך% 2 $ s?"
+msgstr "מדוע אינך קורא את ההודעות למטה, או% 1 $ בודק את הדוא\"ל שלך%2$s?"
 
 #, php-format
 msgid "Attendance has been taken for you today. Your current status is: %1$s."
-msgstr "הנוכחות נלקחה עבורכם היום. הסטטוס הנוכחי שלך הוא:% 1 $ s."
+msgstr "הנוכחות נלקחה עבורכם היום. הסטטוס הנוכחי שלך הוא:%1$s."
 
 #, fuzzy
 msgid "Activity Choices by Form Group"
@@ -18051,7 +18051,7 @@ msgstr "הסתיים"
 
 #, php-format
 msgid "%1$s has been bumped into activity %2$s"
-msgstr "% 1 $ s נתקלה בפעילות% 2 $ s"
+msgstr "%1$s נתקלה בפעילות%2$s"
 
 msgid "Gibbon Installer"
 msgstr "מתקין גיבון"
@@ -18254,11 +18254,11 @@ msgstr ""
 
 #, php-format
 msgid "Your current default database engine is: %1$s"
-msgstr "מנוע ברירת המחדל הנוכחי של מסד הנתונים הוא:% 1 $ s"
+msgstr "מנוע ברירת המחדל הנוכחי של מסד הנתונים הוא:%1$s"
 
 #, php-format
 msgid "Your current default database engine is: %1$s."
-msgstr "מנוע ברירת המחדל הנוכחי של מסד הנתונים הוא:% 1 $ s."
+msgstr "מנוע ברירת המחדל הנוכחי של מסד הנתונים הוא:%1$s."
 
 msgid ""
 "It is advised that you change your server config so that your default "
@@ -18272,7 +18272,7 @@ msgstr "כל הטבלאות שלך מוגדרות ל- InnoDB. כל הכבוד!"
 
 #, php-format
 msgid "%1$s of your tables are not set to InnoDB."
-msgstr "% 1 $ s בטבלאות שלך אינן מוגדרות ל- InnoDB."
+msgstr "%1$s בטבלאות שלך אינן מוגדרות ל- InnoDB."
 
 msgid ""
 "Click \"Submit\" below to continue. This operation cannot be undone: backup "
@@ -18390,7 +18390,7 @@ msgid ""
 "server and then refresh this page. After refreshing, the language should "
 "appear in the list below."
 msgstr ""
-"כדי להתקין שפה באופן ידני, העלה את תיקיית השפה ל-% 1 $ s בשרת שלך ולאחר מכן "
+"כדי להתקין שפה באופן ידני, העלה את תיקיית השפה ל-%1$s בשרת שלך ולאחר מכן "
 "רענן את הדף. לאחר רענון, השפה צריכה להופיע ברשימה שלהלן."
 
 msgid ""
@@ -18405,7 +18405,7 @@ msgstr "השתמש ברשימה שלהלן כדי להתקין שפה חדשה."
 msgid ""
 "This action will download the required files and place them in the %1$s "
 "folder on your server."
-msgstr "פעולה זו תוריד את הקבצים הדרושים ותציב אותם בתיקייה% 1 $ s בשרת שלך."
+msgstr "פעולה זו תוריד את הקבצים הדרושים ותציב אותם בתיקייה%1$s בשרת שלך."
 
 msgid "Core"
 msgstr "הליבה"
@@ -18454,7 +18454,7 @@ msgstr "סטודנטים בשנה; צוות על ידי מורים וקורסי�
 msgid ""
 "The following message was sent by %1$s on %2$s and delivered to %3$s "
 "recipients."
-msgstr "ההודעה הבאה נשלחה על ידי% 1 $ s ב-% 2 $ s ונמסרה לנמענים% 3 $ s."
+msgstr "ההודעה הבאה נשלחה על ידי%1$s ב-%2$s ונמסרה לנמענים%3$s."
 
 msgid "All Students by Alphabet"
 msgstr "כל התלמידים לפי אלפבית"
@@ -18970,8 +18970,8 @@ msgid ""
 "Parents of students interested in study at %1$s may use our %2$s online form"
 "%3$s to initiate the application process."
 msgstr ""
-"הורים של תלמידים המעוניינים ללמוד ב-% 1 $ s עשויים להשתמש בטופס המקוון% 2 $ s"
-"% 3 $ s כדי להתחיל בתהליך היישום."
+"הורים של תלמידים המעוניינים ללמוד ב-%1$s עשויים להשתמש בטופס המקוון%2$s"
+"%3$s כדי להתחיל בתהליך היישום."
 
 msgid "Couldn't load this tab."
 msgstr "מסגרת לא יכולה לעלות."
@@ -18994,8 +18994,8 @@ msgid ""
 "\\n\\nPlease feel free to reply to this email should you have any questions."
 "\\n\\n%1$s,\\n\\n%2$s Administrator"
 msgstr ""
-"\\ n \\ אל תהסס להשיב לדוא\"ל זה אם יש לך שאלות. \\ n \\ n% 1 $ s, \\ n \\ n"
-"% 2 $ s"
+"\\ n \\ אל תהסס להשיב לדוא\"ל זה אם יש לך שאלות. \\ n \\ n%1$s, \\ n \\ n"
+"%2$s"
 
 msgid ""
 "Dear %1$s,\\n\\nWelcome to %2$s, %3$s's system for managing school "
@@ -19021,10 +19021,10 @@ msgid "Tetanus Within 10 Years"
 msgstr "טטנוס בתוך 10 שנים"
 
 msgid "Phone %1$s Type"
-msgstr "טלפון% 1 $ s סוג"
+msgstr "טלפון%1$s סוג"
 
 msgid "Phone %1$s Country Code"
-msgstr "טלפון% 1 $ s קוד מדינה"
+msgstr "טלפון%1$s קוד מדינה"
 
 msgid "Unique ID for family, according to source system."
 msgstr "מזהה ייחודי למשפחה, על פי מערכת המקור."
@@ -19134,14 +19134,14 @@ msgstr "לא ניתן לבצע את התשלום בכרטיס האשראי של�
 msgid ""
 "Please feel free to %1$sbrowse our departmental information%2$s, to learn "
 "more about %3$s."
-msgstr "אל תהסס% 1 $ לעיין במידע המחלקתי שלנו% 2 $ s, למידע נוסף על% 3 $ s."
+msgstr "אל תהסס% 1 $ לעיין במידע המחלקתי שלנו%2$s, למידע נוסף על%3$s."
 
 msgid ""
 "We are sharing some of our units of study with members of the public, so you "
 "can learn with us. Feel free to %1$sbrowse our public units%2$s."
 msgstr ""
 "אנו משתפים חלק מיחידות הלימוד שלנו עם אנשי הציבור, כך שתוכלו ללמוד איתנו. "
-"אתה מוזמן ל% 1 $ sbrowse את היחידות הציבוריות שלנו% 2 $ s."
+"אתה מוזמן ל%1$sbrowse את היחידות הציבוריות שלנו%2$s."
 
 msgid ""
 "Your payment could not be made as the payment gateway does not support the "
@@ -19368,7 +19368,7 @@ msgid ""
 "Individuals interested in working at %1$s may use our %2$s online form%3$s "
 "to view job openings and begin the recruitment process."
 msgstr ""
-"אנשים המעוניינים לעבוד ב-% 1 $ s עשויים להשתמש בטופס המקוון% 2 $ s% 3 $ s "
+"אנשים המעוניינים לעבוד ב-%1$s עשויים להשתמש בטופס המקוון%2$s%3$s "
 "כדי להציג את מקומות העבודה ולהתחיל בתהליך הגיוס."
 
 msgid "End date must be after this date."
@@ -24799,7 +24799,7 @@ msgstr ""
 msgid ""
 "{person} has replied to a comment on the {homeworkName} for lesson plan "
 "\"{lessonName}\"."
-msgstr ""
+msgstr "מישהו השיב להערה על שיעורי הבית עבור שיעור השיעור \"%1$s\"."
 
 msgid "Include Upcoming Students?"
 msgstr ""
