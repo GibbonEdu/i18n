@@ -429,7 +429,7 @@ msgid ""
 "right) to add a new unit."
 msgstr ""
 "<b> מתכנן </ b> תומך במערכי שיעור מקוונים שניתן לשתף עם תלמידים, הורים "
-"ומורים אחרים. צור את השיעור שלך באופן ידני, או באופן אוטומטי באמצעות% 1 $ "
+"ומורים אחרים. צור את השיעור שלך באופן ידני, או באופן אוטומטי באמצעות%1$s"
 "sSmart יחידות%2$s. תוכניות השיעור מאפשרות שיתוף תוכן הקורס, הקצאת שיעורי "
 "בית והגשה, צ'אט טקסט ונוכחות נוכחות. <br/> <br/> בחר תאריך או מחלקה, באמצעות "
 "התפריט מימין ולאחר מכן לחץ על הלחצן 'הוסף' (מתחת להודעה זו, בצד ימין) כדי "
@@ -649,7 +649,7 @@ msgstr "A"
 
 #, php-format
 msgid "Student has a %1$s alert for behaviour over the past 60 days."
-msgstr "לתלמיד יש התראה של% 1 $ עבור התנהגות במהלך 60 הימים האחרונים."
+msgstr "לתלמיד יש התראה של%1$sעבור התנהגות במהלך 60 הימים האחרונים."
 
 msgid "B"
 msgstr "B"
@@ -1875,7 +1875,7 @@ msgid ""
 "not be found in Gibbon: %1$s. Add the staff into Gibbon and then try the "
 "import again."
 msgstr ""
-"בדיקת צוות נכשלה. העובדים הבאים היו בקובץ הייבוא, אך לא נמצאו בגיבון:% 1 $ "
+"בדיקת צוות נכשלה. העובדים הבאים היו בקובץ הייבוא, אך לא נמצאו בגיבון:%1$s"
 "s. הוסף את הצוות לתוך גיבון ולאחר מכן נסה את הייבוא ​​שוב."
 
 msgid ""
@@ -10778,7 +10778,7 @@ msgstr "הספרייה המכילה את קובצי Gibbon ניתנת לכתיב
 #, php-format
 msgid ""
 "A database connection could not be established. Please %1$stry again%2$s."
-msgstr "לא ניתן ליצור חיבור למסד נתונים. אנא% 1 $ חזור שוב על%2$s."
+msgstr "לא ניתן ליצור חיבור למסד נתונים. אנא%1$sחזור שוב על%2$s."
 
 msgid ""
 "../config.php could not be created, and so the installer cannot proceed."
@@ -10894,7 +10894,7 @@ msgstr "ראה להלן סיכום של שיעורי הבית וההתנהגות
 msgid ""
 "Please %1$sclick here%2$s to confirm that you have received and read this "
 "summary email."
-msgstr "אנא% 1 $ לחץ כאן%2$s כדי לאשר שקיבלת וקראת את הודעת האימייל הזו."
+msgstr "אנא%1$sלחץ כאן%2$s כדי לאשר שקיבלת וקראת את הודעת האימייל הזו."
 
 #, php-format
 msgid "Weekly Planner Summary for %1$s via %2$s at %3$s"
@@ -11055,7 +11055,7 @@ msgid ""
 "If you have recently updated your system files, please check that your "
 "database is up to date in %1$sUpdates%2$s."
 msgstr ""
-"אם עדכנת לאחרונה את קובצי המערכת שלך, בדוק שמסד הנתונים שלך מעודכן ב-% 1 $ "
+"אם עדכנת לאחרונה את קובצי המערכת שלך, בדוק שמסד הנתונים שלך מעודכן ב-%1$s"
 "sUpdates%2$s."
 
 msgid "Notifications"
@@ -11291,7 +11291,7 @@ msgid ""
 "Teacher sync failed. The following classes/teachers (and possibly some "
 "others) had problems: %1$s."
 msgstr ""
-"סנכרון המורה נכשל. למחלקות / למורים הבאים (ואולי גם לאחרים) היו בעיות:% 1 $ "
+"סנכרון המורה נכשל. למחלקות / למורים הבאים (ואולי גם לאחרים) היו בעיות:%1$s"
 "s."
 
 #, fuzzy
@@ -11397,7 +11397,7 @@ msgid ""
 "see or store your credit card details."
 msgstr ""
 "התשלום ניתן באמצעות כרטיס אשראי, באמצעות שער התשלום המאובטח שלנו PayPal. "
-"כאשר תלחץ על 'שלם עכשיו', תועבר לדף% 1 $ שממנו תוכל להשתמש ב- PayPal כדי "
+"כאשר תלחץ על 'שלם עכשיו', תועבר לדף%1$sשממנו תוכל להשתמש ב- PayPal כדי "
 "לבצע תשלום. תוכל להמשיך עם התשלום באמצעות%1$s אם אתה מחובר או לא. במהלך "
 "תהליך זה איננו רואים או שומרים את פרטי כרטיס האשראי שלך."
 
@@ -11497,7 +11497,7 @@ msgstr ""
 "אם בית הספר שלך משתמש ב- Google Apps, תוכל להפעיל כניסה יחידה ולשתף לוח שנה "
 "עם גיבון. תהליך זה עושה שימוש בממשקי ה- API של Google ומאפשר למשתמש לגשת אל "
 "גיבון ללא שם משתמש וסיסמה, בתנאי שכתובת האימייל הרשומה שלהם היא חשבון Google "
-"שאליו יש להם גישה. להנחיות תצורה,% 1 $ לחץ כאן%2$s."
+"שאליו יש להם גישה. להנחיות תצורה,%1$sלחץ כאן%2$s."
 
 #, php-format
 msgid ""
@@ -12923,7 +12923,7 @@ msgid ""
 "take some time to complete. %3$sYou are really, very strongly advised to "
 "backup all data before you proceed%4$s."
 msgstr ""
-"על ידי לחיצה על הלחצן \"המשך\" בהמשך, תתחיל את מעבר ההרשמה של הקורס מ-% 1 $ "
+"על ידי לחיצה על הלחצן \"המשך\" בהמשך, תתחיל את מעבר ההרשמה של הקורס מ-%1$s"
 "s ל-%2$s. בבית ספר גדול פעולה זו עשויה לקחת קצת זמן כדי להשלים. %3$s "
 "מומלץ מאוד לגבות את כל הנתונים לפני שתמשיך ב-%4$s."
 
@@ -13043,7 +13043,7 @@ msgid ""
 "If you do not wish to receive email notifications from %1$s, please "
 "%2$sclick here%3$s to adjust your preferences:"
 msgstr ""
-"אם אינך מעוניין לקבל הודעות אימייל מ-%1$s, אנא לחץ% 2 $ כאן%3$s כדי "
+"אם אינך מעוניין לקבל הודעות אימייל מ-%1$s, אנא לחץ%2$sכאן%3$s כדי "
 "לשנות את ההעדפות שלך:"
 
 msgid "Invoices Not Yet Generated"
@@ -13156,7 +13156,7 @@ msgid ""
 "Data Points needs to be configured before use. Please take a look at "
 "%1$sTracking Settings%2$s to set up what data points to use."
 msgstr ""
-"יש להגדיר את נקודות הנתונים לפני השימוש. עיין ב%1$sTracking Settings% 2 $ "
+"יש להגדיר את נקודות הנתונים לפני השימוש. עיין ב%1$sTracking Settings%2$s"
 "s כדי להגדיר את נקודות הנתונים לשימוש."
 
 #, php-format
@@ -13165,7 +13165,7 @@ msgid ""
 "assessment data. Please contact %1$s if you are not seeing the data you need "
 "here."
 msgstr ""
-"נקודות תצורה הוגדרו כדי לאפשר לך לייצא נתוני הערכה מסוימים. צור קשר עם% 1 $ "
+"נקודות תצורה הוגדרו כדי לאפשר לך לייצא נתוני הערכה מסוימים. צור קשר עם%1$s"
 "s אם אינך רואה את הנתונים הדרושים לך כאן."
 
 #, php-format
@@ -13174,7 +13174,7 @@ msgid ""
 "Please take a look at %1$sTracking Settings%2$s to change what data points "
 "are included."
 msgstr ""
-"נקודות הנתונים הוגדרו לייצוא נתוני הערכה מרכזיים מסוימים. עיין ב% 1 $ "
+"נקודות הנתונים הוגדרו לייצוא נתוני הערכה מרכזיים מסוימים. עיין ב%1$s"
 "sTracking Settings%2$s כדי לשנות את נקודות הנתונים הכלולות."
 
 msgid ""
@@ -13212,7 +13212,7 @@ msgid ""
 "Login to %1$s and use the notification icon to check your new notification, "
 "or %2$sclick here%3$s."
 msgstr ""
-"היכנס אל%1$s והשתמש בסמל ההתראה כדי לבדוק את ההודעה החדשה, או% 2 $ לחץ כאן"
+"היכנס אל%1$s והשתמש בסמל ההתראה כדי לבדוק את ההודעה החדשה, או%2$sלחץ כאן"
 "%3$s."
 
 #, fuzzy
@@ -13665,7 +13665,7 @@ msgid ""
 "Weighted mean of all marked columns using Primary Assessment Scale for %1$s, "
 "if numeric"
 msgstr ""
-"ממוצע משוקלל של כל העמודות המסומנות באמצעות Scale Assessment Scale עבור% 1 $ "
+"ממוצע משוקלל של כל העמודות המסומנות באמצעות Scale Assessment Scale עבור%1$s"
 "s, אם מספרי"
 
 msgid "Choose Class"
@@ -15624,8 +15624,8 @@ msgid ""
 "please ignore this email.%2$sIf you do wish to reset your password, please "
 "use the link below to access the reset form:%2$s%3$s%2$s%4$s"
 msgstr ""
-"בוצעה בקשה לאיפוס סיסמה עבור חשבון%1$s שנרשם לכתובת דוא\"ל זו.% 2 $ אם לא "
-"יזמת בקשה זו, התעלם מדוא\"ל זה.% 2 $ אם ברצונך לאפס את הסיסמה, השתמש בקישור "
+"בוצעה בקשה לאיפוס סיסמה עבור חשבון%1$s שנרשם לכתובת דוא\"ל זו.%2$sאם לא "
+"יזמת בקשה זו, התעלם מדוא\"ל זה.%2$sאם ברצונך לאפס את הסיסמה, השתמש בקישור "
 "הבא כדי לגשת לטופס האיפוס:%2$s%3$s%2$s%4$s"
 
 msgid "A Behaviour CLI script has run."
@@ -15914,7 +15914,7 @@ msgstr "לוח זמנים יום קצר שם"
 
 #, php-format
 msgid "Student has a %1$s alert for academic concern over the past 60 days."
-msgstr "לתלמיד יש התראה של% 1 $ עבור דאגה אקדמית במהלך 60 הימים האחרונים."
+msgstr "לתלמיד יש התראה של%1$sעבור דאגה אקדמית במהלך 60 הימים האחרונים."
 
 msgid ""
 "Configuration Error: there is a problem accessing the current Academic Year "
@@ -18036,7 +18036,7 @@ msgstr "לכלול הורים?"
 
 #, php-format
 msgid "Why not read the messages below, or %1$scheck your email%2$s?"
-msgstr "מדוע אינך קורא את ההודעות למטה, או% 1 $ בודק את הדוא\"ל שלך%2$s?"
+msgstr "מדוע אינך קורא את ההודעות למטה, או%1$sבודק את הדוא\"ל שלך%2$s?"
 
 #, php-format
 msgid "Attendance has been taken for you today. Your current status is: %1$s."
@@ -19134,7 +19134,7 @@ msgstr "לא ניתן לבצע את התשלום בכרטיס האשראי של�
 msgid ""
 "Please feel free to %1$sbrowse our departmental information%2$s, to learn "
 "more about %3$s."
-msgstr "אל תהסס% 1 $ לעיין במידע המחלקתי שלנו%2$s, למידע נוסף על%3$s."
+msgstr "אל תהסס%1$sלעיין במידע המחלקתי שלנו%2$s, למידע נוסף על%3$s."
 
 msgid ""
 "We are sharing some of our units of study with members of the public, so you "
