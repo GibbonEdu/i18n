@@ -21503,400 +21503,401 @@ msgid ""
 "Thank you for your application fee payment. Please find attached a copy of the "
 "payment details for your record."
 msgstr ""
-
 msgid "Send Payment Request"
-msgstr ""
+msgstr "שלח בקשת תשלום"
 
 msgid "A payment has already been made for this application form."
-msgstr ""
+msgstr "תשלום כבר בוצע עבור טופס הבקשה הזה."
 
 msgid "Online payment options are not available at this time."
-msgstr ""
+msgstr "אפשרויות תשלום מקוונות אינן זמינות בשלב זה."
 
 msgid ""
 "A processing fee of {fee} may be sent by email after your application has been "
 "submitted."
-msgstr ""
+msgstr "דמי עיבוד בסך {fee} עשויים להישלח בדוא\"ל לאחר הגשת הבקשה שלך."
 
 msgid "Does your child have any medical conditions or concerns?"
-msgstr ""
+msgstr "האם לילדך יש מצבים רפואיים או דאגות כלשהן?"
 
 msgid "Payment on Submission"
-msgstr ""
+msgstr "תשלום בעת הגשה"
 
 msgid "Payment for Processing"
-msgstr ""
+msgstr "תשלום עבור עיבוד"
 
 msgid ""
-"This page allows a teacher to see every student they've ever taught on a single "
-"page, in reverse chronological order by student age. Only displays students who have "
-"a photo. Hover over a student to see their name."
-msgstr ""
+"This page allows a teacher to see every student they've ever taught on a single page, "
+"in reverse chronological order by student age. Only displays students who have a "
+"photo. Hover over a student to see their name."
+msgstr "עמוד זה מאפשר למורה לראות את כל התלמידים שלימדו בעבר בעמוד אחד, בסדר כרונולוגי הפוך לפי גיל התלמיד. מוצגים רק תלמידים עם תמונה. רחף מעל תלמיד כדי לראות את שמו."
 
 msgid "View Attachment"
-msgstr ""
+msgstr "צפה בקובץ מצורף"
 
 msgid "First Aid Qualified"
-msgstr ""
+msgstr "מוסמך עזרה ראשונה"
 
 msgid "First Aid Qualification"
-msgstr ""
+msgstr "הסמכת עזרה ראשונה"
 
 msgid "Expiry Date"
-msgstr ""
+msgstr "תאריך תפוגה"
 
 msgid ")"
-msgstr ""
+msgstr ")"
 
 msgid ""
 "Students set to non-reportable won't display in reports. Teachers set to non-"
 "reportable won't display in lists of class teachers."
-msgstr ""
+msgstr "תלמידים שהוגדרו כלא מדווחים לא יוצגו בדוחות. מורים שהוגדרו כלא מדווחים לא יוצגו ברשימות המורים בכיתה."
 
 msgid "Date Enrolled"
-msgstr ""
+msgstr "תאריך הרשמה"
 
 msgid "Date Unenrolled"
-msgstr ""
+msgstr "תאריך ביטול הרשמה"
 
 msgid "Select Reports"
-msgstr ""
+msgstr "בחר דוחות"
 
 msgid "This report is in an archive that is not viewable by {roleCategory}."
-msgstr ""
+msgstr "דוח זה נמצא בארכיון שאינו נגיש ל-{roleCategory}."
 
 msgid ""
 "This process will send a templated email to each recipient. To customize this email, "
 "you can edit the template called {templateName} on the {pageLink} page."
+"This process will send a templated email to each recipient. To customize this "
+"email, you can edit the template called {templateName} on the {pageLink} page."
 msgstr ""
+"תהליך זה ישלח דוא\"ל תבניתי לכל נמען. כדי להתאים אישית דוא\"ל זה, ניתן לערוך "
+"את התבנית בשם {templateName} בעמוד {pageLink}."
 
 msgid "No email address found."
-msgstr ""
+msgstr "לא נמצאה כתובת דוא\"ל."
 
 msgid "Sent & Read"
-msgstr ""
+msgstr "נשלח ונקרא"
 
 msgid "Read Online"
-msgstr ""
+msgstr "קרא אונליין"
 
 msgid ""
 "Duplication was successful, however {count} criteria did not match form groups or "
 "courses in the target school year and could not be copied."
-msgstr ""
+msgstr "שכפול הצליח, אך {count} קריטריונים לא התאימו לקבוצות טפסים או לקורסים בשנת הלימודים המיועדת ולא ניתן היה להעתיקם."
 
 msgid "View Online"
-msgstr ""
+msgstr "צפה אונליין"
 
 msgid "Migration Error"
-msgstr ""
+msgstr "שגיאת הגירה"
 
 msgid "Must be a valid hex colour"
-msgstr ""
+msgstr "חייב להיות צבע הקסדצימלי חוקי"
 
 msgid ""
 "This file is missing or empty. It may have failed to upload or is no longer on the "
 "server."
-msgstr ""
+msgstr "קובץ זה חסר או ריק. ייתכן שנכשל בהעלאה או שהוא כבר אינו נמצא בשרת."
 
-msgid ""
-"Clear personal data such as passwords, addresses, phone numbers, id numbers, etc."
-msgstr ""
+msgid "Clear personal data such as passwords, addresses, phone numbers, id numbers, etc."
+msgstr "נקה נתונים אישיים כמו סיסמאות, כתובות, מספרי טלפון, מספרי זיהוי וכו'."
 
-msgid ""
-"Clear student medical records including medical conditions and first aid records."
-msgstr ""
+msgid "Clear student medical records including medical conditions and first aid records."
+msgstr "נקה רשומות רפואיות של תלמידים כולל מצבים רפואיים ורשומות עזרה ראשונה."
 
 msgid ""
 "Clear student finance data including billing information. Invoices will be retained."
-msgstr ""
+msgstr "נקה נתוני כספים של תלמידים כולל פרטי חיוב. חשבוניות יישארו."
 
 msgid ""
 "Clear all behaviour data including positive and negative behaviour records and any "
 "behaviour letters sent to parents."
-msgstr ""
+msgstr "נקה את כל נתוני ההתנהגות כולל רשומות חיוביות ושליליות וכל מכתבי התנהגות שנשלחו להורים."
 
 msgid ""
 "Clear individual needs records including archived records and individual needs "
 "investigations."
-msgstr ""
+msgstr "נקה רשומות צרכים אישיים כולל רשומות מאוחסנות וחקירות צרכים אישיים."
 
 msgid "Clear family data such as address, country, languages and marital status."
-msgstr ""
+msgstr "נקה נתוני משפחה כמו כתובת, מדינה, שפות ומצב משפחתי."
 
 msgid "Clear all personal data submitted through the student application form."
-msgstr ""
+msgstr "נקה את כל הנתונים האישיים שנמסרו דרך טופס בקשת תלמיד."
 
 msgid "Clear all personal data submitted through the staff application form."
-msgstr ""
+msgstr "נקה את כל הנתונים האישיים שנמסרו דרך טופס בקשת צוות."
 
 msgid "in {time}"
-msgstr ""
+msgstr "בתוך {time}"
 
 msgid ""
 "Gibbon uses cookies which are strictly necessary for user account login and basic "
 "session data. It does not track or analyze user behaviour. By continuing to use this "
 "platform, users accept the use of cookies."
-msgstr ""
+msgstr "Gibbon משתמש בעוגיות שהן הכרחיות להתחברות לחשבון משתמש ולנתוני סשן בסיסיים. הוא אינו עוקב או מנתח את התנהגות המשתמשים. בהמשך השימוש בפלטפורמה זו, המשתמשים מקבלים את השימוש בעוגיות."
 
 msgid ""
 "Please submit the following document(s) to ensure your application can be processed "
 "without delay."
-msgstr ""
+msgstr "אנא הגש/י את המסמך(ים) הבא/ים כדי להבטיח שעיבוד הבקשה שלך יתבצע ללא עיכוב."
 
 msgid ""
-"In submitting this form, I confirm that all information provided above is accurate "
-"and complete to the best of my knowledge."
-msgstr ""
+"In submitting this form, I confirm that all information provided above is accurate and "
+"complete to the best of my knowledge."
+msgstr "בשליחת טופס זה, אני מאשר/ת שכל המידע שסופק לעיל נכון ומלא לפי מיטב ידיעתי."
 
 msgid "Invalid number format!"
-msgstr ""
+msgstr "פורמט מספר שגוי!"
 
 msgid "Use hh:mm"
-msgstr ""
+msgstr "השתמש/י ב-hh:mm"
 
 msgid "Use %1$s"
-msgstr ""
+msgstr "השתמש/י ב-%1$s"
 
 msgid "Update All"
-msgstr ""
+msgstr "עדכן הכל"
 
 msgid "Customise"
-msgstr ""
+msgstr "התאם אישית"
 
 msgid ""
 "Our community offers documentation and support forums to help get you up and running "
-"with Gibbon. If you need additional assistance, members of the Gibbon team can "
-"provide expert support. Visit {link} to learn more."
-msgstr ""
+"with Gibbon. If you need additional assistance, members of the Gibbon team can provide "
+"expert support. Visit {link} to learn more."
+msgstr "הקהילה שלנו מציעה תיעוד ופורומי תמיכה שיעזרו לך להתחיל לעבוד עם Gibbon. אם נדרשת עזרה נוספת, חברי צוות Gibbon יכולים לספק תמיכה מקצועית. בקר/י ב-{link} כדי ללמוד עוד."
 
 msgid "Documentation"
-msgstr ""
+msgstr "תיעוד"
 
 msgid ""
 "Our docs provide technical information as well as user guides for Administrators, "
 "Developers, Teachers, and Parents."
-msgstr ""
+msgstr "התיעוד שלנו מספק מידע טכני וכן מדריכים למנהלים, מפתחים, מורים והורים."
 
 msgid "Expert Support"
-msgstr ""
+msgstr "תמיכה מקצועית"
 
 msgid ""
-"Members of the Gibbon team are available to help with your Gibbon needs through Ad "
-"Hoc support or a Support Contract."
-msgstr ""
+"Members of the Gibbon team are available to help with your Gibbon needs through Ad Hoc "
+"support or a Support Contract."
+msgstr "חברי צוות Gibbon זמינים לעזור בצרכים שלך עם Gibbon דרך תמיכה אד-הוק או חוזה תמיכה."
 
 msgid "Value Added License"
-msgstr ""
+msgstr "רישיון ערך מוסף"
 
 msgid ""
-"Gibbon Value Added License, which, via the Query Builder module, gives access to "
-"over 90 useful queries."
-msgstr ""
+"Gibbon Value Added License, which, via the Query Builder module, gives access to over "
+"90 useful queries."
+msgstr "רישיון ערך מוסף של Gibbon, המספק גישה ליותר מ-90 שאילתות שימושיות באמצעות מודול Query Builder."
 
 msgid ""
 "If you need help try asking members of the Gibbon community. Similarly, issues and "
 "bugs can be reported to the forum as well."
-msgstr ""
+msgstr "אם אתה זקוק לעזרה, נסה לשאול חברי קהילת Gibbon. באופן דומה, ניתן לדווח על בעיות ובאגים גם בפורום."
 
 msgid "Support Forums"
-msgstr ""
+msgstr "פורומי תמיכה"
 
 msgid "Do you have a Service Key? View and configure your licenses on the {link} page."
-msgstr ""
+msgstr "האם יש לך מפתח שירות? צפה/י והגדר/י את הרישיונות שלך בעמוד {link}."
 
 msgid "Parent Personal Data"
-msgstr ""
+msgstr "נתונים אישיים של הורה"
 
 msgid "Staff Personal Data"
-msgstr ""
+msgstr "נתונים אישיים של צוות"
 
 msgid "Other Users Personal Data"
-msgstr ""
+msgstr "נתונים אישיים של משתמשים אחרים"
 
 msgid "Student Application Forms"
-msgstr ""
+msgstr "טפסי בקשה לתלמידים"
 
 msgid "Staff Application Forms"
-msgstr ""
+msgstr "טפסי בקשה לצוות"
 
 msgid "MySQL Version"
-msgstr ""
+msgstr "גרסת MySQL"
 
 msgid "Help"
-msgstr ""
+msgstr "עזרה"
 
 msgid "Staff Data"
-msgstr ""
+msgstr "נתוני צוות"
 
 msgid "Update Staff Data"
-msgstr ""
+msgstr "עדכן נתוני צוות"
 
 msgid "This page allows a user to request selected data updates for any staff record."
-msgstr ""
+msgstr "עמוד זה מאפשר למשתמש לבקש עדכוני נתונים נבחרים לכל רשומת צוות."
 
 msgid "This page allows a user to request data updates to their staff record."
-msgstr ""
+msgstr "עמוד זה מאפשר למשתמש לבקש עדכוני נתונים לרשומת הצוות שלו."
 
 msgid "Choose Staff"
-msgstr ""
+msgstr "בחר צוות"
 
 msgid "Staff Data Updates"
-msgstr ""
+msgstr "עדכוני נתוני צוות"
 
 msgid "A staff data update request has been submitted.\n"
-msgstr ""
+msgstr "בקשת עדכון נתוני צוות הוגשה.\n"
 
 msgid "In the past 60 days or upcoming 60 days"
-msgstr ""
+msgstr "ב-60 הימים האחרונים או ב-60 הימים הבאים"
 
 msgid "Student Enrolment by Year Group"
-msgstr ""
+msgstr "רישום תלמידים לפי קבוצת שנת לימודים"
 
 msgid "In 60 Days"
-msgstr ""
+msgstr "בעוד 60 יום"
 
 msgid "60 Days Ago"
-msgstr ""
+msgstr "לפני 60 יום"
 
 msgid "No Change"
-msgstr ""
+msgstr "אין שינוי"
 
 msgid "Attendance Settings"
-msgstr ""
+msgstr "הגדרות נוכחות"
 
 msgid "New Message_formGroups_any"
-msgstr ""
+msgstr "הודעה חדשה_קבוצות טפסים_כללי"
 
 msgid "New Message_formGroups_my"
-msgstr ""
+msgstr "הודעה חדשה_קבוצות טפסים_שלי"
 
 msgid "New Message_formGroups_parents"
-msgstr ""
+msgstr "הודעה חדשה_קבוצות טפסים_הורים"
 
 msgid "Personal Document Settings"
-msgstr ""
+msgstr "הגדרות מסמכים אישיים"
 
 msgid "Personal Document Summary"
-msgstr ""
+msgstr "סיכום מסמכים אישיים"
 
 msgid "Planner Settings"
-msgstr ""
+msgstr "הגדרות מתכנן"
 
 msgid "Update Staff Data_any"
-msgstr ""
+msgstr "עדכן נתוני צוות_כללי"
 
 msgid "Update Staff Data_my"
-msgstr ""
+msgstr "עדכן נתוני צוות_שלי"
 
 msgid "Allows users to create data update request for their staff record."
-msgstr ""
+msgstr "מאפשר למשתמשים ליצור בקשת עדכון נתונים עבור רשומת הצוות שלהם."
 
 msgid "Allows users to view a summary of student personal documents."
-msgstr ""
+msgstr "מאפשר למשתמשים לצפות בסיכום מסמכים אישיים של תלמידים."
 
 msgid "Create staff data update request for any user"
-msgstr ""
+msgstr "צור בקשת עדכון נתוני צוות עבור כל משתמש"
 
 msgid "Manage requests for updates to staff data."
-msgstr ""
+msgstr "נהל בקשות לעדכוני נתוני צוות."
 
 msgid "Manage types of personal documents users can upload."
-msgstr ""
+msgstr "נהל סוגי מסמכים אישיים שמשתמשים יכולים להעלות."
 
 msgid "Take attendance for a teacher's own roll groups"
-msgstr ""
+msgstr "רשום נוכחות עבור קבוצות הנוכחות של המורה"
 
 msgid "View resources"
-msgstr ""
+msgstr "צפה במשאבים"
 
 msgid "View the form groups in which a user's children study."
-msgstr ""
+msgstr "צפה בקבוצות הטפסים שבהן לומדים ילדיו של המשתמש."
 
 msgid "South Sudan"
-msgstr ""
+msgstr "דרום סודן"
 
 msgid "Telephone"
-msgstr ""
+msgstr "טלפון"
 
 msgid "Telephone Number"
-msgstr ""
+msgstr "מספר טלפון"
 
 msgid "Telephone Extension"
-msgstr ""
+msgstr "שלוחה טלפונית"
 
 msgid "Composer Update Required"
-msgstr ""
+msgstr "נדרשת עדכון Composer"
 
 msgid "Enable Parent Dashboard?"
-msgstr ""
+msgstr "הפעל לוח הורה?"
 
 msgid "Enable Staff Dashboard?"
-msgstr ""
+msgstr "הפעל לוח צוות?"
 
 msgid "Enable Student Dashboard?"
-msgstr ""
+msgstr "הפעל לוח תלמיד?"
 
 msgid "Front End Cache"
-msgstr ""
+msgstr "מטמון חזיתי"
 
 msgid "Include Alternate Email?"
-msgstr ""
+msgstr "כלול דוא\"ל חלופי?"
 
 msgid "Public Registration Allowed Domains"
-msgstr ""
+msgstr "דומיינים מותרים לרישום ציבורי"
 
 msgid "Theme Colour"
-msgstr ""
+msgstr "צבע ערכת נושא"
 
 msgid ""
 "Comma-separated list of email address domains allowed when registering. Leave blank "
 "for no restriction."
-msgstr ""
+msgstr "רשימה מופרדת בפסיקים של דומיינים של כתובות דוא\"ל המותרים בעת רישום. השאר ריק ללא מגבלה."
 
 msgid "Should the alternate email field be visible in the Public Registration form?"
-msgstr ""
+msgstr "האם שדה הדוא\"ל החלופי יופיע בטופס הרישום הציבורי?"
 
 msgid "Should the Parent Dashboard be visible to users?"
-msgstr ""
+msgstr "האם לוח ההורה יהיה גלוי למשתמשים?"
 
 msgid "Should the Staff Dashboard be visible to users?"
-msgstr ""
+msgstr "האם לוח הצוות יהיה גלוי למשתמשים?"
 
 msgid "Should the Student Dashboard be visible to users?"
-msgstr ""
+msgstr "האם לוח התלמיד יהיה גלוי למשתמשים?"
 
 msgid "Application Form Accepted"
-msgstr ""
+msgstr "טופס בקשה התקבל"
 
 msgid "Daily Attendance Summary"
-msgstr ""
+msgstr "סיכום נוכחות יומי"
 
 msgid "New Activity Registration"
-msgstr ""
+msgstr "רישום פעילות חדשה"
 
 msgid "New Application Form"
-msgstr ""
+msgstr "טופס בקשה חדש"
 
 msgid "New Negative Record"
-msgstr ""
+msgstr "רשומה שלילית חדשה"
 
 msgid "New Positive Record"
-msgstr ""
+msgstr "רשומה חיובית חדשה"
 
 msgid "New Public Registration"
-msgstr ""
+msgstr "רישום ציבורי חדש"
 
 msgid "Overdue Loan Items"
-msgstr ""
+msgstr "פריטים בהשאלה שעברו תאריך"
 
 msgid "Student Withdrawn"
-msgstr ""
+msgstr "תלמיד פרש"
 
 msgid "Updated Behaviour Record"
-msgstr ""
+msgstr "רשומת התנהגות מעודכנת"
 
 msgid "Updated Individual Needs"
-msgstr ""
+msgstr "צרכים אישיים מעודכנים"
 
 msgid "Updated Privacy Settings"
 msgstr ""
@@ -22127,128 +22128,129 @@ msgstr ""
 
 msgid ""
 "This help page gives a listing of all data sources, core and additional. Data "
-"sources need to be added to the front matter of a template before they are available "
-"within that template. For each data source there is a listing of all available "
-"fields. Some fields are arrays, which require a loop in the template to access the "
-"fields in that array."
+"sources need to be added to the front matter of a template before they are "
+"available within that template. For each data source there is a listing of "
+"all available fields. Some fields are arrays, which require a loop in the "
+"template to access the fields in that array."
 msgstr ""
 
 msgid "Filter by data source name"
-msgstr ""
+msgstr "סנן לפי שם מקור הנתונים"
 
 msgid "Draft reports are not accessible by parents or students."
-msgstr ""
+msgstr "דוחות טיוטה אינם נגישים להורים או לתלמידים."
 
 msgid "Two-sided"
-msgstr ""
+msgstr "דו-צדדי"
 
 msgid "Adds blank pages as required between individual reports."
-msgstr ""
+msgstr "מוסיף עמודים ריקים לפי הצורך בין דוחות בודדים."
 
 msgid "Regular"
-msgstr ""
+msgstr "רגיל"
 
 msgid "Duplicate Template"
-msgstr ""
+msgstr "שכפל תבנית"
 
 msgid "Lesson planned: {name}"
-msgstr ""
+msgstr "שיעור מתוכנן: {name}"
 
 msgid "Add lesson plan"
-msgstr ""
+msgstr "הוסף תוכנית שיעור"
 
 msgid "Installation Complete"
-msgstr ""
+msgstr "ההתקנה הושלמה"
 
 msgid "Error details: {error_message}"
-msgstr ""
+msgstr "פרטי שגיאה: {error_message}"
 
 #, php-format
 msgid ""
 "It is also advisable to follow the %1$sPost-Install and Server Config "
 "instructions%2$s."
-msgstr ""
+msgstr "מומלץ גם לעקוב אחרי ההנחיות ל-%1$sלאחר התקנה וקונפיגורציית שרת%2$s."
 
 msgid "Purple"
-msgstr ""
+msgstr "סגול"
 
 msgid "Blue"
-msgstr ""
+msgstr "כחול"
 
 msgid "Indigo"
-msgstr ""
+msgstr "אינדיגו"
 
 msgid "Green"
-msgstr ""
+msgstr "ירוק"
 
 msgid "Yellow"
-msgstr ""
+msgstr "צהוב"
 
 msgid "Orange"
-msgstr ""
+msgstr "כתום"
 
 msgid "Red"
-msgstr ""
+msgstr "אדום"
 
 msgid "Pink"
-msgstr ""
+msgstr "ורוד"
 
-msgid "Your request failed because your email is not part of the allowed domains."
-msgstr ""
+msgid ""
+"Your request failed because your email is not part of the allowed domains."
+msgstr "הבקשה שלך נכשלה כי כתובת הדוא\"ל שלך אינה חלק מהדומיינים המותרים."
 
 msgid "Email address must be part of the allowed domains."
-msgstr ""
+msgstr "כתובת הדוא\"ל חייבת להיות חלק מהדומיינים המותרים."
 
 msgid "Click to view details"
-msgstr ""
+msgstr "לחץ לצפייה בפרטים"
 
 msgid "Invalid email!"
-msgstr ""
+msgstr "דוא\"ל לא תקין!"
 
 msgid "Name on {document}"
-msgstr ""
+msgstr "שם על {document}"
 
 msgid "{document} Number"
-msgstr ""
+msgstr "מספר {document}"
 
 msgid "Issuing Country"
-msgstr ""
+msgstr "מדינת הנפקה"
 
 msgid "Scanned Copy"
-msgstr ""
+msgstr "עותק סרוק"
 
 msgid "Passport"
-msgstr ""
+msgstr "דרכון"
 
 msgid "Rich Text"
-msgstr ""
+msgstr "טקסט עשיר"
 
 msgid "Checkboxes"
-msgstr ""
+msgstr "תיבות סימון"
 
 msgid "Radio"
-msgstr ""
+msgstr "כפתורי רדיו"
 
 msgid "Colour"
-msgstr ""
+msgstr "צבע"
 
 msgid "Must start with http:// or https://"
-msgstr ""
+msgstr "חייב להתחיל ב-http:// או https://"
 
 msgid "Leaving"
-msgstr ""
+msgstr "עזיבה"
 
 msgid "Student Applications"
-msgstr ""
+msgstr "בקשות תלמידים"
 
 msgid "Staff Applications"
-msgstr ""
+msgstr "בקשות צוות"
 
 msgid "Welcome"
-msgstr ""
+msgstr "ברוך הבא"
 
 msgid "Student Name Conflicts"
-msgstr ""
+msgstr "קונפליקטים בשמות תלמידים"
 
 msgid ""
 "This report checks all comments in a reporting cycle for any other student names "
@@ -22256,163 +22258,164 @@ msgid ""
 msgstr ""
 
 msgid "Read more about how personal data is used, stored and retained at %1$s."
-msgstr ""
+msgstr "קרא עוד על איך נתונים אישיים משמשים, נשמרים ומאוחסנים ב-%1$s."
 
 msgid "School Attendance"
-msgstr ""
+msgstr "נוכחות בית ספרית"
 
 #, php-format
 msgid "A new public registration, for %1$s, is now live."
-msgstr ""
+msgstr "רישום ציבורי חדש עבור %1$s פעיל כעת."
 
 msgid "Ad Hoc Attendance"
-msgstr ""
+msgstr "נוכחות אד הוק"
 
 msgid "Take Ad Hoc Attendance"
-msgstr ""
+msgstr "בצע רישום נוכחות אד הוק"
 
 msgid "Messenger Group"
-msgstr ""
+msgstr "קבוצת מסנג'ר"
 
 msgid "Select Students"
-msgstr ""
+msgstr "בחר תלמידים"
 
 msgid "Active Sessions"
-msgstr ""
+msgstr "סשנים פעילים"
 
 msgid "Duration"
-msgstr ""
+msgstr "משך"
 
 msgid "Last Active"
-msgstr ""
+msgstr "פעילות אחרונה"
 
 msgid "Due at {time} on {date}"
-msgstr ""
+msgstr "מועד ההגשה ב-{time} בתאריך {date}"
 
 msgid "Due Soon"
-msgstr ""
+msgstr "מועד קרוב"
 
 msgid "Row Long Name - as used in the target timetable"
-msgstr ""
+msgstr "שם שורה ארוך - כפי שמשתמשים בו בלוח הזמנים המיועד"
 
 msgid "Space Name - the Gibbon name for the room the lesson takes place in."
-msgstr ""
+msgstr "שם החלל - השם של Gibbon לחדר שבו השיעור מתקיים."
 
 msgid "An new public registration, for %1$s, is pending approval."
-msgstr ""
+msgstr "רישום ציבורי חדש עבור %1$s ממתין לאישור."
 
 msgid "Sort by "
-msgstr ""
+msgstr "מיין לפי"
 
 msgid "Session Timetout"
-msgstr ""
+msgstr "פסק זמן סשן"
 
 msgid "An new public registration, for %1$s, is now live."
-msgstr ""
+msgstr "רישום ציבורי חדש עבור %1$s פעיל כעת."
 
 msgid "Allows users to check report comments for mismatched names."
-msgstr ""
+msgstr "מאפשר למשתמשים לבדוק הערות דוחות לשמות שאינם תואמים."
 
 msgid "Sent by SMS."
-msgstr ""
+msgstr "נשלח באמצעות SMS."
 
 msgid "Not sent by SMS."
-msgstr ""
+msgstr "לא נשלח באמצעות SMS."
 
 msgid "Scope Type"
-msgstr ""
+msgstr "סוג היקף"
 
 msgid "Found Names"
-msgstr ""
+msgstr "שמות שנמצאו"
 
 msgid ""
-"Clear all personal documents such as passports, ID cards, birth certificates and "
-"visas."
-msgstr ""
+"Clear all personal documents such as passports, ID cards, birth certificates "
+"and visas."
+msgstr "נקה את כל המסמכים האישיים כגון דרכונים, תעודות זהות, תעודות לידה ואשרות."
 
 msgid "MAINTENANCE MODE"
-msgstr ""
+msgstr "מצב תחזוקה"
 
 msgid "You have been manually logged out of {system} by a system administrator."
-msgstr ""
+msgstr "התנתקת ידנית מ-{system} על ידי מנהל מערכת."
 
 #, php-format
 msgid ""
 "A warning has been issued for a student (%1$s) in your form group,\n"
 "                                     pending a behaviour letter."
-msgstr ""
+msgstr "אזהרה ניתנה לתלמיד (%1$s) בקבוצת הטפסים שלך,\n                                  ממתין למכתב התנהגות."
 
-msgid "Allows users to take school-wide attendance for ad hoc groups of students."
-msgstr ""
+msgid ""
+"Allows users to take school-wide attendance for ad hoc groups of students."
+msgstr "מאפשר למשתמשים לבצע רישום נוכחות לכל בית הספר עבור קבוצות תלמידים אד הוק."
 
 msgid "Libya"
-msgstr ""
+msgstr "לוב"
 
 msgid "API Password"
-msgstr ""
+msgstr "סיסמת API"
 
 msgid "API Signature"
-msgstr ""
+msgstr "חתימת API"
 
 msgid "API Username"
-msgstr ""
+msgstr "שם משתמש API"
 
 msgid "Custom Imports Folder"
-msgstr ""
+msgstr "תיקיית ייבוא מותאמת אישית"
 
 msgid "Enable Negative Behaviour Letters"
-msgstr ""
+msgstr "הפעל מכתבי התנהגות שליליים"
 
 msgid "Enable Positive Behaviour Letters"
-msgstr ""
+msgstr "הפעל מכתבי התנהגות חיוביים"
 
 msgid "Generic OAuth2 Provider"
-msgstr ""
+msgstr "ספק OAuth2 כללי"
 
 msgid "Maintenance Mode"
-msgstr ""
+msgstr "מצב תחזוקה"
 
 msgid "Maintenance Mode Message"
-msgstr ""
+msgstr "הודעת מצב תחזוקה"
 
 msgid "Microsoft Integration"
-msgstr ""
+msgstr "אינטגרציה עם Microsoft"
 
 msgid "Negative Letter 1 Count"
-msgstr ""
+msgstr "מספר מכתב שלילי 1"
 
 msgid "Negative Letter 2 Count"
-msgstr ""
+msgstr "מספר מכתב שלילי 2"
 
 msgid "Negative Letter 3 Count"
-msgstr ""
+msgstr "מספר מכתב שלילי 3"
 
 msgid "Payment Gateway"
-msgstr ""
+msgstr "שער תשלום"
 
 msgid "Positive Letter 1 Count"
-msgstr ""
+msgstr "מספר מכתב חיובי 1"
 
 msgid "Positive Letter 2 Count"
-msgstr ""
+msgstr "מספר מכתב חיובי 2"
 
 msgid "Positive Letter 3 Count"
-msgstr ""
+msgstr "מספר מכתב חיובי 3"
 
 msgid "Remote CLI Key"
-msgstr ""
+msgstr "מפתח CLI מרוחק"
 
 msgid "A message to display on all pages when maintenance mode is active."
-msgstr ""
+msgstr "הודעה שתוצג בכל העמודים כאשר מצב התחזוקה פעיל."
 
 msgid "After how many positive records should letter 1 be sent?"
-msgstr ""
+msgstr "לאחר כמה רשומות חיוביות יש לשלוח את מכתב 1?"
 
 msgid "After how many positive records should letter 2 be sent?"
-msgstr ""
+msgstr "לאחר כמה רשומות חיוביות יש לשלוח את מכתב 2?"
 
 msgid "After how many positive records should letter 3 be sent?"
-msgstr ""
+msgstr "לאחר כמה רשומות חיוביות יש לשלוח את מכתב 3?"
 
 msgid ""
 "Allow command line scripts to be run remotely using a secure key. The key can be "
