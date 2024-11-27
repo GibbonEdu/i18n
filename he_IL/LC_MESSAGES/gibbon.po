@@ -20,7 +20,7 @@ msgstr "מערכת השעות שלי"
 
 #, fuzzy
 msgid "My Form Group"
-msgstr "התפקיד שלי"
+msgstr "קבוצת המסמכים שלי"
 
 msgid "Error"
 msgstr "שגיאה"
@@ -39,7 +39,7 @@ msgid "There is no content to display"
 msgstr "אין תוכן להצגה"
 
 msgid "Illegal address detected: access denied."
-msgstr "הכתובת אינה תקינה : הגישה נדחתה"
+msgstr "הכתובת אינה תקינה: הגישה נדחתה"
 
 msgid "Your request failed because you do not have access to this action."
 msgstr "בקשתך נדחתה כיוון שאין לך הרשאה לפעולה זו"
@@ -490,7 +490,7 @@ msgid "Must be at least %1$s characters in length."
 msgstr "חייב להיות באורך של %1$s תווים"
 
 msgid "Total Student Enrolment:"
-msgstr "סה\"כ תלמידים רשומים"
+msgstr "סה\"כ תלמידים רשומים:"
 
 msgid "Staff"
 msgstr "צוות"
@@ -575,7 +575,7 @@ msgid "My Classes"
 msgstr "השיעורים שלי"
 
 msgid "Markbook"
-msgstr "markbook"
+msgstr "מרקבוק"
 
 msgid "People"
 msgstr "אנשים"
@@ -712,7 +712,7 @@ msgid "The selected record does not exist, or you do not have access to it."
 msgstr "הרשומה שנבחרה אינה קיימת, או שאין לך גישה אליה."
 
 msgid "Are you sure you want to delete this record?"
-msgstr "אתם בטוחים שאתם רוצים למחוק"
+msgstr "אתם בטוחים שאתם רוצים למחוק?"
 
 msgid ""
 "This operation cannot be undone, and may lead to loss of vital data in your system. "
@@ -764,7 +764,7 @@ msgid "First name as shown in ID documents."
 msgstr "שם פרטי כפי שמופיע בתעודת הזהות"
 
 msgid "Most common name, alias, nickname, etc."
-msgstr "השם הנפוץ ביותר, כינוי, כינוי וכו '"
+msgstr "השם הנפוץ ביותר, כינוי, וכו׳"
 
 msgid "Full name as shown in ID documents."
 msgstr "שם מלא כפי שמופיע בתעודת הזהות"
@@ -3577,7 +3577,7 @@ msgid "Listing Start Date"
 msgstr "תאריך ההתחלה"
 
 msgid "Format:"
-msgstr "בפורמט"
+msgstr "בפורמט:"
 
 msgid "Default: 2 weeks before the end of the current term."
 msgstr "ברירת מחדל: שבועיים לפני סוף המונח הנוכחי."
@@ -8294,7 +8294,7 @@ msgid "Out:"
 msgstr "יצא:"
 
 msgid "In:"
-msgstr "In"
+msgstr "בתוך:"
 
 msgid "Edit Item"
 msgstr "ערוך פריט"
@@ -9094,7 +9094,7 @@ msgstr ""
 "חדשות, פיצול חומר ליחידות קטנות יותר, הניתנות לפריסה למערכי שיעור. כמו גם שדות "
 "מוגדרים מראש כדי למלא, יחידות חכמות לספק תצוגה חזותית של בלוקים התוכן המרכיבות "
 "יחידה. בלוקים עשויים להיות כל סוג של תוכן, כגון דיון, הערכות, עבודה קבוצתית, התוצאה "
-"וכו '"
+"וכו׳"
 
 msgid "Click to create a new block"
 msgstr "לחץ כדי ליצור בלוק חדש"
@@ -13253,7 +13253,7 @@ msgstr ""
 
 #, php-format
 msgid "Sessions Recorded: %s of %s"
-msgstr "פעילויות באתר מוקלטות:% s מתוך% s"
+msgstr "פעילויות באתר מוקלטות: %s מתוך %s"
 
 msgid "Does not match the time slots for this activity."
 msgstr "אינה תואמת את מיקומי הזמן עבור פעילות זו."
@@ -13323,7 +13323,7 @@ msgstr "הזמנת כמתקן?"
 msgid ""
 "Can item be booked via Facility Booking in Timetable? Useful for laptop carts, etc."
 msgstr ""
-"ניתן להזמין פריט באמצעות הזמנת הזמנת לוח זמנים? שימושי עבור עגלות מחשב נייד, וכו '"
+"ניתן להזמין פריט באמצעות הזמנת הזמנת לוח זמנים? שימושי עבור עגלות מחשב נייד, וכו׳"
 
 msgid "Plan Replacement?"
 msgstr "להחליף תוכנית?"
@@ -14269,7 +14269,7 @@ msgid ""
 "Total cumulative weighting is %s. Calculated averages may not be accurate if the "
 "total weighting does not add up to 100%%."
 msgstr ""
-"סה\"כ שקלול מצטבר הוא% s. ממוצעים משוקללים עשויים שלא להיות מדויקים אם המשקל הכולל "
+"סה\"כ שקלול מצטבר הוא%s. ממוצעים משוקללים עשויים שלא להיות מדויקים אם המשקל הכולל "
 "אינו מסתכם ב -100 %%."
 
 #, php-format
@@ -14541,7 +14541,7 @@ msgstr "העתק עמודות"
 #, php-format
 msgid ""
 "This action will copy the following columns from %s.%s to the current class %s.%s "
-msgstr "פעולה זו תעתיק את העמודות הבאות מ-% s.%s לשיעור%s.%s הנוכחי"
+msgstr "פעולה זו תעתיק את העמודות הבאות מ-%s.%s לשיעור%s.%s הנוכחי "
 
 msgid "Target Scale"
 msgstr "סולם יעד"
@@ -14927,11 +14927,11 @@ msgstr "איפוס הסיסמה בוצע בהצלחה: כעת תוכל להיכ�
 
 #, php-format
 msgid "%s Version"
-msgstr "גרסת% s"
+msgstr "גרסת %s"
 
 #, php-format
 msgid "%s requires %s version %s or higher"
-msgstr "% s מחייב% s גירסה% s ומעלה"
+msgstr "‫%s מחייב %s גירסה %s ומעלה"
 
 msgid "System Requirements"
 msgstr "דרישות מערכת"
@@ -15207,7 +15207,7 @@ msgstr "איסוף"
 
 #, php-format
 msgid "Database collation should be set to %s"
-msgstr "יש להגדיר את איסוף הנתונים ל-% s"
+msgstr "יש להגדיר את איסוף הנתונים ל-%s"
 
 msgid "PHP Extensions"
 msgstr "הרחבות PHP"
@@ -15227,8 +15227,8 @@ msgid ""
 "Configuration values can be set in your system %s file. On shared host, use %s to "
 "set php settings."
 msgstr ""
-"ניתן להגדיר ערכי תצורה בקובץ% s של המערכת. במחשב מארח משותף, השתמש ב-% s להגדרת "
-"הגדרות php."
+"ניתן להגדיר ערכי תצורה בקובץ%s של המערכת. במחשב מארח משותף, השתמש ב-%s להגדרת הגדרות "
+"php."
 
 msgid "File Permissions"
 msgstr "הרשאות קבצים"
@@ -15238,7 +15238,7 @@ msgstr "המערכת אינה ניתנת לכתיבה פומבית"
 
 #, php-format
 msgid "%s files checked (%s publicly writeable)"
-msgstr "% s קבצים מסומנים (% s ניתנים לצפייה)"
+msgstr "‫%s קבצים מסומנים (%s ניתנים לצפייה)"
 
 msgid "Uploads folder server writeable"
 msgstr "שרת תיקיות העלאות ניתן לכתוב"
@@ -18897,7 +18897,7 @@ msgid "Swahili"
 msgstr "סוואהילית"
 
 msgid "Swedish "
-msgstr "שוודית"
+msgstr " שוודית"
 
 msgid "Tamil"
 msgstr "טמילית"
@@ -24247,7 +24247,7 @@ msgstr ""
 msgid ""
 "{person} has replied to a comment on the {homeworkName} for lesson plan "
 "\"{lessonName}\"."
-msgstr "מישהו השיב להערה על שיעורי הבית עבור שיעור השיעור \"%1$s\"."
+msgstr "{person} השיב להערה על {homeworkName} עבור השיעור \"{lessonName}\"."
 
 msgid "Include Upcoming Students?"
 msgstr ""
