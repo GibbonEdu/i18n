@@ -465,6 +465,7 @@ __('Created By');
 // System built-in strings
 __('Please select...');
 __('This page requires you to be logged in to access it. Please login and try again.');
+__('Your application was successfully submitted. Please read the information in the green box above the application form for additional information.');
 
 //DYNAMIC: OVERWRITE FROM DATABASE
 // gibbonAction - category
