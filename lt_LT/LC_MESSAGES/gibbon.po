@@ -334,7 +334,9 @@ msgid "Level"
 msgstr "Lygis"
 
 msgid "Teacher"
-msgstr "Mokytojas"
+msgid_plural "Teachers"
+msgstr[0] "Mokytojas"
+msgstr[1] ""
 
 msgid "Date Updated"
 msgstr "Atnaujinimo data"
@@ -26634,4 +26636,214 @@ msgid "Custom API Scopes"
 msgstr ""
 
 msgid "Leave this blank unless you have specific API scopes you need to set."
+msgstr ""
+
+msgid "A Petty Cash CLI script has run, sending {count} emails."
+msgstr ""
+
+msgid "Petty Cash"
+msgstr ""
+
+msgid "Allows users to track basic payments and refunds of petty cash."
+msgstr ""
+
+msgid "Montenegro"
+msgstr ""
+
+msgid "Serbia, Republic of"
+msgstr ""
+
+msgid "Default Action Required"
+msgstr ""
+
+msgid "Observation Descriptors"
+msgstr ""
+
+msgid "Petty Cash Reasons"
+msgstr ""
+
+msgid "Success Message"
+msgstr ""
+
+msgid "Allowable choices for observation behaviour"
+msgstr ""
+
+msgid "Customised text to display when an application is succesfully submitted"
+msgstr ""
+
+msgid "New Observation Record"
+msgstr ""
+
+msgid "Petty Cash Notification"
+msgstr ""
+
+#, php-format
+msgid ""
+"Your PHP environment cannot handle all of the fields in this form (the "
+"current limit is %1$s). Ask your web host or system administrator to "
+"increase the value of the max_input_vars in php.ini to at least %2$s and try "
+"again."
+msgstr ""
+
+msgid "Bookable"
+msgstr ""
+
+msgid "Needs Repaid"
+msgstr ""
+
+msgid "Needs Refunded"
+msgstr ""
+
+msgid ""
+"This action is not possible for the selected record. Please check the status "
+"in the Lending & Activity Log."
+msgstr ""
+
+msgid "Other Items"
+msgstr ""
+
+msgid "Owned"
+msgstr ""
+
+msgid "Unreserve"
+msgstr ""
+
+msgid "Quick Lend"
+msgstr ""
+
+msgid "School ID or ISBN"
+msgstr ""
+
+msgid "SignOut"
+msgstr ""
+
+msgid "Add Recipients"
+msgstr ""
+
+msgid "Your request failed due to an error."
+msgstr ""
+
+msgid "Also add parents of any selected students as new recipients."
+msgstr ""
+
+msgid "Resend Email?"
+msgstr ""
+
+msgid "Automatically resend the original email to new recipients."
+msgstr ""
+
+msgid ""
+"Recipients who may not have received the original email since they were "
+"added later or due to a delivery issue are highlighted in orange."
+msgstr ""
+
+msgid ""
+"Warning: You have included [confirmLink] in your message text, however read "
+"receipts have not been turned on for this message. Please enable read "
+"receipts to use the [confirmLink] feature, otherwise this tag will be "
+"automatically removed from your email."
+msgstr ""
+
+msgid ""
+"This tool enables you to run processes on the application form to perform "
+"tasks, such as sending emails. These tasks are generally performed "
+"automatically when the form is submitted or accepted, however you can also "
+"manually run them here."
+msgstr ""
+
+msgid "Processed"
+msgstr ""
+
+msgid "Not Processed"
+msgstr ""
+
+msgid "Date of payment, not entry to system"
+msgstr ""
+
+msgid "Final amount paid"
+msgstr ""
+
+msgid "Staff who made, or arranged, the payment"
+msgstr ""
+
+msgid "Transaction ID to identify this payment"
+msgstr ""
+
+msgid ""
+"This page allows you to create and manage expense requests, which will be "
+"submitted for approval to the relevant individuals. You will be notified "
+"when a request has been approved."
+msgstr ""
+
+msgid "Add Transaction"
+msgstr ""
+
+msgid "Edit Transaction"
+msgstr ""
+
+msgid "Action Required"
+msgstr ""
+
+msgid ""
+"Does this amount need to be repaid by the person, or refunded to them by the "
+"school?"
+msgstr ""
+
+msgid "Preferred name, surname, username"
+msgstr ""
+
+msgid "Total petty cash needing repaid (in this list): {total}"
+msgstr ""
+
+msgid "Repaid"
+msgstr ""
+
+msgid "Observation"
+msgstr ""
+
+msgid "Observation Count"
+msgstr ""
+
+msgid "Manage Fonts"
+msgstr ""
+
+msgid "Name, type, category."
+msgstr ""
+
+msgid "Set to Active"
+msgstr ""
+
+msgid "Set to Inactive"
+msgstr ""
+
+msgid "Assets"
+msgstr ""
+
+msgid "A3"
+msgstr ""
+
+msgid "Booking"
+msgstr ""
+
+msgid "Not Reportable"
+msgstr ""
+
+msgid "You have not provided appropriate database info."
+msgstr ""
+
+msgid "Custom Colour"
+msgstr ""
+
+msgid ""
+"Send an email to the student and/or parent once the form has been accepted."
+msgstr ""
+
+msgid ""
+"Your request failed because your session authentication has expired. Please "
+"log out and log in again."
+msgstr ""
+
+msgid ""
+"Your request failed because this form has already been submitted. Please "
+"avoid using the back button on your browser."
 msgstr ""
