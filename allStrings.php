@@ -38078,7 +38078,7 @@ return array (
     ),
     6346 => 
     array (
-      'term' => 'This page outputs a large amount of information about the your server\'s configuration. This is useful for troubleshooting and debugging.',
+      'term' => 'This page outputs a large amount of information about your server\'s configuration. This is useful for troubleshooting and debugging.',
       'definition' => NULL,
       'context' => '',
     ),
