@@ -5,25 +5,24 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "X-Generator: POEditor.com\n"
 "Project-Id-Version: Gibbon\n"
-"Language: bn\n"
+"Language: bg\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 
 #: 
 msgid "Today's Lessons"
-msgstr "অাজকের পাঠ্যক্রম"
+msgstr "Днешни уроци"
 
 #: 
 msgid "My Timetable"
-msgstr "আমার টাইম টেবিল"
+msgstr "Моят график"
 
 #: 
-#, fuzzy
 msgid "My Form Group"
-msgstr "আমার রোল গ্রুপ"
+msgstr "Моята Паралелка"
 
 #: 
 msgid "Error"
-msgstr "ভূল"
+msgstr "Грешка"
 
 #: 
 msgid "If you cannot solve this problem by retyping the address, or through other means, please contact your system administrator."
@@ -55,27 +54,27 @@ msgstr "Начало"
 
 #: 
 msgid "Password Reset"
-msgstr "পাসওয়ার্ড রিসেট"
+msgstr "Смяна на парола"
 
 #: 
 msgid "Submit"
-msgstr "জমা"
+msgstr "Изпрати"
 
 #: 
 msgid "Reset Password"
-msgstr "পাসওয়ার্ড রিসেট করুন"
+msgstr "Смяна на паролата"
 
 #: 
 msgid "Current Password"
-msgstr "বর্তমান পাসওয়ার্ড"
+msgstr "Текуща парола"
 
 #: 
 msgid "New Password"
-msgstr "নতুন পাসওয়ার্ড"
+msgstr "Нова парола"
 
 #: 
 msgid "Confirm New Password"
-msgstr "নতুন পাসওয়ার্ড নিশ্চিত করুন"
+msgstr "Потвърдете новата парола"
 
 #: 
 msgid "denotes a required field"
