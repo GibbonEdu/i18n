@@ -1083,7 +1083,7 @@ __('Allows users to check, for a group of students, how recently they have been 
 __('Allows users to check, for active families, how recently they have been updated.');
 __('Allows users to contribute teaching strategies to IN records for all students');
 __('Allows users to create a list of spaces and rooms in the school');
-__('Allows users to create ands edit thier own calendar events.');
+__('Allows users to create and edit thier own calendar events.');
 __('Allows users to create data update request for their staff record.');
 __('Allows users to create, edit and delete budgets.');
 __('Allows users to create, edit and delete fee categories.');

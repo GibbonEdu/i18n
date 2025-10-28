@@ -5478,12 +5478,6 @@ return array (
       'definition' => NULL,
       'context' => '',
     ),
-    913 => 
-    array (
-      'term' => 'Tetanus',
-      'definition' => NULL,
-      'context' => '',
-    ),
     914 => 
     array (
       'term' => '10 Years',
@@ -5517,12 +5511,6 @@ return array (
     919 => 
     array (
       'term' => 'Medication Details',
-      'definition' => NULL,
-      'context' => '',
-    ),
-    920 => 
-    array (
-      'term' => 'Tetanus Within Last 10 Years?',
       'definition' => NULL,
       'context' => '',
     ),
@@ -17385,12 +17373,6 @@ return array (
     2897 => 
     array (
       'term' => 'Do not contact by SMS.',
-      'definition' => NULL,
-      'context' => '',
-    ),
-    2898 => 
-    array (
-      'term' => 'Tetanus Last 10 Years?',
       'definition' => NULL,
       'context' => '',
     ),
@@ -32904,12 +32886,6 @@ return array (
       'definition' => NULL,
       'context' => '',
     ),
-    5484 => 
-    array (
-      'term' => 'Tetanus Within 10 Years',
-      'definition' => NULL,
-      'context' => '',
-    ),
     5485 => 
     array (
       'term' => 'Phone %1$s Type',
@@ -44512,7 +44488,7 @@ return array (
     ),
     7418 => 
     array (
-      'term' => 'Allows users to create ands edit thier own calendar events.',
+      'term' => 'Allows users to create and edit thier own calendar events.',
       'definition' => NULL,
       'context' => '',
     ),
