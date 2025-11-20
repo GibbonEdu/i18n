@@ -496,7 +496,7 @@ msgstr "<b>Les unitats intel·ligents</b> us donen suport en el disseny del cont
 
 #: 
 msgid "<b>Planner</b> supports online lesson plans which can be shared with students, parents and other teachers. Create your lesson by hand, or automatically via %1$sSmart Units%2$s. Lesson plans facilitate sharing of course content, homework assignment and submission, text chat, and attendance taking.<br/><br/>Choose a date or class, using the menu on the right, and then click on the \"Add\" button (below this message, on the right) to add a new unit."
-msgstr "<b>El Planificador</b> admet plans de lliçons en línia que es poden compartir amb estudiants, pares i altres professors. Creeu la lliçó a mà o automàticament a través de %1$sSmart Units%2$s. Els plans de lliçó faciliten la compartició del contingut del curs, l'assignació de tasques i la tramesa, el xat de text i la presa d'assistència.<br/><br/>Trieu una data o classe, utilitzant el menú de la dreta, i després feu clic al botó \"Afegeix\" (a sota d'aquest missatge, a la dreta) per afegir una unitat nova."
+msgstr "<b>El Planificador</b> admet plans de lliçons en línia que es poden compartir amb estudiants, responsables i altres professors. Creeu la lliçó a mà o automàticament a través d'%1$sUnitats intel·ligents%2$s. Els plans de lliçó faciliten la compartició del contingut del curs, l'assignació de tasques i la tramesa, el xat de text i la presa d'assistència.<br/><br/>Trieu una data o classe, utilitzant el menú de la dreta, i després feu clic al botó \"Afegeix\" (a sota d'aquest missatge, a la dreta) per afegir una unitat nova."
 
 #: 
 msgid "<b>Note</b>: You need to have classes assigned to you, with the correct permissions, in order to be able to do this."
@@ -504,11 +504,11 @@ msgstr "<b>Nota</b>: Heu de tenir assignades classes, amb els permisos correctes
 
 #: 
 msgid "<b>Homework + Due Dates</b> allows teachers and students to see upcoming deadlines, cleanly displayed in one place. Click on an entry to view the details for that piece of homework, and the lesson it is attached to.<br/><br/>Homework can be assigned using the %1$sPlanner%2$s, which also allows teachers to view all submitted work, and records late and incomplete work."
-msgstr "<b>Deures + Dates de venciment</b> permet als professors i estudiants veure els propers terminis, es mostren netament en un sol lloc. Feu clic en una entrada per veure els detalls d'aquest treball i la lliçó a la qual està adjuntat.<br/><br/>Deures es poden assignar utilitzant el %1$sPlanner%2$s, que també permet als professors veure tots els treballs enviats, i registra el treball tardà i incomplet."
+msgstr "<b>Deures + Dates de venciment</b> permet als professors i estudiants veure els propers terminis, es mostren netament en un sol lloc. Feu clic en una entrada per veure els detalls d'aquest treball i la lliçó a la qual està adjuntat.<br/><br/>Deures es poden assignar utilitzant el %1$sPlanificador%2$s, que també permet als professors veure tots els treballs enviats, i registra el treball tardà i incomplet."
 
 #: 
 msgid "<b>Markbook</b> provides an organised way to assess, record and report on student progress. Use grade scales, rubrics, comments and file uploads to keep students and parents up to date. Link markbooks to the %1$sPlanner%2$s, and see student work as you are marking it.<br/><br/>Choose a class from the menu on the right, and then click on the \"Add\" button (below this message, on the right) to create a new markbook column."
-msgstr "<b>Quadern de notes</b> proporciona una manera organitzada d'avaluar, registrar i informar sobre el progrés dels estudiants. Utilitza escales de qualificacions, rúbriques, comentaris i pujades de fitxers per mantenir els estudiants i els pares actualitzats. Enllaça els llibres de marques al %1$sPlanner%2$s, i mira el treball de l'estudiant mentre l'estàs marcant.<br/><br/>Trieu una classe del menú de la dreta i, a continuació, feu clic al botó \"Afegeix\" (a sota d'aquest missatge, a la dreta) per crear una columna de llibre de marques nova."
+msgstr "<b>Quadern de notes</b> proporciona una manera organitzada d'avaluar, registrar i informar sobre el progrés dels estudiants. Utilitza escales de qualificacions, rúbriques, comentaris i pujades de fitxers per mantenir els estudiants i els responsables actualitzats. Enllaça els llibres de marques al %1$sPlanificador%2$s, i mira el treball de l'estudiant mentre l'estàs marcant.<br/><br/>Trieu una classe del menú de la dreta i, a continuació, feu clic al botó \"Afegeix\" (a sota d'aquest missatge, a la dreta) per crear una columna de llibre de marques nova."
 
 #: 
 msgid "Dismiss Smart Workflow Help"
@@ -586,7 +586,7 @@ msgstr "No teniu privilegis suficients per iniciar sessió."
 #: 
 #, fuzzy
 msgid "Too many failed logins: please %1$sreset password%2$s."
-msgstr "Hi ha massa inicis de sessió fallits: %1$sreset password%2$s."
+msgstr "Hi ha massa inicis de sessió fallits: si us plau%1$sreinicia la contrasenya%2$s."
 
 #: 
 msgid "Error with Google Authentication. Please contact %1$s if you have any questions."
@@ -688,7 +688,7 @@ msgstr "Mida màxima del fitxer: %1$s MB"
 
 #: 
 msgid "y"
-msgstr "y"
+msgstr "a"
 
 #: 
 msgid "m"
@@ -1157,11 +1157,11 @@ msgstr "Adjunt actual:"
 
 #: 
 msgid "Current Staff"
-msgstr "Pentagrama actual"
+msgstr "Personal actual"
 
 #: 
 msgid "New Staff"
-msgstr "Pentagrama nou"
+msgstr "Personal nou"
 
 #: 
 msgid "Manage External Assessments"
@@ -1293,7 +1293,7 @@ msgstr "Afegeix una escala de qualificació"
 
 #: 
 msgid "Does this scale use only numeric grades? Note, grade \"Incomplete\" is exempt."
-msgstr "Aquesta escala utilitza només qualificacions numèriques? Nota: la qualificació \"Incompleta\" està exempta."
+msgstr "Aquesta escala utilitza només qualificacions numèriques? Nota, la qualificació \"Incompleta\" està exempta."
 
 #: 
 msgid "Edit Grade Scale"
@@ -1373,11 +1373,11 @@ msgstr "Configuració del recurs"
 
 #: 
 msgid "Manage Form Groups"
-msgstr "Gestiona els grups de formulari"
+msgstr "Gestiona les agrupacions"
 
 #: 
 msgid "Form Tutors"
-msgstr "Tutors de formulari"
+msgstr "Tutors de grups"
 
 #: 
 msgid "Space"
@@ -1385,7 +1385,7 @@ msgstr "Espai"
 
 #: 
 msgid "Add Form Group"
-msgstr "Afegeix un grup de formularis"
+msgstr "Afegeix una agrupació"
 
 #: 
 msgid "Tutors"
@@ -1393,19 +1393,19 @@ msgstr "Tutors"
 
 #: 
 msgid "Up to 3 per form group. The first-listed will be marked as \"Main Tutor\"."
-msgstr "Fins a 3 per grup de formulari. El primer llistat estarà marcat com a \"Tutor principal\"."
+msgstr "Fins a 3 per agrupació. El primer llistat estarà marcat com a \"Tutor principal\"."
 
 #: 
 msgid "Next Form Group"
-msgstr "Grup de formulari següent"
+msgstr "Agrupació següent"
 
 #: 
 msgid "Sets student progression on rollover."
-msgstr "Estableix la progressió de l'estudiant en el rollover."
+msgstr "Estableix la progressió de l'estudiant en la promoció."
 
 #: 
 msgid "Edit Form Group"
-msgstr "Edita el grup de formularis"
+msgstr "Edita les agrupacions"
 
 #: 
 msgid "Sequence"
@@ -1549,7 +1549,7 @@ msgstr "Hifi"
 
 #: 
 msgid "Speakers"
-msgstr "Ponents"
+msgstr "Altaveus"
 
 #: 
 msgid "Interactive White Board"
@@ -1605,7 +1605,7 @@ msgstr "Categories de notes de l'estudiant"
 
 #: 
 msgid "This section allows you to manage the categories which can be associated with student notes. Categories can be given templates, which will pre-populate the student note on selection."
-msgstr "Aquesta secció permet gestionar les categories que es poden associar amb les notes dels estudiants. Les categories es poden donar plantilles, que prepopularan la nota de l'estudiant en la selecció."
+msgstr "Aquesta secció permet gestionar les categories que es poden associar amb les notes dels estudiants. Es poden assignar plantilles a les categories, que preompliran la nota de l'estudiant en seleccionar-la."
 
 #: 
 msgid "Add Note Category"
@@ -1806,12 +1806,12 @@ msgstr "Comprova %1$s si hi ha una versió més nova del Gibbon."
 
 #: 
 msgid "Your system is set up to run Cutting Edge code, which may or may not be as reliable as regular release code. Backup before installing, and avoid using cutting edge in production."
-msgstr "El vostre sistema està configurat per executar el codi Cutting Edge, que pot ser o no tan fiable com el codi de llançament regular. Còpia de seguretat abans d'instal·lar, i evitar l'ús d'avantguarda en la producció."
+msgstr "El vostre sistema està configurat per executar codi innovador, que pot ser o no tan fiable com el codi de llançament normal. Feu una còpia de seguretat abans de la instal·lació i eviteu utilitzar codi innovador en producció."
 
 #: 
 #, fuzzy
 msgid "You are currently using Cutting Edge Gibbon v%1$s"
-msgstr "Esteu utilitzant Cutting Edge Gibbon v%1$s"
+msgstr "Esteu utilitzant  Codi Innovador Gibbon v%1$s"
 
 #: 
 #, fuzzy
@@ -1932,7 +1932,7 @@ msgstr "Matrícula actual"
 
 #: 
 msgid "Mark as left"
-msgstr "Marca com a esquerra"
+msgstr "Marca com a retirat"
 
 #: 
 msgid "Delete"
@@ -1956,15 +1956,15 @@ msgstr "Participant"
 
 #: 
 msgid "Student - Left"
-msgstr "Estudiant - Esquerra"
+msgstr "Estudiant - Retirat"
 
 #: 
 msgid "Teacher - Left"
-msgstr "Professor - Esquerra"
+msgstr "Professor - Retirat"
 
 #: 
 msgid "Parent"
-msgstr "Pare"
+msgstr "Responsable"
 
 #: 
 msgid "Enrolment by Class"
@@ -1989,11 +1989,11 @@ msgstr "Antics participants"
 
 #: 
 msgid "Class Enrolment by Form Group"
-msgstr "Matrícula de classe per grup de formularis"
+msgstr "Matrícula de classe per agrupacions"
 
 #: 
 msgid "Choose Form Group"
-msgstr "Trieu un grup de formularis"
+msgstr "Trieu agrupacions"
 
 #: 
 msgid "Class Count"
@@ -2113,7 +2113,7 @@ msgstr "Delimitador de camp"
 
 #: 
 msgid "String Enclosure"
-msgstr "Tancament de cadena"
+msgstr "Delimitador de text"
 
 #: 
 msgid "Notes"
@@ -2145,7 +2145,7 @@ msgstr "Nom curt del curs - p. ex. DR10 per a l'any 10 Drama"
 
 #: 
 msgid "Class Short Name - e.g 1 for DR10.1"
-msgstr "Nom curt de classe - p. ex. 1 per DR10.1"
+msgstr "Nom curt de classe - p. exemple 1 per DR10.1"
 
 #: 
 msgid "Day Name - as used in the target timetable"
@@ -2157,11 +2157,11 @@ msgstr "Nom de la fila - com s'utilitza en el calendari de destinació"
 
 #: 
 msgid "Teacher Username - comma-separated list of Gibbon usernames for teacher(s) of the lesson. Alternatively, give each teacher their own row."
-msgstr "Nom d'usuari del professor - llista separada per comes dels noms d'usuari del Gibbon per als professors de la lliçó. Alternativament, donar a cada professor la seva pròpia fila."
+msgstr "Nom d'usuari del professor - llista separada per comes dels noms d'usuari del Gibbon per als professor(s) de la lliçó. Alternativament, donar a cada professor la seva pròpia fila."
 
 #: 
 msgid "Facility Name - the Gibbon name for the location the lesson takes place in."
-msgstr "Facility Name - el nom de Gibbon per a la ubicació en què es fa la lliçó."
+msgstr "Nom de la instal·lació - el nom de Gibbon per a la ubicació en què es fa la lliçó."
 
 #: 
 msgid "Do not include a header row in the CSV files."
@@ -2178,7 +2178,7 @@ msgstr "La importació no pot continuar, ja que el fitxer enviat té un tipus MI
 
 #: 
 msgid "Import cannot proceed, as the \"Field Delimiter\" and/or \"String Enclosure\" fields have been left blank."
-msgstr "La importació no pot continuar, ja que els camps «Delimitador de rendiment» i/o «Tanca de l'anell» s'han deixat en blanc."
+msgstr "La importació no pot continuar, ja que els camps \"Delimitador de camp\" i/o \"Delimitador de text\" s'han deixat en blanc."
 
 #: 
 msgid "Prepare Database Tables"
@@ -2215,11 +2215,11 @@ msgstr "El fitxer d'importació s'ha emmagatzemat correctament a la base de dade
 #: 
 #, fuzzy
 msgid "Staff check failed. The following staff were in the import file but could not be found in Gibbon: %1$s. Add the staff into Gibbon and then try the import again."
-msgstr "Ha fallat la comprovació del personal. El personal següent estava al fitxer d'importació, però no s'ha pogut trobar al Gibbon: %1$s. Afegiu el pentagrama al Gibbon i torneu a provar la importació."
+msgstr "Ha fallat la comprovació del personal. El personal següent estava al fitxer d'importació, però no s'ha pogut trobar al Gibbon: %1$s. Afegiu el personal al Gibbon i torneu a provar la importació."
 
 #: 
 msgid "The staff check was successfully completed: all staff in the import file were found in Gibbon."
-msgstr "La comprovació del pentagrama s'ha completat correctament: s'ha trobat tot el pentagrama del fitxer d'importació al Gibbon."
+msgstr "La comprovació del personal s'ha completat correctament: s'ha trobat tot el personal del fitxer d'importació al Gibbon."
 
 #: 
 #, fuzzy
@@ -2375,7 +2375,7 @@ msgstr "Esport"
 
 #: 
 msgid "Break"
-msgstr "Tren"
+msgstr "Descans"
 
 #: 
 msgid "Service"
@@ -2387,11 +2387,11 @@ msgstr "Edita la fila de la columna"
 
 #: 
 msgid "Tie Days to Dates"
-msgstr "Dia de parells a dates"
+msgstr "Vincula dies a dates"
 
 #: 
 msgid "Edit Days in Date"
-msgstr "Edita els dies a la data"
+msgstr "Edita els dies de la data"
 
 #: 
 msgid "School is not open on the specified day."
@@ -2399,7 +2399,7 @@ msgstr "L'escola no està oberta el dia especificat."
 
 #: 
 msgid "Add Day to Date"
-msgstr "Afegeix el dia a la data"
+msgstr "Afegeix dia a data"
 
 #: 
 msgid "Year"
@@ -2427,7 +2427,7 @@ msgstr "Any d'entrada"
 
 #: 
 msgid "Parents"
-msgstr "Pares"
+msgstr "Responsables"
 
 #: 
 msgid "Last School"
@@ -2468,11 +2468,11 @@ msgstr "Esteu segur que voleu acceptar l'aplicació per a %1$s?"
 
 #: 
 msgid "Automatically inform <u>student</u> of Gibbon login details by email?"
-msgstr "Informeu automàticament <u>student</u> de les dades d'inici de sessió del Gibbon per correu electrònic?"
+msgstr "Informeu automàticament <u>l'estudiant</u> de les dades d'inici de sessió del Gibbon per correu electrònic?"
 
 #: 
 msgid "Automatically inform <u>parents</u> of their Gibbon login details by email?"
-msgstr "Informeu automàticament <u>parents</u> dels detalls d'inici de sessió del Gibbon per correu electrònic?"
+msgstr "Informeu automàticament <u>els responsables</u> dels detalls d'inici de sessió del Gibbon per correu electrònic?"
 
 #: 
 msgid "The system will perform the following actions:"
@@ -2484,7 +2484,7 @@ msgstr "Crea un compte d'usuari del Gibbon per a l'estudiant."
 
 #: 
 msgid "Enrol the student in the selected school year (as the student has not been assigned to a form group)."
-msgstr "Matrícula de l'estudiant en el curs escolar seleccionat (ja que l'estudiant no ha estat assignat a un grup de formulari)."
+msgstr "Matrícula de l'estudiant en el curs escolar seleccionat (ja que l'estudiant no ha estat assignat a una agrupació)."
 
 #: 
 msgid "Save the student's payment preferences."
@@ -2500,15 +2500,15 @@ msgstr "Crea una família nova."
 
 #: 
 msgid "Create user accounts for the parents."
-msgstr "Crea comptes d'usuari per als pares."
+msgstr "Crea comptes d'usuari per als responsables."
 
 #: 
 msgid "Link student and parents to the family."
-msgstr "Vincular l'estudiant i els pares amb la família."
+msgstr "Vincular l'estudiant i els responsables amb la família."
 
 #: 
 msgid "Set the status of the application to \"Accepted\"."
-msgstr "Estableix l'estat de l'aplicació a «Acceptat»."
+msgstr "Estableix l'estat de l'aplicació a \"Acceptat\"."
 
 #: 
 msgid "But you may wish to manually do the following:"
@@ -2544,7 +2544,7 @@ msgstr "No s'ha pogut matricular l'estudiant, per la qual cosa s'haurà de fer m
 
 #: 
 msgid "The student has successfully been enrolled in the specified school year, year group and form group."
-msgstr "L'estudiant s'ha matriculat amb èxit en el curs escolar especificat, el grup de curs i el grup de formulari."
+msgstr "L'estudiant s'ha matriculat amb èxit en el curs escolar especificat, el grup de curs i l'agrupació."
 
 #: 
 msgid "Student payment details could not be saved, but we will continue, as this is a minor issue."
@@ -2564,11 +2564,11 @@ msgstr "Nom de la família"
 
 #: 
 msgid "Roles"
-msgstr "Roles"
+msgstr "Rols"
 
 #: 
 msgid "System has tried to assign parents \"Parent\" role access if they did not already have it."
-msgstr "El sistema ha intentat assignar als pares l'accés al rol \"Parent\" si encara no el tenien."
+msgstr "El sistema ha intentat assignar als responsables l'accés al rol \"Responsable\" si encara no el tenien."
 
 #: 
 msgid "Family could not be created!"
@@ -2584,31 +2584,31 @@ msgstr "Nom de l'adreça"
 
 #: 
 msgid "Parent 1 already exists in Gibbon, and so does not need a new account."
-msgstr "El pare 1 ja existeix a Gibbon, i per tant no necessita un compte nou."
+msgstr "El responsable 1 ja existeix a Gibbon, i per tant no necessita un compte nou."
 
 #: 
 msgid "Parent 1 could not be linked to family!"
-msgstr "El pare 1 no es pot vincular a la família!"
+msgstr "El responsable 1 no es pot vincular a la família!"
 
 #: 
 msgid "Parent 1 could not be created!"
-msgstr "No s'ha pogut crear el pare 1!"
+msgstr "No s'ha pogut crear el responsable 1!"
 
 #: 
 msgid "Parent 1"
-msgstr "Pare 1"
+msgstr "Responsable 1"
 
 #: 
 msgid "Parent 2 could not be created!"
-msgstr "No s'ha pogut crear el pare 2!"
+msgstr "No s'ha pogut crear el responsable 2!"
 
 #: 
 msgid "Parent 2"
-msgstr "Pare 2"
+msgstr "Responsable 2"
 
 #: 
 msgid "Parent 2 could not be linked to family!"
-msgstr "El pare 2 no es pot vincular a la família!"
+msgstr "El responsable 2 no es pot vincular a la família!"
 
 #: 
 msgid "Student Welcome Email"
@@ -2653,7 +2653,7 @@ msgstr "Matrícula de l'estudiant en el curs acadèmic corresponent."
 
 #: 
 msgid "Inform the student and parents of their Gibbon login details (if this was not done automatically)."
-msgstr "Informa l'estudiant i els pares de les seves dades d'inici de sessió de Gibbon (si això no s'ha fet automàticament)."
+msgstr "Informa l'estudiant i els responsables de les seves dades d'inici de sessió de Gibbon (si això no s'ha fet automàticament)."
 
 #: 
 msgid "Edit Form"
@@ -2717,7 +2717,7 @@ msgstr "Tipus de dia"
 
 #: 
 msgid "Form Group at Entry"
-msgstr "Grup de formulari a l'entrada"
+msgstr "Agrupació a l'entrada"
 
 #: 
 msgid "If set, the student will automatically be enrolled on Accept."
@@ -2838,7 +2838,7 @@ msgstr "Fax"
 
 #: 
 msgid "Pager"
-msgstr "Pager"
+msgstr "Cercapersones"
 
 #: 
 msgid "Medical Information"
@@ -2894,15 +2894,15 @@ msgstr "Pare"
 
 #: 
 msgid "Step-Mother"
-msgstr "Mare-passa"
+msgstr "Madastra"
 
 #: 
 msgid "Step-Father"
-msgstr "Pas-pare"
+msgstr "Padastre"
 
 #: 
 msgid "Adoptive Parent"
-msgstr "Pare adoptiu"
+msgstr "Responsable adoptiu"
 
 #: 
 msgid "Guardian"
@@ -2926,11 +2926,11 @@ msgstr "Oncle"
 
 #: 
 msgid "Nanny/Helper"
-msgstr "Nanny/Helper"
+msgstr "Mainadera/Ajudant"
 
 #: 
 msgid "Parent/Guardian"
-msgstr "Pare/Guardià"
+msgstr "Responsable/Guardià"
 
 #: 
 msgid "(e.g. mother)"
@@ -3115,84 +3115,84 @@ msgstr "Número de passaport"
 
 #: 
 msgid "Parent 1 Name"
-msgstr "Nom del pare 1"
+msgstr "Nom del responsable 1"
 
 #: 
 msgid "Parent 1 Relationship"
-msgstr "Relació pare 1"
+msgstr "Relació responsable 1"
 
 #: 
 msgid "Parent 1 Contact Priority"
-msgstr "Prioritat del contacte pare 1"
+msgstr "Prioritat del contacte responsable 1"
 
 #: 
 msgid "Parent 1 First Language"
-msgstr "Primer idioma del pare 1"
+msgstr "Primer idioma del responsable 1"
 
 #: 
 msgid "Parent 1 Phone"
-msgstr "Pare 1 telèfon"
+msgstr "Responsable 1 telèfon"
 
 #: 
 msgid "Parent 1 Email"
-msgstr "Correu electrònic del pare 1"
+msgstr "Correu electrònic del responsable 1"
 
 #: 
 msgid "Parent 1 Second Language"
-msgstr "Pare 1 segona llengua"
+msgstr "Responsable 1 segona llengua"
 
 #: 
 msgid "Parent 1 Profession"
-msgstr "Professió pare 1"
+msgstr "Professió responsable 1"
 
 #: 
 msgid "Parent 1 Employer"
-msgstr "Ocupador pare 1"
+msgstr "Ocupador responsable 1"
 
 #: 
 #, fuzzy
 msgid "Parent %1$s Name"
-msgstr "Nom del pare %1$s"
+msgstr "Nom del responsable %1$s"
 
 #: 
 #, fuzzy
 msgid "Parent %1$s Relationship"
-msgstr "Relació pare %1$s"
+msgstr "Relació responsable %1$s"
 
 #: 
 #, fuzzy
 msgid "Parent %1$s Contact Priority"
-msgstr "Prioritat de contacte pare %1$s"
+msgstr "Prioritat de contacte responsable %1$s"
 
 #: 
 #, fuzzy
 msgid "Parent %1$s First Language"
-msgstr "Primera llengua pare %1$s"
+msgstr "Primera llengua responsable %1$s"
 
 #: 
 #, fuzzy
 msgid "Parent %1$s Phone"
-msgstr "Telèfon pare %1$s"
+msgstr "Telèfon responsable %1$s"
 
 #: 
 #, fuzzy
 msgid "Parent %1$s Email"
-msgstr "Correu electrònic del pare %1$s"
+msgstr "Correu electrònic del responsable %1$s"
 
 #: 
 #, fuzzy
 msgid "Parent %1$s Second Language"
-msgstr "Segona llengua pare %1$s"
+msgstr "Segona llengua responsable %1$s"
 
 #: 
 #, fuzzy
 msgid "Parent %1$s Profession"
-msgstr "Professió pare %1$s"
+msgstr "Professió responsable %1$s"
 
 #: 
 #, fuzzy
 msgid "Parent %1$s Employer"
-msgstr "Empleador pare %1$s"
+msgstr "Empresa responsable %1$s"
 
 #: 
 msgid "There is no family information available for the current student."
@@ -3209,7 +3209,7 @@ msgstr "No contactar per telèfon."
 #: 
 #, fuzzy
 msgid "Parent %1$s By Email"
-msgstr "Pare %1$s per correu electrònic"
+msgstr "Responsable %1$s per correu electrònic"
 
 #: 
 msgid "Do not contact by email."
@@ -3223,12 +3223,12 @@ msgstr "Nom del germà %1$s"
 #: 
 #, fuzzy
 msgid "Sibling %1$s Date of Birth"
-msgstr "germà %1$s Data de naixement"
+msgstr "Data de naixement del germà %1$s"
 
 #: 
 #, fuzzy
 msgid "Sibling %1$s School"
-msgstr "S'està creant l'escola %1$s"
+msgstr "Escola del germà %1$s"
 
 #: 
 msgid "No known siblings"
@@ -3533,7 +3533,7 @@ msgstr "De Facto"
 
 #: 
 msgid "Formal name to address parents with."
-msgstr "Nom formal per adreçar-se als pares amb."
+msgstr "Nom formal per adreçar-se als responsables."
 
 #: 
 msgid "Edit Family"
@@ -3573,7 +3573,7 @@ msgstr "Mostra els adults"
 
 #: 
 msgid "Logic exists to try and ensure that there is always one and only one parent with Contact Priority set to 1. This may result in values being set which are not exactly what you chose."
-msgstr "La lògica existeix per intentar assegurar-se que sempre hi ha un i només un pare amb prioritat de contacte establerta a 1. Això pot donar lloc al fet que s'estableixin valors que no són exactament el que heu triat."
+msgstr "La lògica existeix per intentar assegurar-se que sempre hi ha un i només un responsable amb prioritat de contacte establerta a 1. Això pot donar lloc al fet que s'estableixin valors que no són exactament el que heu triat."
 
 #: 
 msgid "Data Access"
@@ -3708,10 +3708,6 @@ msgid "Manage Medical Forms"
 msgstr "Gestiona els formularis mèdics"
 
 #: 
-msgid "Tetanus"
-msgstr "Tetanus"
-
-#: 
 msgid "10 Years"
 msgstr "10 anys"
 
@@ -3734,10 +3730,6 @@ msgstr "Medicament a llarg termini?"
 #: 
 msgid "Medication Details"
 msgstr "Detalls de la medicació"
-
-#: 
-msgid "Tetanus Within Last 10 Years?"
-msgstr "Tetanus en els últims 10 anys?"
 
 #: 
 msgid "Edit Medical Form"
@@ -3770,7 +3762,7 @@ msgstr "Gestiona els permisos"
 #: 
 #, fuzzy
 msgid "Your PHP environment cannot handle all of the fields in this form (the current limit is %1$s). Ask your web host or system administrator to increase the value of the max_input_vars in php.ini."
-msgstr "El vostre entorn PHP no pot gestionar tots els camps d'aquest formulari (el límit actual és %1$s). Demaneu al vostre amfitrió web o administrador del sistema que augmenti el valor dels maxinputvars a php.ini."
+msgstr "El vostre entorn PHP no pot gestionar tots els camps d'aquest formulari (el límit actual és %1$s). Demaneu al vostre amfitrió web o administrador del sistema que augmenti el valor dels max_input_vars a php.ini."
 
 #: 
 msgid "Number of inputs on this page"
@@ -3845,7 +3837,7 @@ msgstr "Ple"
 
 #: 
 msgid "Left"
-msgstr "Esquerra"
+msgstr "Retirat"
 
 #: 
 msgid "Enrol New Students (Status Expected)"
@@ -3853,11 +3845,11 @@ msgstr "Matrícula d'estudiants nous (estat esperat)"
 
 #: 
 msgid "Take students who are marked expected and enrol them. All parents of new students who are enrolled below will have their status set to \"Full\". If a student is not enrolled, they will be set to \"Left\"."
-msgstr "Agafa els estudiants que estiguin marcats i s'hi matriculen. Tots els pares d'estudiants de nou ingrés que estiguin matriculats a continuació tindran el seu estatus establert a \"Full\". Si un estudiant no està matriculat, s'establirà a \"esquerra\"."
+msgstr "Agafa els estudiants que estiguin marcats i s'hi matriculen. Tots els responsables d'estudiants de nou ingrés que estiguin matriculats a continuació tindran el seu estatus establert a \"Full\". Si un estudiant no està matriculat, s'establirà a \"Retirat\"."
 
 #: 
 msgid "Year groups or form groups are not properly set up, so you cannot proceed with this section."
-msgstr "Els grups d'anys o els grups de formularis no estan configurats correctament, de manera que no podeu continuar amb aquesta secció."
+msgstr "Els grups d'anys o les agrupacions no estan configurats correctament, de manera que no podeu continuar amb aquesta secció."
 
 #: 
 msgid "Enrol"
@@ -3869,7 +3861,7 @@ msgstr "Matrícula Estudiants Nous (Estat complet)"
 
 #: 
 msgid "Take new students who are already set as full, but who were not enrolled last year, and enrol them. These students probably came through the Online Application form, and may already be enrolled in next year: if this is the case, their enrolment will be updated as per the information below. All parents of new students who are enrolled below will have their status set to \"Full\". If a student is not enrolled, they will be set to \"Left\""
-msgstr "Agafa estudiants de nou ingrés que ja estan configurats com a plens, però que no es van matricular l'any passat, i matricula't. Aquests estudiants probablement van venir a través del formulari de sol·licitud en línia, i ja poden estar matriculats el curs que ve: si aquest és el cas, la seva matrícula s'actualitzarà d'acord amb la informació que es mostra a continuació. Tots els pares d'estudiants de nou ingrés que estiguin matriculats a continuació tindran el seu estatus establert a \"Full\". Si un estudiant no està matriculat, s'establirà a \"esquerra\""
+msgstr "Agafa estudiants de nou ingrés que ja estan configurats com a plens, però que no es van matricular l'any passat, i matricula't. Aquests estudiants probablement van venir a través del formulari de sol·licitud en línia, i ja poden estar matriculats el curs que ve: si aquest és el cas, la seva matrícula s'actualitzarà d'acord amb la informació que es mostra a continuació. Tots els responsables d'estudiants de nou ingrés que estiguin matriculats a continuació tindran el seu estatus establert a \"Full\". Si un estudiant no està matriculat, s'establirà a \"retirat\""
 
 #: 
 msgid "Re-Enrol Other Students"
@@ -3877,11 +3869,11 @@ msgstr "Torna a matricular altres estudiants"
 
 #: 
 msgid "Any students who are not re-enrolled will have their status set to \"Left\"."
-msgstr "Els estudiants que no es tornin a matricular tindran la condició de \"esquerra\"."
+msgstr "Els estudiants que no es tornin a matricular tindran la condició de \"retirat\"."
 
 #: 
 msgid "Set Final Year Students To Left"
-msgstr "Estableix els estudiants de final d'any a l'esquerra"
+msgstr "Estableix els estudiants de final d'any a retirat"
 
 #: 
 msgid "Register New Staff"
@@ -3889,7 +3881,7 @@ msgstr "Registra un nou personal"
 
 #: 
 msgid "Any staff who are not registered will have their status set to \"Left\"."
-msgstr "Qualsevol personal que no estigui registrat tindrà la seva condició de \"esquerra\"."
+msgstr "Qualsevol personal que no estigui registrat tindrà la seva condició de \"retirat\"."
 
 #: 
 msgid "Teaching"
@@ -3923,7 +3915,7 @@ msgstr "%1$s ha fallat en afegir."
 
 #: 
 msgid "Manage Staff"
-msgstr "Gestiona el pentagrama"
+msgstr "Gestiona el Personal"
 
 #: 
 msgid "Initials"
@@ -3931,7 +3923,7 @@ msgstr "Inicials"
 
 #: 
 msgid "Add Staff"
-msgstr "Afegeix un pentagrama"
+msgstr "Afegeix Personal"
 
 #: 
 msgid "First Aid"
@@ -3971,7 +3963,7 @@ msgstr "Els nombres més alts mouen els professors cap amunt en l'ordre dins de 
 
 #: 
 msgid "Edit Staff"
-msgstr "Edita el pentagrama"
+msgstr "Edita el personal"
 
 #: 
 msgid "Must be unique if set."
@@ -4119,7 +4111,7 @@ msgstr "Contactes d'emergència"
 
 #: 
 msgid "These details are used when immediate family members (e.g. parent, spouse) cannot be reached first. Please try to avoid listing immediate family members."
-msgstr "Aquests detalls s'utilitzen quan els membres immediats de la família (per exemple, el pare, el cònjuge) no es poden arribar primer. Si us plau, intenteu evitar la llista de familiars immediats."
+msgstr "Aquests detalls s'utilitzen quan els membres immediats de la família (p. ex. el responsable, el cònjuge) no es poden arribar primer. Si us plau, intenteu evitar la llista de familiars immediats."
 
 #: 
 msgid "Contact 1 Name"
@@ -4187,7 +4179,7 @@ msgstr "Número de l'acoblador"
 
 #: 
 msgid "Note that certain fields are hidden or revealed depending on the role categories (Staff, Student, Parent) that a user is assigned to. For example, parents do not get Emergency Contact fields, and students/staff do not get Employment fields."
-msgstr "Tingueu en compte que certs camps estan ocults o es revelen depenent de les categories de rol (personal, estudiant, pare) a les quals s'assigna un usuari. Per exemple, els pares no obtenen camps de contacte d'emergència, i els estudiants / personal no obtenen camps d'ocupació."
+msgstr "Tingueu en compte que certs camps estan ocults o es revelen depenent de les categories de rol (personal, estudiant, responsable) a les quals s'assigna un usuari. Per exemple, els responsables no obtenen camps de contacte d'emergència, i els estudiants / personal no obtenen camps d'ocupació."
 
 #: 
 msgid "All Roles"
@@ -4505,7 +4497,7 @@ msgstr "Tria l'estudiant"
 
 #: 
 msgid "Students by Form Group"
-msgstr "Estudiants per grup de formulari"
+msgstr "Estudiants per agrupació"
 
 #: 
 msgid "Students by Name"
@@ -4521,7 +4513,7 @@ msgstr "Registrat"
 
 #: 
 msgid "Excludes \"Not Accepted\""
-msgstr "Exclou «No acceptat»"
+msgstr "Exclou \"No acceptat\""
 
 #: 
 msgid "Unknown"
@@ -4537,7 +4529,7 @@ msgstr "Algunes activitats no acceptades."
 
 #: 
 msgid "Activity Type by Form Group"
-msgstr "Tipus d'activitat per grup de formularis"
+msgstr "Tipus d'activitat per agrupació"
 
 #: 
 msgid "No Type"
@@ -4693,7 +4685,7 @@ msgstr "Nom/Unitat"
 
 #: 
 msgid "Date<br/>Complete"
-msgstr "Data de finalització<br/>"
+msgstr "Data<br/> de finalització"
 
 #: 
 msgid "Viewable <br/>to Students"
@@ -4701,7 +4693,7 @@ msgstr "Visualitzable <br/>a estudiants"
 
 #: 
 msgid "Viewable <br/>to Parents"
-msgstr "Visualitzable <br/>a pares"
+msgstr "Visualitzable <br/>a responsables"
 
 #: 
 msgid "Enter Data"
@@ -4709,7 +4701,7 @@ msgstr "Introdueix dades"
 
 #: 
 msgid "Your request failed because you already have one \"End of Year\" column for this class."
-msgstr "La vostra sol·licitud ha fallat perquè ja teniu una columna «Final d'any» per a aquesta classe."
+msgstr "La vostra sol·licitud ha fallat perquè ja teniu una columna \"Final d'any\" per a aquesta classe."
 
 #: 
 msgid "Planner was successfully added: you opted to add a linked Markbook column, and you can now do so below."
@@ -4736,12 +4728,14 @@ msgid "Effort Rubric"
 msgstr "Rubric d'esforç"
 
 #: 
-msgid "Viewable to Students"
+#, fuzzy
+msgid "Viewable by Students"
 msgstr "Visualitzable a estudiants"
 
 #: 
-msgid "Viewable to Parents"
-msgstr "Visualitzable als pares"
+#, fuzzy
+msgid "Viewable by Parents"
+msgstr "Visualitzable als responsables"
 
 #: 
 msgid "Attachment"
@@ -5107,7 +5101,7 @@ msgstr "Mostra els horaris"
 
 #: 
 msgid "Years, Days & Times"
-msgstr "Anys, dies"
+msgstr "Anys, dies i temps"
 
 #: 
 msgid "Activity Choices by Student"
@@ -5167,7 +5161,7 @@ msgstr "Resum de necessitats individuals"
 
 #: 
 msgid "Left Students"
-msgstr "Estudiants esquerrans"
+msgstr "Estudiants retirats"
 
 #: 
 msgid "Lending & Activity Log"
@@ -5179,7 +5173,7 @@ msgstr "Planificador de lliçons"
 
 #: 
 msgid "Letters Home by Form Group"
-msgstr "Cartas a casa por grupo de formularios"
+msgstr "Cartes a casa per agrupacions"
 
 #: 
 msgid "Manage Applications"
@@ -5259,11 +5253,11 @@ msgstr "Opcions de privacitat per estudiant"
 
 #: 
 msgid "Form Group Summary"
-msgstr "Resum del grup de formularis"
+msgstr "Resum de agrupacions"
 
 #: 
 msgid "Form Groups Not Registered"
-msgstr "Grups de formularis no registrats"
+msgstr "Agrupacions no registrades"
 
 #: 
 msgid "Set Future Absence"
@@ -5339,11 +5333,11 @@ msgstr "Mostra els elements vençuts"
 
 #: 
 msgid "View Form Groups"
-msgstr "Visualitza els grups de formulari"
+msgstr "Visualitza les agrupacions"
 
 #: 
 msgid "View Staff Profile"
-msgstr "Mostra el perfil del pentagrama"
+msgstr "Mostra el perfil del personal"
 
 #: 
 msgid "View Student Profile"
@@ -5355,7 +5349,7 @@ msgstr "Mostra els horaris per persona"
 
 #: 
 msgid "Work Summary by Form Group"
-msgstr "Resum de la feina per grup de formularis"
+msgstr "Resum de la feina per agrupacions"
 
 #: 
 msgid "High"
@@ -6295,7 +6289,7 @@ msgstr "Illes Verges, britàniques"
 
 #: 
 msgid "Virgin Islands, U.s."
-msgstr "Illes Verges, Estats Units."
+msgstr "Illes Verges, EE. UU."
 
 #: 
 msgid "Wallis and Futuna"
@@ -6423,7 +6417,7 @@ msgstr "Economia SL"
 
 #: 
 msgid "English"
-msgstr "anglès"
+msgstr "Anglès"
 
 #: 
 msgid "English A: Language and Literature HL"
@@ -6591,11 +6585,11 @@ msgstr "Sociologia"
 
 #: 
 msgid "Spanish"
-msgstr "espanyol"
+msgstr "Espanyol"
 
 #: 
 msgid "Spanish B HL"
-msgstr "Spanish B HL"
+msgstr "Espanyol B HL"
 
 #: 
 msgid "Spanish B SL"
@@ -6955,7 +6949,7 @@ msgstr "Recursos"
 
 #: 
 msgid "Form Groups"
-msgstr "Grups de formulari"
+msgstr "Agrupacions"
 
 #: 
 msgid "School Admin"
@@ -7011,7 +7005,7 @@ msgstr "Permet als usuaris crear rúbriques per a la prova"
 
 #: 
 msgid "Allows users to view a listing of form groups"
-msgstr "Permet als usuaris veure un llistat de grups de formularis"
+msgstr "Permet als usuaris veure un llistat de les agrupacions"
 
 #: 
 msgid "Allows users to view staff information"
@@ -7039,7 +7033,7 @@ msgstr "Presa d'assistència escolar"
 
 #: 
 msgid "Supports lesson planning and information sharing for staff, student and parents"
-msgstr "Permet la planificació de la lliçó i l'intercanvi d'informació per al personal, l'estudiant i els pares"
+msgstr "Permet la planificació de la lliçó i l'intercanvi d'informació per al personal, l'estudiant i els responsables"
 
 #: 
 msgid "Timetable administration"
@@ -7071,7 +7065,7 @@ msgstr "Controla tots els aspectes del sistema"
 
 #: 
 msgid "Parent or guardian of person studying in"
-msgstr "Pare o tutor de la persona que estudia"
+msgstr "Responsable o tutor de la persona que estudia"
 
 #: 
 msgid "Person studying in the school"
@@ -8531,11 +8525,11 @@ msgstr "Nombre de paginacions"
 
 #: 
 msgid "Parents Notification Default"
-msgstr "Notificació per defecte dels pares"
+msgstr "Notificació per defecte dels responsables"
 
 #: 
 msgid "Parents Notification Message"
-msgstr "Missatge de notificació dels pares"
+msgstr "Missatge de notificació dels responsables"
 
 #: 
 msgid "PayPal API Password"
@@ -8623,7 +8617,7 @@ msgstr "Text dels documents requerits"
 
 #: 
 msgid "Sharing Default: Parents"
-msgstr "Compartició predeterminada: pares"
+msgstr "Compartició predeterminada: responsables"
 
 #: 
 msgid "Sharing Default: Students"
@@ -8631,11 +8625,11 @@ msgstr "Compartició per defecte: estudiants"
 
 #: 
 msgid "Show Parent Attainment Warning"
-msgstr "Mostra l'avís d'entreteniment pare"
+msgstr "Mostra l'advertència d'assoliment dels responsables"
 
 #: 
 msgid "Show Parent Effort Warning"
-msgstr "Mostra l'avís d'esforç pare"
+msgstr "Mostra l'advertència d'esforç dels responsables"
 
 #: 
 msgid "Show Student Attainment Warning"
@@ -8699,7 +8693,7 @@ msgstr "Plantilla d'esquema de la unitat"
 
 #: 
 msgid "A custom message to add to the standard email to parents on acceptance."
-msgstr "Un missatge personalitzat per afegir al correu electrònic estàndard als pares en acceptar-lo."
+msgstr "Un missatge personalitzat per afegir al correu electrònic estàndard als responsables en acceptar-lo."
 
 #: 
 msgid "A custom message to add to the standard email to students on acceptance."
@@ -8919,7 +8913,7 @@ msgstr "Els avisos del Markbook haurien de basar-se en objectius personals, si e
 
 #: 
 msgid "Should parent acceptance email be turned on or off by default."
-msgstr "El correu electrònic d'acceptació pare s'ha d'activar o desactivar per defecte."
+msgstr "El correu electrònic d'acceptació del responsable s'ha d'activar o desactivar per defecte."
 
 #: 
 msgid "Should payments be enabled across the system?"
@@ -8955,7 +8949,7 @@ msgstr "Hem d'apagar l'opció d'inscriure'ns a activitats que ofereix una agènc
 
 #: 
 msgid "Show low attainment grade visual warning to parents?"
-msgstr "Voleu mostrar un avís visual de baix grau d'assoliment als pares?"
+msgstr "Voleu mostrar un avís visual de baix grau d'assoliment als responsables?"
 
 #: 
 msgid "Show low attainment grade visual warning to students?"
@@ -8963,7 +8957,7 @@ msgstr "Voleu mostrar un avís visual de la qualificació de baix assoliment als
 
 #: 
 msgid "Show low effort grade visual warning to parents?"
-msgstr "Voleu mostrar un avís visual de grau d'esforç baix als pares?"
+msgstr "Voleu mostrar un avís visual de grau d'esforç baix als responsables?"
 
 #: 
 msgid "Show low effort grade visual warning to students?"
@@ -9055,7 +9049,7 @@ msgstr "El país en què es troba l'escola"
 
 #: 
 msgid "The extended version of the brief student profile includes contact information of parents."
-msgstr "La versió ampliada del breu perfil d'estudiant inclou informació de contacte dels pares."
+msgstr "La versió ampliada del breu perfil d'estudiant inclou informació de contacte dels responsables."
 
 #: 
 msgid "The link that points to the school/'s email system"
@@ -9103,11 +9097,11 @@ msgstr "Quina línia de codi SQL va tocar l'última actualització d'avantguarda
 
 #: 
 msgid "When adding lessons and deploying units, should sharing default for parents be Y or N?"
-msgstr "Quan s'afegeixen lliçons i es despleguen unitats, s'hauria de compartir per defecte per als pares la Y o la N?"
+msgstr "Quan s'afegeixen lliçons i es despleguen unitats, l'opció per compartir per defecte per als pares hauria de ser S o N?"
 
 #: 
 msgid "When adding lessons and deploying units, should sharing default for students be Y or N?"
-msgstr "Quan s'afegeixen lliçons i es despleguen unitats, s'ha de compartir per defecte per als estudiants Y o N?"
+msgstr "Quan s'afegeixen lliçons i es despleguen unitats, l'opció per compartir per defecte per als estudiants Y o N?"
 
 #: 
 msgid "Without this text, which is displayed above the agreement, users will not be asked to agree to anything"
@@ -9143,31 +9137,31 @@ msgstr "Any 9"
 
 #: 
 msgid "Y07"
-msgstr "Y07"
+msgstr "A07"
 
 #: 
 msgid "Y08"
-msgstr "Y08"
+msgstr "A08"
 
 #: 
 msgid "Y09"
-msgstr "Y09"
+msgstr "A09"
 
 #: 
 msgid "Y10"
-msgstr "Y10"
+msgstr "A10"
 
 #: 
 msgid "Y11"
-msgstr "Y11"
+msgstr "A11"
 
 #: 
 msgid "Y12"
-msgstr "Y12"
+msgstr "A12"
 
 #: 
 msgid "Y13"
-msgstr "Y13"
+msgstr "A13"
 
 #: 
 msgid "Your application was successfully submitted. Our admissions team will review your application and be in touch in due course."
@@ -9216,12 +9210,12 @@ msgstr "Data d'inici intencionada"
 #: 
 #, fuzzy
 msgid "Grades%1$sAttended"
-msgstr "Qualificacions%1$sAtesa"
+msgstr "Qualificacions %1$s Atesa"
 
 #: 
 #, fuzzy
 msgid "Language of%1$sInstruction"
-msgstr "Idioma de%1$sInstrucció"
+msgstr "Idioma de %1$s Instrucció"
 
 #: 
 msgid "System login ID."
@@ -9253,7 +9247,7 @@ msgstr "És necessària una beca perquè ocupis una plaça a l'escola?"
 
 #: 
 msgid "If you choose family, future invoices will be sent according to your family's contact preferences, which can be changed at a later date by contacting the school. For example you may wish both parents to receive the invoice, or only one. Alternatively, if you choose Company, you can choose for all or only some fees to be covered by the specified company."
-msgstr "Si tries família, les futures factures s'enviaran d'acord amb les preferències de contacte de la teva família, que es poden canviar en una data posterior contactant amb l'escola. Per exemple, podeu desitjar que els dos pares rebin la factura, o només una. Alternativament, si trieu Empresa, podeu triar per a totes o només algunes tarifes que ha de cobrir l'empresa especificada."
+msgstr "Si tries família, les futures factures s'enviaran d'acord amb les preferències de contacte de la teva família, que es poden canviar en una data posterior contactant amb l'escola. Per exemple, podeu desitjar que els dos responsables rebin la factura, o només una. Alternativament, si trieu Empresa, podeu triar per a totes o només algunes tarifes que ha de cobrir l'empresa especificada."
 
 #: 
 msgid "Send Future Invoices To"
@@ -9318,11 +9312,11 @@ msgstr "Absent"
 
 #: 
 msgid "Left - Early"
-msgstr "Esquerra - Primer"
+msgstr "Retirat - Prompte"
 
 #: 
 msgid "Take Attendance by Form Group"
-msgstr "Fes l'assistència per grup de formularis"
+msgstr "Fes l'assistència per agrupacions"
 
 #: 
 msgid "School is closed on the specified date, and so attendance information cannot be recorded."
@@ -9358,31 +9352,31 @@ msgstr "Total d'alumnes absents de l'habitació:"
 
 #: 
 msgid "Mon"
-msgstr "Mon"
+msgstr "Dl"
 
 #: 
 msgid "Tue"
-msgstr "Tue"
+msgstr "Dt"
 
 #: 
 msgid "Wed"
-msgstr "Wed"
+msgstr "Dc"
 
 #: 
 msgid "Thu"
-msgstr "Thu"
+msgstr "Dj"
 
 #: 
 msgid "Fri"
-msgstr "Fri"
+msgstr "Dv"
 
 #: 
 msgid "Sat"
-msgstr "Sat"
+msgstr "Ds"
 
 #: 
 msgid "Sun"
-msgstr "Sol"
+msgstr "Dg"
 
 #: 
 msgid "After End Date"
@@ -9418,7 +9412,7 @@ msgstr "Tutor"
 
 #: 
 msgid "All form groups have been registered."
-msgstr "S'han registrat tots els grups de formularis."
+msgstr "S'han registrat totes les agrupacions."
 
 #: 
 msgid "Choose"
@@ -9731,7 +9725,7 @@ msgstr "Es va detectar que alguns estudiants no tenien registres de factures. El
 #: 
 #, fuzzy
 msgid "It was detected that some students did not have invoicee records. The system has successfully created %1$s record(s) for you."
-msgstr "Es va detectar que alguns estudiants no tenien registres de factures. El sistema ha creat %1$s registres per a vós."
+msgstr "Es va detectar que alguns estudiants no tenien registres de factures. El sistema ha creat %1$s registre(s) per a vós."
 
 #: 
 msgid "All Students"
@@ -9767,7 +9761,7 @@ msgstr "Recordatori"
 
 #: 
 msgid "This section allows you to generate, view, edit and delete invoices, either for an individual or in bulk. You can use the filters below to pick up certain invoices types (e.g. those that are overdue) or view all invoices for a particular user. Invoices, reminders and receipts can be sent out using the Email function, shown in the right-hand side menu."
-msgstr "Aquesta secció permet generar, veure, editar i eliminar factures, ja sigui per a un individu o a granel. Podeu utilitzar els filtres de sota per recollir certs tipus de factures (per exemple, les que s'han vençut) o veure totes les factures per a un usuari en particular. Les factures, els recordatoris i els rebuts es poden enviar mitjançant la funció Correu electrònic, que es mostra al menú de la dreta."
+msgstr "Aquesta secció permet generar, veure, editar i eliminar factures, ja sigui per a un individu o a granel. Podeu utilitzar els filtres de sota per recollir certs tipus de factures (p. ex. les que s'han vençut) o veure totes les factures per a un usuari en particular. Les factures, els recordatoris i els rebuts es poden enviar mitjançant la funció Correu electrònic, que es mostra al menú de la dreta."
 
 #: 
 msgid "When you create invoices using the billing schedule or pre-defined fee features, the invoice will remain linked to these areas whilst pending. Thus, changes made to the billing schedule and pre-defined fees will be reflected in any pending invoices. Once invoices are issued, this link is removed, and the values are fixed at the levels when the invoice was issued."
@@ -9881,11 +9875,11 @@ msgstr "Visiteu %1$sGestiona les factures%2$s per generar automàticament els es
 
 #: 
 msgid "All Enrolled Students by Form Group"
-msgstr "Tots els estudiants inscrits per grup de formularis"
+msgstr "Tots els estudiants inscrits per agrupacions"
 
 #: 
 msgid "Students by Form Groups"
-msgstr "Estudiants per grups de formulari"
+msgstr "Estudiants per agrupacions"
 
 #: 
 msgid "All Enrolled Students by Alphabet"
@@ -9921,7 +9915,7 @@ msgstr "Edita la factura"
 
 #: 
 msgid "This value cannot be changed. Use the Issue function to change the status from \"Pending\" to \"Issued\"."
-msgstr "Aquest valor no es pot canviar. Utilitzeu la funció Incidència per a canviar l'estat de «Pendent» a «Issued»."
+msgstr "Aquest valor no es pot canviar. Utilitzeu la funció Incidència per a canviar l'estat de \"Pendent\" a \"Emès\"."
 
 #: 
 msgid "Available options are limited according to current status."
@@ -9969,7 +9963,7 @@ msgstr "No hi ha cap contacte d'empresa disponible per enviar aquesta factura."
 
 #: 
 msgid "(CC Self?)"
-msgstr "(CC Self?)"
+msgstr "(CC Auto?)"
 
 #: 
 msgid "Issue Invoice"
@@ -10234,7 +10228,7 @@ msgstr "Qui serà el responsable del futur estatus?"
 
 #: 
 msgid "Students By Form Group"
-msgstr "Estudiants per grup de formulari"
+msgstr "Estudiants per agrupacions"
 
 #: 
 msgid "Renew Item"
@@ -10243,7 +10237,7 @@ msgstr "Renova l'element"
 #: 
 #, fuzzy
 msgid "Default renew length is today plus %1$s day(s)"
-msgstr "La durada predeterminada de renovació és avui més %1$s dia"
+msgstr "La durada predeterminada de renovació és avui més %1$s die(s)"
 
 #: 
 msgid "Return Item"
@@ -10567,7 +10561,7 @@ msgstr "Tutees i tutors."
 
 #: 
 msgid "Select Form Groups"
-msgstr "Selecciona els grups de formulari"
+msgstr "Selecciona agrupacions"
 
 #: 
 msgid "Members of a course of study."
@@ -10644,7 +10638,7 @@ msgstr "La vostra sol·licitud s'ha completat correctament: no tots els missatge
 #: 
 #, fuzzy
 msgid "%1$s email(s) were dispatched."
-msgstr "S'han enviat %1$s correus electrònics."
+msgstr "S'han enviat %1$s correus electrònic(s)."
 
 #: 
 #, fuzzy
@@ -10843,11 +10837,11 @@ msgstr "Altres mestres"
 
 #: 
 msgid "Other Parents"
-msgstr "Altres pares"
+msgstr "Altres responsables"
 
 #: 
 msgid "Outcomes cannot be set when viewing the Planner by date. Use the \"Choose A Class\" dropdown in the sidebar to switch to a class. Make sure to save your changes first."
-msgstr "Els resultats no es poden establir quan es visualitza el Planner per data. Utilitzeu la llista desplegable «Tria una classe» a la barra lateral per a canviar a una classe. Assegureu-vos de desar els canvis primer."
+msgstr "Els resultats no es poden establir quan es visualitza el Planificador per data. Utilitzeu la llista desplegable \"Tria una classe\" a la barra lateral per a canviar a una classe. Assegureu-vos de desar els canvis primer."
 
 #: 
 msgid "Link this lesson to outcomes (defined in the Manage Outcomes section of the Planner), and track which outcomes are being met in which lessons."
@@ -10907,7 +10901,7 @@ msgstr "Tècnic convidat"
 
 #: 
 msgid "Guest Parent"
-msgstr "Pare convidat"
+msgstr "Responsable convidat"
 
 #: 
 msgid "Other Guest"
@@ -10997,11 +10991,11 @@ msgstr "Opcional"
 
 #: 
 msgid "Submitter's Parents"
-msgstr "Pares de l'enviament"
+msgstr "Responsables de l'enviament"
 
 #: 
 msgid "Classmates's Parents"
-msgstr "Pares dels companys"
+msgstr "Responsables dels companys"
 
 #: 
 msgid "Choose an outcome to add it to this lesson."
@@ -11420,15 +11414,15 @@ msgstr "Tutor principal"
 
 #: 
 msgid "View Staff Profiles"
-msgstr "Mostra els perfils del pentagrama"
+msgstr "Mostra els perfils del personal"
 
 #: 
 msgid "Choose A Staff Member"
-msgstr "Trieu un membre del pentagrama"
+msgstr "Trieu un membre del personal"
 
 #: 
 msgid "Staff Type"
-msgstr "Tipus de pentagrama"
+msgstr "Tipus de Personal"
 
 #: 
 msgid "In an emergency, please try and contact the adult family members listed below first. If these cannot be reached, then try the emergency contacts below."
@@ -11464,7 +11458,7 @@ msgstr "Personal"
 
 #: 
 msgid "This report attempts to print the family address(es) based on parents who are labelled as Contact Priority 1."
-msgstr "Aquest informe tracta d'imprimir l'adreça(es) de la família basada en els pares que estan etiquetats com a Prioritat de Contacte 1."
+msgstr "Aquest informe tracta d'imprimir l'adreça(es) de la família basada en els responsables que estan etiquetats com a Prioritat de Contacte 1."
 
 #: 
 msgid "Choose Students"
@@ -11496,7 +11490,7 @@ msgstr "Edat mitjana"
 
 #: 
 msgid "All Form Groups"
-msgstr "Tots els grups de formulari"
+msgstr "Totes les agrupacions"
 
 #: 
 msgid "This report allows a user to select a range of students and check whether or not they have had their personal and medical data updated after a specified date."
@@ -11528,7 +11522,7 @@ msgstr "Resum de dades d'emergència de l'estudiant"
 
 #: 
 msgid "This report prints a summary of emergency data for the selected students. In case of emergency, please try to contact parents first, and if they cannot be reached then contact the listed emergency contacts."
-msgstr "Aquest informe imprimeix un resum de les dades d'emergència per als estudiants seleccionats. En cas d'emergència, intenteu contactar primer amb els pares, i si no es poden contactar, poseu-vos en contacte amb els contactes d'emergència enumerats."
+msgstr "Aquest informe imprimeix un resum de les dades d'emergència per als estudiants seleccionats. En cas d'emergència, intenteu contactar primer amb els responsables, i si no es poden contactar, poseu-vos en contacte amb els contactes d'emergència enumerats."
 
 #: 
 msgid "Last Update"
@@ -11640,7 +11634,7 @@ msgstr "Aquest informe mostra tots els estudiants la data d'inici dels quals és
 
 #: 
 msgid "This report shows all students who are newly arrived in the school during the current academic year (e.g. they were not enrolled in the previous academic year)."
-msgstr "Aquest informe mostra tots els estudiants que han arribat a l'escola durant el curs acadèmic actual (per exemple, no s'han matriculat en el curs acadèmic anterior)."
+msgstr "Aquest informe mostra tots els estudiants que han arribat a l'escola durant el curs acadèmic actual (p. ex. no s'han matriculat en el curs acadèmic anterior)."
 
 #: 
 msgid "View Student Profiles"
@@ -11683,10 +11677,6 @@ msgid "Do not contact by SMS."
 msgstr "No contactar per SMS."
 
 #: 
-msgid "Tetanus Last 10 Years?"
-msgstr "Tetanus els darrers 10 anys?"
-
-#: 
 msgid "Medical Conditions?"
 msgstr "Condicions mèdiques?"
 
@@ -11704,7 +11694,7 @@ msgstr "Les notes dels estudiants proporcionen una manera d'emmagatzemar informa
 
 #: 
 msgid "Please remember that notes are visible to other users who have access to full student profiles (this should not generally include parents)."
-msgstr "Recordeu que les notes són visibles per a altres usuaris que tenen accés a perfils complets d'estudiants (això no hauria d'incloure generalment els pares)."
+msgstr "Recordeu que les notes són visibles per a altres usuaris que tenen accés a perfils complets d'estudiants (això no hauria d'incloure generalment els responsables)."
 
 #: 
 msgid "Note Taker"
@@ -11804,271 +11794,271 @@ msgstr "ID del rebut del pagament:"
 
 #: 
 msgid "Edit Markbook_everything"
-msgstr "Edita Markbookeverything"
+msgstr "Edita Quadern_de_notes_tots"
 
 #: 
 msgid "Edit Markbook_multipleClassesAcrossSchool"
-msgstr "Edita MarkbookmultipleClassesAcrossSchool"
+msgstr "Edita Quadern_de_notes_multiplesClassesEscola"
 
 #: 
 msgid "Edit Markbook_multipleClassesInDepartment"
-msgstr "Edita MarkbookmultipleClassesInDepartment"
+msgstr "Edita Quadern_de_notes_multiplesClassesDepartament"
 
 #: 
 msgid "Edit Markbook_singleClass"
-msgstr "Edita MarkbooksingleClass"
+msgstr "Edita Quadern_de_notes_Classe"
 
 #: 
 msgid "External Assessment Data_manage"
-msgstr "Gestió de dades d'avaluació externa"
+msgstr "Avaluació externa Gestió_de_dades"
 
 #: 
 msgid "External Assessment Data_view"
-msgstr "Vista de dades de l'avaluació externa"
+msgstr "Avaluació externa Vista_de_dades"
 
 #: 
 msgid "Individual Needs Records_view"
-msgstr "Vista de registres de necessitats individuals"
+msgstr "Necessitats individuals registres_vista"
 
 #: 
 msgid "Individual Needs Records_viewContribute"
-msgstr "Documents de necessitats individuals"
+msgstr "Necessitats individuals RegistresContribució_vista"
 
 #: 
 msgid "Individual Needs Records_viewEdit"
-msgstr "Necessitats individuals RecordsviewEdit"
+msgstr "Necessitats individuals registres_vistaEdició"
 
 #: 
 msgid "Lesson Planner_viewAllEditMyClasses"
-msgstr "Lliçon PlannerviewAllEditMyClasses"
+msgstr "Lliçó Planificador_vistaTotesEditaLesMeuesClasses"
 
 #: 
 msgid "Lesson Planner_viewEditAllClasses"
-msgstr "Lliçó PlannerviewEditAllClasses"
+msgstr "Lliçó Planificador_vistaEditaTotesLesClasses"
 
 #: 
 msgid "Lesson Planner_viewMyChildrensClasses"
-msgstr "Lliçó PlannerviewMyChildrensClasses"
+msgstr "Lliçó Planificador_vistaElsMeusFillsClasses"
 
 #: 
 msgid "Lesson Planner_viewMyClasses"
-msgstr "Lliçó PlannerviewMyClasses"
+msgstr "Lliçó Planificador_vistaLesMeuesClasses"
 
 #: 
 msgid "Manage Behaviour Records_all"
-msgstr "Gestiona el registre de comportament"
+msgstr "Gestiona comportament  Registres_tots"
 
 #: 
 msgid "Manage Behaviour Records_my"
-msgstr "Gestiona els registres de comportament"
+msgstr "Gestiona comportament  Registres_elsmeus"
 
 #: 
 msgid "Manage Messages_all"
-msgstr "Gestiona Messagesall"
+msgstr "Gestiona els missatges_tots"
 
 #: 
 msgid "Manage Messages_my"
-msgstr "Gestiona els missatges"
+msgstr "Gestiona els missatges_elsmeus"
 
 #: 
 msgid "Manage Outcomes_viewAll"
-msgstr "Gestiona la vista de resultats"
+msgstr "Gestiona els resultats_vistaTots"
 
 #: 
 msgid "Manage Outcomes_viewAllEditLearningArea"
-msgstr "Gestiona OutcomesviewAllEditLearningArea"
+msgstr "Gestiona els resultats_vistaTotsEditaÀreaAprenentatge"
 
 #: 
 msgid "Manage Outcomes_viewEditAll"
-msgstr "Gestiona OutcomesviewEditAll"
+msgstr "Gestiona els resultats_vistaEditaTots"
 
 #: 
 msgid "Manage Resources_all"
-msgstr "Gestiona tots els recursos"
+msgstr "Gestiona els recursos_tots"
 
 #: 
 msgid "Manage Resources_my"
-msgstr "Gestiona la Meu dels Recursos"
+msgstr "Gestiona els recursos_elsmeus"
 
 #: 
 msgid "Manage Rubrics_viewAllEditLearningArea"
-msgstr "Gestiona RubricsviewAllEditLearningArea"
+msgstr "Gestiona Rubriques_vistaTotsEditaAreaAprenentage"
 
 #: 
 msgid "Manage Rubrics_viewEditAll"
-msgstr "Gestiona RubricsviewEditAll"
+msgstr "Gestiona Rubriques_vistaEditaTots"
 
 #: 
 msgid "New Message_activities_any"
-msgstr "Nova activitat de missatge"
+msgstr "Nou missatge_activitats_qualsevol"
 
 #: 
 msgid "New Message_activities_my"
-msgstr "Messageactivitiesmy"
+msgstr "Nou missatge_activitats_lesmeues"
 
 #: 
 msgid "New Message_activities_parents"
-msgstr "Nou missatgeactivitiesparents"
+msgstr "Nou missatge_activititats_responsables"
 
 #: 
 msgid "New Message_applicants"
-msgstr "Sol·licitants de missatge nous"
+msgstr "Nou missatge_sol·licitants"
 
 #: 
 msgid "New Message_byEmail"
-msgstr "Missatge noubyEmail"
+msgstr "Nou missatge_perCorreuElectrònic"
 
 #: 
 msgid "New Message_byMessageWall"
-msgstr "MissatgebyMessageWall nou"
+msgstr "Nou missatge_perMurDeMissatges"
 
 #: 
 msgid "New Message_bySMS"
-msgstr "MissatgebySMS nou"
+msgstr "Nou missatge_perSMS"
 
 #: 
 msgid "New Message_classes_any"
-msgstr "Classesany de missatge nova"
+msgstr "Nou missatge_classes_qualsevol"
 
 #: 
 msgid "New Message_classes_my"
-msgstr "Missatgeclassesmy nou"
+msgstr "Nou missatge_classes_lesmeues"
 
 #: 
 msgid "New Message_classes_parents"
-msgstr "Missatgeclassesparents nou"
+msgstr "Nou missatge_classes_responsables"
 
 #: 
 msgid "New Message_courses_any"
-msgstr "Messagecoursesany nou"
+msgstr "Nou missatge_cursos_qualsevol"
 
 #: 
 msgid "New Message_courses_my"
-msgstr "Nou Messagecoursesmy"
+msgstr "Nou missatge_cursos_elsmeus"
 
 #: 
 msgid "New Message_courses_parents"
-msgstr "Nous pares de missatge"
+msgstr "Nou missatge_cursos_responsables"
 
 #: 
 msgid "New Message_fromSchool"
-msgstr "Nou missatgedescol·legi"
+msgstr "Nou missatge_deEscola"
 
 #: 
 msgid "New Message_houses_all"
-msgstr "Sala de missatges nova"
+msgstr "Nou missatge_cases_totes"
 
 #: 
 msgid "New Message_houses_my"
-msgstr "Missatge nouhousesmy"
+msgstr "Nou missatge_cases_lesmeues"
 
 #: 
 msgid "New Message_individuals"
-msgstr "Missatge individual nou"
+msgstr "Nou missatge_individus"
 
 #: 
 msgid "New Message_role"
-msgstr "Messagerole nou"
+msgstr "Nou missatge_rol"
 
 #: 
 msgid "New Message_rollGroups_any"
-msgstr "MissatgerollGroupsany nou"
+msgstr "Nou missatge_rolGrups_qualsevol"
 
 #: 
 msgid "New Message_rollGroups_my"
-msgstr "MissatgerollGroupsmy nou"
+msgstr "Nou missatge_rolGrups_elsmeus"
 
 #: 
 msgid "New Message_rollGroups_parents"
-msgstr "MissatgerollGroupsparents nou"
+msgstr "Nou missatge_rolGrups_responsables"
 
 #: 
 msgid "New Message_yearGroups_any"
-msgstr "MessageyearGroupsany"
+msgstr "Nou missatge_GrupsAnys_qualsevol"
 
 #: 
 msgid "New Message_yearGroups_parents"
-msgstr "Nou MessageyearGroupsparents"
+msgstr "Nou missatge_GrupsAnys_responsables"
 
 #: 
 msgid "Student History_all"
-msgstr "Historial de l'estudiant"
+msgstr "Historial de l'estudiant_tots"
 
 #: 
 msgid "Student History_myChildren"
-msgstr "HistorialmyChildren"
+msgstr "Historial de l'estudiant_elsmeusfills"
 
 #: 
 msgid "Update Family Data_any"
-msgstr "Actualitza les dades familiars"
+msgstr "Actualitza les dades familiars_qualsevol"
 
 #: 
 msgid "Update Family Data_family"
-msgstr "Actualitza la família de dades"
+msgstr "Actualitza les dades familiars_família"
 
 #: 
 msgid "Update Finance Data_any"
-msgstr "Actualitza les dades de les finances"
+msgstr "Actualitza les dades financeres_qualsevol"
 
 #: 
 msgid "Update Finance Data_family"
-msgstr "Actualitza la família de dades de finances"
+msgstr "Actualitza les dades financeres_família"
 
 #: 
 msgid "Update Medical Data_any"
-msgstr "Actualitza la datació mèdica"
+msgstr "Actualitza les dades mèdiques_qualsevol"
 
 #: 
 msgid "Update Medical Form_family"
-msgstr "Actualitza la família de formes mèdiques"
+msgstr "Actualitza el formulari mèdic_família"
 
 #: 
 msgid "Update Personal Data_any"
-msgstr "Actualitza les dades personals"
+msgstr "Actualitza les dades personals_qualsevol"
 
 #: 
 msgid "Update Personal Data_family"
-msgstr "Actualitza la família de dades personals"
+msgstr "Actualitza les dades personals_família"
 
 #: 
 msgid "View Activities_studentRegister"
-msgstr "Visualitza ActivitatsEstudiantRegistre"
+msgstr "Veure Activitats_registreEstudiant"
 
 #: 
 msgid "View Activities_studentRegisterByParent"
-msgstr "Mostra l'estudiantActivitatsRegisterByParent"
+msgstr "Veure Activitats_registreEstudiantPerResponsables"
 
 #: 
 msgid "View Activities_view"
-msgstr "Visualitza la vista d'activitats"
+msgstr "Veure Activitats_vista"
 
 #: 
 msgid "View Markbook_allClassesAllData"
-msgstr "Mostra MarkbookallClassesAllData"
+msgstr "Mostra Quadern de Notes_totesLesClassesTotesLesDates"
 
 #: 
 msgid "View Markbook_myMarks"
-msgstr "Visualitza MarkbookmyMarks"
+msgstr "Mostra Quadern de Notes_lesmeuesMarques"
 
 #: 
 msgid "View Staff Profile_brief"
-msgstr "Mostra la clau de perfil del pentagrama"
+msgstr "Veure el perfil del personal_resum"
 
 #: 
 msgid "View Staff Profile_full"
-msgstr "Mostra el perfil del pentagrama"
+msgstr "Veure el perfil del personal_complet"
 
 #: 
 msgid "View Student Profile_brief"
-msgstr "Mostra la clau de perfil de l'estudiant"
+msgstr "Veure el perfil del estudiant_resum"
 
 #: 
 msgid "View Student Profile_full"
-msgstr "Mostra el perfil de l'estudiant"
+msgstr "Veure el perfil del estudiant_complet"
 
 #: 
 msgid "View Student Profile_myChildren"
-msgstr "Mostra el perfil de l'estudiant"
+msgstr "Veure el perfil del estudiant_elsmeusfills"
 
 #: 
 msgid "A report for bulk creation of student ID cards."
@@ -12156,15 +12146,15 @@ msgstr "Permet als gestors construir un programa d'activitats"
 
 #: 
 msgid "Allows parents to register their children for activities"
-msgstr "Permet als pares registrar els seus fills per a activitats"
+msgstr "Permet als responsables registrar els seus fills per a activitats"
 
 #: 
 msgid "Allows parents to view their children's classes"
-msgstr "Permet als pares veure les classes dels seus fills"
+msgstr "Permet als responsables veure les classes dels seus fills"
 
 #: 
 msgid "Allows parents to view their student's information"
-msgstr "Permet als pares veure la informació del seu estudiant"
+msgstr "Permet als responsables veure la informació del seu estudiant"
 
 #: 
 msgid "Allows students to view activities and register"
@@ -12300,11 +12290,11 @@ msgstr "Correu electrònic massiu a qualsevol dels meus cursos"
 
 #: 
 msgid "Bulk email to any of my form groups"
-msgstr "Correu electrònic massiu a qualsevol dels meus grups de formulari"
+msgstr "Correu electrònic massiu a qualsevol dels meues agrupacions"
 
 #: 
 msgid "Bulk email to any form group"
-msgstr "Correu electrònic massiu a qualsevol grup de formularis"
+msgstr "Correu electrònic massiu a qualsevol agrupacions"
 
 #: 
 msgid "Bulk email to any year group"
@@ -12396,23 +12386,23 @@ msgstr "Edita la configuració per al planificador"
 
 #: 
 msgid "Include parents in messages posted to activities"
-msgstr "Inclou els pares en els missatges enviats a les activitats"
+msgstr "Inclou els responsables en els missatges enviats a les activitats"
 
 #: 
 msgid "Include parents in messages posted to classes"
-msgstr "Inclou els pares en els missatges enviats a les classes"
+msgstr "Inclou els responsables en els missatges enviats a les classes"
 
 #: 
 msgid "Include parents in messages posted to courses"
-msgstr "Inclou els pares en els missatges enviats als cursos"
+msgstr "Inclou els responsables en els missatges enviats als cursos"
 
 #: 
 msgid "Include parents in messages posted to parents"
-msgstr "Inclou els pares en els missatges enviats als pares"
+msgstr "Inclou els responsables en els missatges enviats als responsables"
 
 #: 
 msgid "Include parents in messages posted to year group"
-msgstr "Inclou els pares en els missatges enviats al grup d'any"
+msgstr "Inclou els responsables en els missatges enviats al grup d'any"
 
 #: 
 msgid "Main system settings"
@@ -12516,7 +12506,7 @@ msgstr "Imprimeix un informe de totes les dades d'assistència en el curs escola
 
 #: 
 msgid "Print a report of form groups who have not been registered on a given day"
-msgstr "Imprimeix un informe de grups de formularis que no s'han registrat en un dia determinat"
+msgstr "Imprimeix un informe d'agrupacions que no s'han registrat en un dia determinat"
 
 #: 
 msgid "Print a report of students who are not physically on the school campus on a given day"
@@ -12540,15 +12530,15 @@ msgstr "Imprimeix la llista de pagaments"
 
 #: 
 msgid "Print form group lists showing count of various activity types"
-msgstr "Imprimeix les llistes de grups de formularis que mostren el recompte de diversos tipus d'activitats"
+msgstr "Imprimeix les llistes d'agrupacons que mostren el recompte de diversos tipus d'activitats"
 
 #: 
 msgid "Print student form group lists"
-msgstr "Imprimeix les llistes de grups de formularis d'estudiants"
+msgstr "Imprimeix les llistes d'agrupacions d'estudiants"
 
 #: 
 msgid "Print work summary statistical data by form group"
-msgstr "Imprimeix les dades estadístiques del resum de la feina per grup de formularis"
+msgstr "Imprimeix les dades estadístiques del resum de la feina per agrupació"
 
 #: 
 msgid "Provides an summary overview of items in the catalog."
@@ -12580,7 +12570,7 @@ msgstr "Mostra els detalls d'emergència dels SMS per ruta de transport"
 
 #: 
 msgid "Show students in form group, less those with an older sibling, so that letters can be carried home by oldest in family."
-msgstr "Mostra els estudiants en grup de forma, menys els que tenen un germà gran, de manera que les cartes es poden portar a casa per les més grans en família."
+msgstr "Mostra els estudiants en agrupacions, menys els que tenen un germà gran, de manera que les cartes es poden portar a casa per les més grans en família."
 
 #: 
 msgid "Shows privacy options selected, for those students with a selection made."
@@ -12592,7 +12582,7 @@ msgstr "Mostra els detalls del transport de l'estudiant"
 
 #: 
 msgid "Summarises gender and number of students across all form groups."
-msgstr "Resumeix gènere i nombre d'estudiants en tots els grups de forma."
+msgstr "Resumeix gènere i nombre d'estudiants en totes les agrupacions."
 
 #: 
 msgid "Summarises gender, age and school year"
@@ -12604,7 +12594,7 @@ msgstr "Presa assistència, una persona a la vegada"
 
 #: 
 msgid "Take attendance, one form group at a time"
-msgstr "Presa assistència, un grup de formulari alhora"
+msgstr "Presa assistència, un agrupació alhora"
 
 #: 
 msgid "Update Gibbon to a new version"
@@ -12612,7 +12602,7 @@ msgstr "Actualitza el Gibbon a una versió nova"
 
 #: 
 msgid "View a brief profile of form groups in school."
-msgstr "Veure un breu perfil de grups de formularis a l'escola."
+msgstr "Veure un breu perfil d'agrupacions a l'escola."
 
 #: 
 msgid "View all markbook information for all users"
@@ -12688,7 +12678,7 @@ msgstr "Mostra l'ús de l'espai segons el calendari"
 
 #: 
 msgid "View spread of enrolment over terms and days by form group"
-msgstr "Visualitza la distribució de la inscripció en termes i dies per grup de formularis"
+msgstr "Visualitza la distribució de la inscripció en termes i dies per agrupacions"
 
 #: 
 msgid "View unassigned rooms by timetable."
@@ -13096,7 +13086,7 @@ msgstr "Si el vostre professor no ha introduït els deures a Gibbon, o voleu gra
 
 #: 
 msgid "Parent Weekly Email Summary"
-msgstr "Resum de correu electrònic setmanal pare"
+msgstr "Resum de correu electrònic setmanal per als responsables"
 
 #: 
 msgid "This report shows responses to the weekly summary email, organised by calendar week and role group."
@@ -13104,7 +13094,7 @@ msgstr "Aquest informe mostra les respostes al correu de resum setmanal, organit
 
 #: 
 msgid "Choose Form Group & Week"
-msgstr "Tria la setmana del grup de formularis"
+msgstr "Tria la setmana de l'agrupació"
 
 #: 
 msgid "Calendar Week"
@@ -13239,7 +13229,7 @@ msgstr "Selecció de categories de rol"
 #: 
 #, fuzzy
 msgid "Each family in Gibbon must have one parent who is contact priority 1, and who must be enabled to receive email and SMS messages from %1$s. As a result, when targetting parents, you can be fairly certain that messages should get through to each family."
-msgstr "Cada família a Gibbon ha de tenir un pare que sigui el contacte prioritari 1, i que ha d'estar habilitat per rebre missatges de correu electrònic i SMS de %1$s. Com a resultat, quan es dirigeix als pares, es pot estar bastant segur que els missatges han d'arribar a cada família."
+msgstr "Cada família a Gibbon ha de tenir un responsable que sigui el contacte prioritari 1, i que ha d'estar habilitat per rebre missatges de correu electrònic i SMS de %1$s. Com a resultat, quan es dirigeix als responsables, es pot estar bastant segur que els missatges han d'arribar a cada família."
 
 #: 
 msgid "{person} has commented on your lesson plan {lessonName}."
@@ -13311,7 +13301,7 @@ msgstr "Opcions de l'acord de l'estudiant"
 
 #: 
 msgid "A name to use instead of \"Attainment\" in the first grade column of the markbook."
-msgstr "Un nom a usar en lloc de «Attainment» a la columna de primer grau del llibre de qualificacions."
+msgstr "Un nom que s'ha d'utilitzar en lloc d'un \"assoliment\" a la columna de primer grau del llibre de qualificacions."
 
 #: 
 msgid "A name to use instead of \"Effort\" in the second grade column of the markbook."
@@ -13319,7 +13309,7 @@ msgstr "Un nom a usar en lloc de \"Esforç\" a la columna de segon grau del llib
 
 #: 
 msgid "A short name to use instead of \"Attainment\" in the first grade column of the markbook."
-msgstr "Un nom curt que s'ha d'utilitzar en lloc de «Attainment» a la columna de primer grau del llibre de qualificacions."
+msgstr "Un nom curt que s'ha d'utilitzar en lloc d'\"assoliment\" a la columna de primer grau del llibre de qualificacions."
 
 #: 
 msgid "A short name to use instead of \"Effort\" in the second grade column of the markbook."
@@ -13492,7 +13482,7 @@ msgstr "Llindar de pagament en línia"
 
 #: 
 msgid "Parent Weekly Email Summary Include Behaviour"
-msgstr "Resum de correu electrònic setmanal pare Inclou comportament"
+msgstr "Resum de correu electrònic setmanal per als responsables Inclou comportament"
 
 #: 
 msgid "If invoices are payable online, what is the maximum payment allowed? Useful for controlling payment fees. No value means unlimited."
@@ -13500,7 +13490,7 @@ msgstr "Si les factures es paguen en línia, quin és el pagament màxim permès
 
 #: 
 msgid "Should behaviour information be included in the weekly planner email summary that goes out to parents?"
-msgstr "S'ha d'incloure la informació del comportament en el resum de correu electrònic setmanal del planificador que surt als pares?"
+msgstr "S'ha d'incloure la informació del comportament en el resum de correu electrònic setmanal del planificador que surt als responsables?"
 
 #: 
 msgid "Should invoices be payable online, via an encrypted link in the invoice? Requires correctly configured payment gateway in System Settings."
@@ -13548,12 +13538,12 @@ msgstr "En %1$s."
 #: 
 #, fuzzy
 msgid "All form groups have been registered today (%1$s)."
-msgstr "Avui s'han registrat tots els grups de formularis (%1$s)."
+msgstr "Avui s'han registrat totes les agrupacions (%1$s)."
 
 #: 
 #, fuzzy
 msgid "%1$s form groups have not been registered today  (%2$s)."
-msgstr "Avui no s'han registrat %1$s grups de formulari (%2$s)."
+msgstr "Avui no s'han registrat %1$s agrupacions (%2$s)."
 
 #: 
 msgid "Add Multiple"
@@ -13798,7 +13788,7 @@ msgstr "Moneda de sistema-wde per a transaccions financeres. El suport per al pa
 
 #: 
 msgid "Time, in seconds, before system logs a user out. Should be less than PHP's session.gc_maxlifetime option."
-msgstr "Temps, en segons, abans que el sistema registri un usuari. Ha de ser menor que l'opció de PHP session.gcmaxlifetime."
+msgstr "Temps, en segons, abans que el sistema registri un usuari. Ha de ser menor que l'opció de PHP session.gc_maxlifetime."
 
 #: 
 msgid "Learn With Us"
@@ -13806,7 +13796,7 @@ msgstr "Aprèn amb nosaltres"
 
 #: 
 msgid "This database will be created if it does not already exist. Collation should be utf8_general_ci."
-msgstr "Aquesta base de dades es crearà si no existeix. La col·lecció ha de ser utf8generalci."
+msgstr "Aquesta base de dades es crearà si no existeix. La col·lecció ha de ser utf8_general_ci."
 
 #: 
 msgid "Install Demo Data?"
@@ -13814,7 +13804,7 @@ msgstr "Voleu instal·lar les dades de demostració?"
 
 #: 
 msgid "../gibbon_demo.sql does not exist, so we will continue without demo data."
-msgstr "../gibbondemo.sql no existeix, de manera que continuarem sense dades de demostració."
+msgstr "../gibbon_demo.sql no existeix, de manera que continuarem sense dades de demostració."
 
 #: 
 msgid "There were some issues installing the demo data, but we will continue anyway."
@@ -14027,7 +14017,7 @@ msgstr "Valor ja en ús!"
 
 #: 
 msgid "All Staff"
-msgstr "Tot el pentagrama"
+msgstr "Tot el personal"
 
 #: 
 #, fuzzy
@@ -14169,7 +14159,7 @@ msgstr "Dona accés al control total de totes les despeses en tots els pressupos
 
 #: 
 msgid "Send messages parents of users by transport field."
-msgstr "Enviar missatges als pares dels usuaris per camp de transport."
+msgstr "Enviar missatges als responsables dels usuaris per camp de transport."
 
 #: 
 msgid "Send messages users by transport field."
@@ -14289,7 +14279,7 @@ msgstr "S'han d'activar les notes dels estudiants?"
 
 #: 
 msgid "Sound a system wide alarm to all staff."
-msgstr "Feu sonar una alarma àmplia del sistema a tot el pentagrama."
+msgstr "Feu sonar una alarma àmplia del sistema a tot el personal."
 
 #: 
 msgid "System role to be assigned to registering members of the public."
@@ -14354,31 +14344,31 @@ msgstr "Edita el pressupost"
 
 #: 
 msgid "Expense approval has been set as 'One Of', which means that only one of the people listed below (as well as someone with Full budget access) needs to approve an expense before it can go ahead."
-msgstr "L'aprovació de despeses s'ha establert com a \"D'una\", cosa que significa que només una de les persones que s'enumeren a continuació (així com algú amb accés complet al pressupost) ha d'aprovar una despesa abans que pugui seguir endavant."
+msgstr "L'aprovació de despeses s'ha establert com a 'D'una', cosa que significa que només una de les persones que s'enumeren a continuació (així com algú amb accés complet al pressupost) ha d'aprovar una despesa abans que pugui seguir endavant."
 
 #: 
 msgid "Expense approval has been set as 'One Of', which means that only one of the people listed below needs to approve an expense before it can go ahead."
-msgstr "L'aprovació de les despeses s'ha establert com a \"D'una\", cosa que significa que només una de les persones enumerades a continuació ha d'aprovar una despesa abans que pugui seguir endavant."
+msgstr "L'aprovació de les despeses s'ha establert com a 'D'una', cosa que significa que només una de les persones enumerades a continuació ha d'aprovar una despesa abans que pugui seguir endavant."
 
 #: 
 msgid "Expense approval has been set as 'Two Of', which means that only two of the people listed below (as well as someone with Full budget access) need to approve an expense before it can go ahead."
-msgstr "L'aprovació de despeses s'ha establert com a \"Dos\", cosa que significa que només dues de les persones que s'enumeren a continuació (així com algú amb accés complet al pressupost) necessiten aprovar una despesa abans que pugui seguir endavant."
+msgstr "L'aprovació de despeses s'ha establert com a 'Dos', cosa que significa que només dues de les persones que s'enumeren a continuació (així com algú amb accés complet al pressupost) necessiten aprovar una despesa abans que pugui seguir endavant."
 
 #: 
 msgid "Expense approval has been set as 'Two Of', which means that only two of the people listed below need to approve an expense before it can go ahead."
-msgstr "L'aprovació de la despesa s'ha establert com a \"Dos de\", cosa que significa que només dues de les persones enumerades a continuació han d'aprovar una despesa abans que pugui seguir endavant."
+msgstr "L'aprovació de la despesa s'ha establert com a 'Dos de', cosa que significa que només dues de les persones enumerades a continuació han d'aprovar una despesa abans que pugui seguir endavant."
 
 #: 
 msgid "Expense approval has been set as 'Chain Of All', which means that all of the people listed below (as well as someone with Full budget access) need to approve an expense, in order from lowest to highest, before it can go ahead."
-msgstr "L'aprovació de despeses s'ha establert com a \"Chain Of All\", el que significa que totes les persones que s'enumeren a continuació (així com algú amb accés complet al pressupost) necessiten aprovar una despesa, per ordre de més baix a més alt, abans que pugui seguir endavant."
+msgstr "L'aprovació de despeses s'ha establert com a 'Encadena Tots', el que significa que totes les persones que s'enumeren a continuació (així com algú amb accés complet al pressupost) necessiten aprovar una despesa, per ordre de més baix a més alt, abans que pugui seguir endavant."
 
 #: 
 msgid "Expense approval has been set as 'Chain Of All', which means that all of the people listed below need to approve an expense, in order from lowest to highest, before it can go ahead."
-msgstr "L'aprovació de despeses s'ha establert com a \"Chain Of All\", cosa que significa que totes les persones que s'enumeren a continuació han d'aprovar una despesa, per ordre de més baix a més alt, abans que pugui seguir endavant."
+msgstr "L'aprovació de despeses s'ha establert com a 'Encadena Tots', cosa que significa que totes les persones que s'enumeren a continuació han d'aprovar una despesa, per ordre de més baix a més alt, abans que pugui seguir endavant."
 
 #: 
 msgid "Expense Approval policies have not been set up: this should be done under Admin > School Admin > Finance Settings."
-msgstr "No s'han establert polítiques d'aprovació de despeses: això s'ha de fer a Admin d Administrador escolar . Configuració de finances."
+msgstr "No s'han establert polítiques d'aprovació de despeses: això s'ha de fer a Admin > Administrador escolar > Configuració de finances."
 
 #: 
 msgid "Add Expense Approver"
@@ -14559,7 +14549,7 @@ msgstr "Aprova"
 #: 
 #, fuzzy
 msgid "Your expense request for \"%1$s\" in budget \"%2$s\" has been rejected."
-msgstr "S'ha rebutjat la vostra sol·licitud de despesa per a «%1$s» en el pressupost «%2$s»."
+msgstr "S'ha rebutjat la vostra sol·licitud de despesa per a \"%1$s\" en el pressupost \"%2$s\"."
 
 #: 
 #, fuzzy
@@ -14693,7 +14683,7 @@ msgstr "Professors d'estudiants"
 
 #: 
 msgid "Library Borrowing"
-msgstr "Borrowing de la biblioteca"
+msgstr "Préstec de biblioteca"
 
 #: 
 msgid "General"
@@ -14919,7 +14909,7 @@ msgstr "Sincronitza"
 
 #: 
 msgid "Import cannot proceed, as the \"Mode\" field has been left blank."
-msgstr "La importació no pot continuar, ja que el camp «Mode» s'ha deixat en blanc."
+msgstr "La importació no pot continuar, ja que el camp \"Mode\" s'ha deixat en blanc."
 
 #: 
 msgid "User Photo"
@@ -15510,12 +15500,12 @@ msgstr "Inicieu la sessió a %1$s i utilitzeu la icona de notificació per compr
 
 #: 
 msgid "Attendance By Form Group"
-msgstr "Assistència per grup de formularis"
+msgstr "Assistència per agrupacions"
 
 #: 
 #, fuzzy
 msgid "A student (%1$s) in your form group has received a behaviour letter."
-msgstr "Un estudiant (%1$s) del vostre grup de formulari ha rebut una carta de comportament."
+msgstr "Un estudiant (%1$s) de la vostra agrupació ha rebut una carta de comportament."
 
 #: 
 msgid "Behaviour Letter for %1$s via %2$s at %3$s"
@@ -15561,7 +15551,7 @@ msgstr "Cartes de Comportament"
 
 #: 
 msgid "By using an %1$sincluded CLI script%2$s, %3$s can be configured to automatically generate and email behaviour letters to parents and tutors, once certain negative behaviour threshold levels have been reached. In your letter text you may use the following fields: %4$s"
-msgstr "Mitjançant l'ús d'un script de CLI %1$s inclòs%2$s, %3$s es pot configurar per generar automàticament i enviar cartes de comportament per correu electrònic als pares i tutors, una vegada que s'han assolit certs nivells de llindar de comportament negatiu. En el text de la carta podeu utilitzar els camps següents: %4$s"
+msgstr "Mitjançant l'ús d'un script de CLI %1$s inclòs%2$s, %3$s es pot configurar per generar automàticament i enviar cartes de comportament per correu electrònic als responsables i tutors, una vegada que s'han assolit certs nivells de llindar de comportament negatiu. En el text de la carta podeu utilitzar els camps següents: %4$s"
 
 #: 
 msgid "Analyse"
@@ -15593,7 +15583,7 @@ msgstr "Gestiona els camps personalitzats de l'usuari"
 
 #: 
 msgid "Staff Likes"
-msgstr "M'agrada el pentagrama"
+msgstr "M'agrada el personal"
 
 #: 
 msgid "View Internal Assessments"
@@ -15629,11 +15619,11 @@ msgstr "Permet a l'usuari veure cartes de comportament automatitzades enviades p
 
 #: 
 msgid "Allows parents to view invoices issued to members of their family."
-msgstr "Permet als pares veure les factures emeses als membres de la seva família."
+msgstr "Permet als responsables veure les factures emeses als membres de la seva família."
 
 #: 
 msgid "Allows parents to view their childrens' Internal Assessment results."
-msgstr "Permet als pares veure els resultats de l'Avaluació Interna dels seus fills."
+msgstr "Permet als responsables veure els resultats de l'Avaluació Interna dels seus fills."
 
 #: 
 msgid "Allows privileged users to create and manage Internal Assessment columns."
@@ -15842,15 +15832,15 @@ msgstr "Podeu editar el vostre nou registre creat %1$saquí%2$s."
 
 #: 
 msgid "Parent Dashboard"
-msgstr "Tauler pare"
+msgstr "Tauler de control dels responsables"
 
 #: 
 msgid "Student Dashboard"
-msgstr "Tauler d'estudiants"
+msgstr "Tauler de control d'estudiants"
 
 #: 
 msgid "Staff Dashboard"
-msgstr "Tauler del pentagrama"
+msgstr "Tauler de control del personal"
 
 #: 
 msgid "Copy this password if required:"
@@ -15947,7 +15937,7 @@ msgstr "Aquesta secció permet visualitzar els plans d'educació individual, on 
 
 #: 
 msgid "%1$s record(s) in current view"
-msgstr "%1$s registres a la vista actual"
+msgstr "%1$s registre(s) a la vista actual"
 
 #: 
 msgid "Bookable As Facility?"
@@ -16266,7 +16256,7 @@ msgstr "Obertura de treballs"
 
 #: 
 msgid "Staff Application Form Printout"
-msgstr "Impressió del formulari d'aplicació del pentagrama"
+msgstr "Impressió del formulari d'aplicació del personal"
 
 #: 
 msgid "Internal Candidate"
@@ -16616,7 +16606,7 @@ msgstr "No s'ha pogut descomprimir el fitxer d'importació."
 #: 
 #, fuzzy
 msgid "This form is very large and data will be truncated unless you edit php.ini. Add the line <i>max_input_vars=%1$s</i> to your php.ini file on your server."
-msgstr "Aquest formulari és molt gran i les dades es truncaran tret que editeu php.ini. Afegiu la línia <i>maxinputvars.%1$s</i> al fitxer php.ini del servidor."
+msgstr "Aquest formulari és molt gran i les dades es truncaran tret que editeu php.ini. Afegiu la línia <i>maxinputvars%1$s</i> al fitxer php.ini del servidor."
 
 #: 
 msgid "Staff Application Form Settings"
@@ -16624,7 +16614,7 @@ msgstr "Paràmetres del formulari d'aplicació del personal"
 
 #: 
 msgid "Staff Settings"
-msgstr "Paràmetres del pentagrama"
+msgstr "Paràmetres del  personal"
 
 #: 
 msgid "Email address not set."
@@ -16709,7 +16699,7 @@ msgstr "Permet a un coordinador de departament gestionar canvis per a totes les 
 
 #: 
 msgid "Allows a parent to view external assessment records for their children."
-msgstr "Permet a un pare veure els registres d'avaluació externs per als seus fills."
+msgstr "Permet a un responsable veure els registres d'avaluació externs per als seus fills."
 
 #: 
 msgid "Allows a student to view their own external assessment records."
@@ -16745,7 +16735,7 @@ msgstr "Permet la creació de plantilles de missatge."
 
 #: 
 msgid "Allows parents to view individual needs plans for members of their family."
-msgstr "Permet als pares veure els plans de necessitats individuals dels membres de la seva família."
+msgstr "Permet als responsable veure els plans de necessitats individuals dels membres de la seva família."
 
 #: 
 msgid "Allows prospective staff to apply for job openings."
@@ -16809,7 +16799,7 @@ msgstr "Habilita les marques d'obtenció RAW"
 
 #: 
 msgid "FacilityTypes"
-msgstr "FacilityTypes"
+msgstr "Tipus d'instal·lació"
 
 #: 
 msgid "First Day Of The Week"
@@ -16969,7 +16959,7 @@ msgstr "Tots els termes"
 
 #: 
 msgid "Assigned on "
-msgstr "Assignat el"
+msgstr "Assignat el "
 
 #: 
 msgid "Column Weighting"
@@ -17093,7 +17083,7 @@ msgstr "Si us plau, no dubteu a respondre a aquest correu si teniu qualsevol pre
 
 #: 
 msgid "Do not include a second parent/guardian"
-msgstr "No incloguis un segon pare/guardià"
+msgstr "No incloguis un segon responsable"
 
 #: 
 msgid "Dear %1$s,<br/><br/>Welcome to %2$s, %3$s's system for managing school information. You can access the system by going to %4$s and logging in with your new username (%5$s) and password (%6$s). You can learn more about using %7$s on the official support website (https://gibbonedu.org/support/parents).<br/><br/>In order to maintain the security of your data, we highly recommend you change your password to something easy to remember but hard to guess. This can be done by using the Preferences page after logging in (top-right of the screen).<br/><br/>"
@@ -17101,7 +17091,7 @@ msgstr "Benvolguts %1$s,<br/><br/>Benvinguts a %2$s, el sistema de %3$s per gest
 
 #: 
 msgid "Parents/Guardians"
-msgstr "Pares/Guardians"
+msgstr "Responsables"
 
 #: 
 msgid "No number available"
@@ -17117,7 +17107,7 @@ msgstr "El meu departament"
 
 #: 
 msgid "Staff Role"
-msgstr "Rol del pentagrama"
+msgstr "Rol del personal"
 
 #: 
 #, fuzzy
@@ -17241,7 +17231,7 @@ msgstr "Edita l'assistència"
 
 #: 
 msgid "Attendance taking has been disabled for this form group."
-msgstr "S'ha desactivat l'assistència en aquest grup de formularis."
+msgstr "S'ha desactivat l'assistència en aquesta agrupació."
 
 #: 
 msgid "Classes Not Registered"
@@ -17306,7 +17296,7 @@ msgstr "Copia les columnes"
 #: 
 #, fuzzy
 msgid "This action will copy the following columns from %s.%s to the current class %s.%s "
-msgstr "Aquesta acció copiarà les següents columnes de %s.%s a la classe actual %s.%s"
+msgstr "Aquesta acció copiarà les següents columnes de %s.%s a la classe actual %s.%s "
 
 #: 
 msgid "Target Scale"
@@ -17402,7 +17392,7 @@ msgstr "Fora"
 
 #: 
 msgid "Offsite - Left"
-msgstr "Fora de l'espai - A l'esquerra"
+msgstr "Fora de l'espai - Retirat"
 
 #: 
 msgid "Allow Future Use"
@@ -17426,7 +17416,7 @@ msgstr "Edita el codi d'assistència"
 
 #: 
 msgid "Up to 3 per form group."
-msgstr "Fins a 3 per grup de formulari."
+msgstr "Fins a 3 per agrupació."
 
 #: 
 msgid "Track Attendance?"
@@ -17447,7 +17437,7 @@ msgstr "Avui no s'han registrat %1$s classes (%2$s)."
 
 #: 
 msgid "A warning has been issued for a student (%1$s) in your form group, pending a behaviour letter."
-msgstr "S'ha emès un avís per a un estudiant (%1$s) en el vostre grup de formulari, pendent d'una carta de comportament."
+msgstr "S'ha emès un avís per a un estudiant (%1$s) en la vostra agrupació, pendent d'una carta de comportament."
 
 #: 
 #, fuzzy
@@ -17540,7 +17530,7 @@ msgstr "Edita els registres d'assistència dels estudiants."
 
 #: 
 msgid "Manage settings that control Staff, Student and Parent dashboards."
-msgstr "Gestiona els paràmetres que controlen els taulers de control del personal, l'estudiant i el pare."
+msgstr "Gestiona els paràmetres que controlen els taulers de control del personal, l'estudiant i el responsable."
 
 #: 
 msgid "Print a report of classes who have not been registered on a given day"
@@ -17556,7 +17546,7 @@ msgstr "Presa assistència, una classe a la vegada"
 
 #: 
 msgid "View attendance, by form group and class"
-msgstr "Mostra l'assistència, per grup de formularis i classe"
+msgstr "Mostra l'assistència, per agrupació i classe"
 
 #: 
 msgid "View full profile of any student in the school, without access to Notes."
@@ -17584,7 +17574,7 @@ msgstr "Habilita les notificacions per classe"
 
 #: 
 msgid "Enable Notifications by Form Group"
-msgstr "Habilita les notificacions per grup de formularis"
+msgstr "Habilita les notificacions per agrupacions"
 
 #: 
 msgid "Enable Rubrics"
@@ -17620,7 +17610,7 @@ msgstr "Plantilla de revisió de notes"
 
 #: 
 msgid "Parent Dashboard Default Tab"
-msgstr "Pestanya predeterminada del tauler pare"
+msgstr "Pestanya predeterminada del tauler de control del responsable"
 
 #: 
 msgid "Password - Alpha Requirement"
@@ -17736,7 +17726,7 @@ msgstr "Contrasenya a utilitzar per a l'autenticació SMTP. Deixeu-ho en blanc p
 
 #: 
 msgid "Send the school-wide daily attendance report to additional users. Restricted to roles with permission to access Form Groups Not Registered or Classes Not Registered."
-msgstr "Enviar l'informe d'assistència diària a tot l'escola a usuaris addicionals. Restringit a rols amb permís per accedir a grups de formularis no registrats o classes no registrades."
+msgstr "Enviar l'informe d'assistència diària a tot l'escola a usuaris addicionals. Restringit a rols amb permís per accedir a agrupacions no registrades o classes no registrades."
 
 #: 
 msgid "Set the hostname of the mail server."
@@ -17756,15 +17746,15 @@ msgstr "Les columnes han de tenir activada la secció d'esforç?"
 
 #: 
 msgid "The default landing tab for the parent dashboard."
-msgstr "La pestanya d'aterratge per defecte per al tauler pare."
+msgstr "La pestanya d'aterratge per defecte per al tauler de control del responsable."
 
 #: 
 msgid "The default landing tab for the staff dashboard."
-msgstr "La pestanya d'aterratge per defecte per al tauler del pentagrama."
+msgstr "La pestanya d'aterratge per defecte per al tauler de control del personal."
 
 #: 
 msgid "The default landing tab for the student dashboard."
-msgstr "La pestanya d'aterratge per defecte per al tauler d'estudiants."
+msgstr "La pestanya d'aterratge per defecte per al tauler de control d'estudiants."
 
 #: 
 msgid "This is the scale used as a default where assessment scales need to be selected."
@@ -17839,7 +17829,7 @@ msgstr "Per destinatari"
 
 #: 
 msgid "By Form Group"
-msgstr "Per grup de formulari"
+msgstr "Per agrupació"
 
 #: 
 msgid "Receipt Confirmation Text"
@@ -17919,11 +17909,11 @@ msgstr "Unitats sense conceptes Paraules clau"
 
 #: 
 msgid "The contents of both the Unit Outline field and the Downloadable Unit Outline are available to all users who can access this unit via the Lesson Planner (possibly include parents and students)."
-msgstr "Els continguts del camp Esquema d'unitats i Esquema d'unitats descarregables estan disponibles per a tots els usuaris que poden accedir a aquesta unitat a través del Planificador de lliçons (possiblement inclouen pares i estudiants)."
+msgstr "Els continguts del camp Esquema d'unitats i Esquema d'unitats descarregables estan disponibles per a tots els usuaris que poden accedir a aquesta unitat a través del Planificador de lliçons (possiblement inclouen responsable i estudiants)."
 
 #: 
 msgid "The contents of the Unit Outline field are viewable only to those with full access to the Planner (usually teachers and administrators, but not students and parents), whereas the downloadable version (below) is available to more users (usually parents)."
-msgstr "Els continguts del camp d'esquema de la unitat només es poden visualitzar per a aquells amb accés complet al Planner (normalment professors i administradors, però no estudiants i pares), mentre que la versió descarregable (a sota) està disponible per a més usuaris (normalment pares)."
+msgstr "Els continguts del camp d'esquema de la unitat només es poden visualitzar per a aquells amb accés complet al Planificador (normalment professors i administradors, però no estudiants i responsables), mentre que la versió descarregable (a sota) està disponible per a més usuaris (normalment responsables)."
 
 #: 
 msgid "Attendance CLI"
@@ -18007,12 +17997,12 @@ msgstr "Elimina"
 
 #: 
 msgid "Add linked application(s)"
-msgstr "Afegeix una(es) aplicació(es) vinculada(es)"
+msgstr "Afegeix aplicació vinculada(es)"
 
 #: 
 #, fuzzy
 msgid "Dear Parent%1$sThank you for applying for a student place at %2$s."
-msgstr "Estimat pare%1$sGràcies per sol·licitar una plaça d'estudiant a %2$s."
+msgstr "Estimat responsable %1$s Gràcies per sol·licitar una plaça d'estudiant a %2$s."
 
 #: 
 #, fuzzy
@@ -18054,7 +18044,7 @@ msgstr "Per defecte, aquest informe compta tots els estudiants que estan matricu
 
 #: 
 msgid "Preferred, surname, username, student ID, email, phone number, vehicle registration, parent email."
-msgstr "Preferit, cognoms, nom d'usuari, DNI de l'estudiant, correu electrònic, número de telèfon, matrícula del vehicle, correu electrònic pare."
+msgstr "Preferit, cognoms, nom d'usuari, DNI de l'estudiant, correu electrònic, número de telèfon, matrícula del vehicle, correu electrònic del responsable."
 
 #: 
 msgid "MySQL Collation"
@@ -18118,7 +18108,7 @@ msgstr "Introduïu el vostre nom d'usuari %1$s, o l'adreça de correu electròni
 
 #: 
 msgid "Password reset request successfully initiated, please check your email."
-msgstr "La sol·licitud de restabliment de contrasenya s'ha iniciat correctament. Comproveu el vostre correu electrònic."
+msgstr "La sol·licitud de restabliment de contrasenya s'ha iniciat correctament, comproveu el vostre correu electrònic."
 
 #: 
 msgid "Your reset request is invalid: you may not proceed."
@@ -18204,7 +18194,7 @@ msgstr "Permet que un organitzador d'activitats gestioni la inscripció per a le
 
 #: 
 msgid "Allows parents to view their children's timetable"
-msgstr "Permet als pares veure l'horari dels seus fills"
+msgstr "Permet als responsables veure l'horari dels seus fills"
 
 #: 
 msgid "Allows students to self register as Present, provided they are within a certain range of IP addresses."
@@ -18240,7 +18230,7 @@ msgstr "Tipus d'assistència de classe per defecte"
 
 #: 
 msgid "Default Form Group Attendance Type"
-msgstr "Tipus d'assistència per defecte del grup de formularis"
+msgstr "Tipus d'assistència per defecte de les agrupacions"
 
 #: 
 msgid "Enable Display Cumulative Marks"
@@ -18316,7 +18306,7 @@ msgstr "L'assistència per persona s'ha d'omplir prèviament amb dades disponibl
 
 #: 
 msgid "Should cumulative marks be displayed on the View Markbook page for Students and Parents and in Student Profiles?"
-msgstr "S'han de mostrar les qualificacions acumulades a la pàgina Visualitza el llibre de marques per a estudiants i pares i en els perfils dels estudiants?"
+msgstr "S'han de mostrar les qualificacions acumulades a la pàgina Visualitza el llibre de marques per a estudiants i responsables i en els perfils dels estudiants?"
 
 #: 
 msgid "Should the Payment section be turned on?"
@@ -18336,7 +18326,7 @@ msgstr "La selecció predeterminada per al tipus d'assistència en prendre l'ass
 
 #: 
 msgid "The default selection for attendance type when taking Form Group attendance"
-msgstr "La selecció per defecte per al tipus d'assistència en prendre l'assistència del grup de formularis"
+msgstr "La selecció per defecte per al tipus d'assistència en prendre l'assistència de l'agrupació"
 
 #: 
 msgid "The number of Behaviour concerns needed in the past 60 days to raise a high level alert on a student."
@@ -18560,7 +18550,7 @@ msgstr "Nom informal invertit"
 
 #: 
 msgid "Parent Weekly Email Summary Include Markbook"
-msgstr "Resum de correu electrònic setmanal pare Inclou Markbook"
+msgstr "Resum de correu electrònic setmanal al responsable Inclou Quadern de notes"
 
 #: 
 msgid "Unique Email Address"
@@ -18580,7 +18570,7 @@ msgstr "S'ha d'activar o desactivar l'automatrícula de nous estudiants en curso
 
 #: 
 msgid "Should Markbook information be included in the weekly planner email summary that goes out to parents?"
-msgstr "Cal incloure la informació del Markbook en el resum de correu electrònic del planificador setmanal que surt als pares?"
+msgstr "Cal incloure la informació del Quadern de notes en el resum de correu electrònic del planificador setmanal que surt als responsables?"
 
 #: 
 msgid "The number of Markbook concerns needed in the past 60 days to raise a high level academic alert on a student."
@@ -18743,7 +18733,7 @@ msgstr "Els camps següents són necessaris per generar un nom d'usuari:"
 
 #: 
 msgid "Short Text (max 255 characters)"
-msgstr "Text curt (màx. 255 caràcters)"
+msgstr "Text curt (màx 255 caràcters)"
 
 #: 
 msgid "Long Text"
@@ -18783,7 +18773,7 @@ msgstr "Opcions de les dades de l'usuari"
 
 #: 
 msgid "Form Group"
-msgstr "Grup de formularis"
+msgstr "Agrupacions"
 
 #: 
 msgid "Re-Enrol"
@@ -18824,7 +18814,7 @@ msgstr "Si suprimiu un membre del personal, es perdran els canvis no desats en a
 
 #: 
 msgid "RGB Hex value, without leading #."
-msgstr "Valor hexadecimal RGB, sense . inicial."
+msgstr "Valor hexadecimal RGB, sense inicial #."
 
 #: 
 msgid "Needs to be unique in school year."
@@ -18939,7 +18929,7 @@ msgstr "El sistema pot realitzar opcionalment les següents accions:"
 
 #: 
 msgid "Automatically enrol student in classes for Form Group."
-msgstr "Matrícula automàtica de l'estudiant a les classes del Grup Formulari."
+msgstr "Matrícula automàtica de l'estudiant a les classes de l'agrupació."
 
 #: 
 msgid "Student could not be automatically enrolled in courses, so this will have to be done manually at a later date."
@@ -18947,7 +18937,7 @@ msgstr "L'estudiant no s'ha pogut matricular automàticament als cursos, de mane
 
 #: 
 msgid "The student has automatically been enrolled in courses for their Form Group."
-msgstr "L'estudiant s'ha matriculat automàticament a les assignatures del seu grup de formularis."
+msgstr "L'estudiant s'ha matriculat automàticament a les assignatures del seua agrupació."
 
 #: 
 #, fuzzy
@@ -18960,7 +18950,7 @@ msgstr "No hi ha adreces de correu electrònic d'estudiant a les quals enviar."
 
 #: 
 msgid "There are no parent email addresses to send to."
-msgstr "No hi ha adreces de correu electrònic pare a on enviar."
+msgstr "No hi ha adreces de correu electrònic dels responsables a les quals enviar."
 
 #: 
 #, fuzzy
@@ -18981,11 +18971,11 @@ msgstr "Automatrícula de cursos?"
 
 #: 
 msgid "Should this student be automatically enrolled in courses for their Form Group?"
-msgstr "S'ha d'inscriure automàticament aquest estudiant en els cursos del seu grup de formularis?"
+msgstr "S'ha d'inscriure automàticament aquest estudiant en els cursos de les seues agrupacions?"
 
 #: 
 msgid "This will replace any auto-enrolled courses if the student Form Group has changed."
-msgstr "Això substituirà qualsevol curs automatrículat si el grup de formularis de l'estudiant ha canviat."
+msgstr "Això substituirà qualsevol curs automatrículat si la agrupació de l'estudiant ha canviat."
 
 #: 
 msgid "Prefix"
@@ -19005,7 +18995,7 @@ msgstr "Llista separada per comes de l'adreça electrònica"
 
 #: 
 msgid "Skip sending a notification email to parents?"
-msgstr "Voleu ometre enviar un correu electrònic de notificació als pares?"
+msgstr "Voleu ometre enviar un correu electrònic de notificació als responsable?"
 
 #: 
 msgid "N"
@@ -19013,7 +19003,7 @@ msgstr "N"
 
 #: 
 msgid "Y"
-msgstr "Y"
+msgstr "S"
 
 #: 
 msgid "There is an error with this form!"
@@ -19181,7 +19171,7 @@ msgstr "Classes de mapa"
 
 #: 
 msgid "Syncing enrolment lets you enrol students into courses by mapping them to a Form Group and Year Group within the school. If auto-enrol is turned on, new students accepted through the application form and student enrolment process will be enrolled in courses automatically."
-msgstr "La sincronització de la matrícula us permet inscriure els estudiants en els cursos assignant-los a un grup de formulari i un grup d'any dins de l'escola. Si s'activa l'automatrícula, els estudiants de nou ingrés acceptats a través del formulari de sol·licitud i el procés de matrícula dels estudiants es matricularan automàticament a les assignatures."
+msgstr "La sincronització de la matrícula us permet inscriure els estudiants en els cursos assignant-los a una agrupació i un grup d'any dins de l'escola. Si s'activa l'automatrícula, els estudiants de nou ingrés acceptats a través del formulari de sol·licitud i el procés de matrícula dels estudiants es matricularan automàticament a les assignatures."
 
 #: 
 msgid "Sync All"
@@ -19222,7 +19212,7 @@ msgstr "Compara amb el patró"
 #: 
 #, fuzzy
 msgid "Classes will be matched to Form Groups that fit the specified pattern. Choose from %1$s. Must contain %2$s"
-msgstr "Les classes coincidiran amb els grups de formulari que s'ajustin al patró especificat. Trieu entre %1$s. Ha de contenir %2$s"
+msgstr "Les classes coincidiran amb les agrupacions que s'ajustin al patró especificat. Trieu entre %1$s. Ha de contenir %2$s"
 
 #: 
 msgid "Database Settings"
@@ -19316,7 +19306,7 @@ msgstr "Àfrica/Accra"
 
 #: 
 msgid "Africa/Addis_Ababa"
-msgstr "Àfrica/AddisAbaba"
+msgstr "Àfrica/Addis_Ababa"
 
 #: 
 msgid "Africa/Algiers"
@@ -19376,7 +19366,7 @@ msgstr "Àfrica/Dakar"
 
 #: 
 msgid "Africa/Dar_es_Salaam"
-msgstr "Àfrica/DaresSalaam"
+msgstr "Àfrica/Dar_es_Salaam"
 
 #: 
 msgid "Africa/Djibouti"
@@ -19388,7 +19378,7 @@ msgstr "Àfrica/Douala"
 
 #: 
 msgid "Africa/El_Aaiun"
-msgstr "Àfrica/ElAaiun"
+msgstr "Àfrica/El_Aaiun"
 
 #: 
 msgid "Africa/Freetown"
@@ -19500,7 +19490,7 @@ msgstr "Àfrica/Porto-Novo"
 
 #: 
 msgid "Africa/Sao_Tome"
-msgstr "Àfrica / SaoTome"
+msgstr "Àfrica / Sao_Tome"
 
 #: 
 msgid "Africa/Tripoli"
@@ -19536,7 +19526,7 @@ msgstr "Amèrica/Araguaina"
 
 #: 
 msgid "America/Argentina/Buenos_Aires"
-msgstr "Amèrica/Argentina/BuenosAires"
+msgstr "Amèrica/Argentina/Buenos_Aires"
 
 #: 
 msgid "America/Argentina/Catamarca"
@@ -19552,7 +19542,7 @@ msgstr "Amèrica/Argentina/Jujuy"
 
 #: 
 msgid "America/Argentina/La_Rioja"
-msgstr "Amèrica/Argentina/LaRioja"
+msgstr "Amèrica/Argentina/La_Rioja"
 
 #: 
 msgid "America/Argentina/Mendoza"
@@ -19560,7 +19550,7 @@ msgstr "Amèrica/Argentina/Mendoza"
 
 #: 
 msgid "America/Argentina/Rio_Gallegos"
-msgstr "Amèrica/Argentina/RioGallegos"
+msgstr "Amèrica/Argentina/Rio_Gallegos"
 
 #: 
 msgid "America/Argentina/Salta"
@@ -19568,11 +19558,11 @@ msgstr "Amèrica/Argentina/Salta"
 
 #: 
 msgid "America/Argentina/San_Juan"
-msgstr "Amèrica/Argentina/SanJuan"
+msgstr "Amèrica/Argentina/San_Juan"
 
 #: 
 msgid "America/Argentina/San_Luis"
-msgstr "Amèrica/Argentina/SanLuis"
+msgstr "Amèrica/Argentina/San_Luis"
 
 #: 
 msgid "America/Argentina/Tucuman"
@@ -19600,7 +19590,7 @@ msgstr "Amèrica/Bahia"
 
 #: 
 msgid "America/Bahia_Banderas"
-msgstr "Amèrica/BahiaBanderas"
+msgstr "Amèrica/Bahia_Banderas"
 
 #: 
 msgid "America/Barbados"
@@ -19620,7 +19610,7 @@ msgstr "Amèrica/Sablon"
 
 #: 
 msgid "America/Boa_Vista"
-msgstr "Amèrica/BoaVista"
+msgstr "Amèrica/Boa_Vista"
 
 #: 
 msgid "America/Bogota"
@@ -19632,11 +19622,11 @@ msgstr "Amèrica/Boise"
 
 #: 
 msgid "America/Cambridge_Bay"
-msgstr "Amèrica/CambridgeBay"
+msgstr "Amèrica/Cambridge_Bay"
 
 #: 
 msgid "America/Campo_Grande"
-msgstr "Amèrica/CampoGrande"
+msgstr "Amèrica/Campo_Grande"
 
 #: 
 msgid "America/Cancun"
@@ -19664,7 +19654,7 @@ msgstr "Amèrica/Chihuahua"
 
 #: 
 msgid "America/Costa_Rica"
-msgstr "Amèrica/CostaRica"
+msgstr "Amèrica/Costa_Rica"
 
 #: 
 msgid "America/Creston"
@@ -19688,7 +19678,7 @@ msgstr "Amèrica/Dawson"
 
 #: 
 msgid "America/Dawson_Creek"
-msgstr "Amèrica/DawsonCreek"
+msgstr "Amèrica/Dawson_Creek"
 
 #: 
 msgid "America/Denver"
@@ -19712,11 +19702,11 @@ msgstr "Amèrica/Eirunepe"
 
 #: 
 msgid "America/El_Salvador"
-msgstr "Amèrica/ElSalvador"
+msgstr "Amèrica/El_Salvador"
 
 #: 
 msgid "America/Fort_Nelson"
-msgstr "Amèrica/FortNelson"
+msgstr "Amèrica/Fort_Nelson"
 
 #: 
 msgid "America/Fortaleza"
@@ -19724,7 +19714,7 @@ msgstr "Amèrica/Fortaleza"
 
 #: 
 msgid "America/Glace_Bay"
-msgstr "Amèrica/GlaceBay"
+msgstr "Amèrica/Glace_Bay"
 
 #: 
 msgid "America/Godthab"
@@ -19732,11 +19722,11 @@ msgstr "Amèrica/Godthab"
 
 #: 
 msgid "America/Goose_Bay"
-msgstr "Amèrica/GooseBay"
+msgstr "Amèrica/Goose_Bay"
 
 #: 
 msgid "America/Grand_Turk"
-msgstr "Amèrica/GrandTurk"
+msgstr "Amèrica/Grand_Turk"
 
 #: 
 msgid "America/Grenada"
@@ -19788,7 +19778,7 @@ msgstr "Amèrica/Indiana/Petersburg"
 
 #: 
 msgid "America/Indiana/Tell_City"
-msgstr "Amèrica/Indiana/TellCity"
+msgstr "Amèrica/Indiana/Tell_City"
 
 #: 
 msgid "America/Indiana/Vevay"
@@ -19832,7 +19822,7 @@ msgstr "Amèrica/Kralendijk"
 
 #: 
 msgid "America/La_Paz"
-msgstr "Amèrica/LaPaz"
+msgstr "Amèrica/La_Paz"
 
 #: 
 msgid "America/Lima"
@@ -19840,11 +19830,11 @@ msgstr "Amèrica/Lima"
 
 #: 
 msgid "America/Los_Angeles"
-msgstr "Amèrica/LosAngeles"
+msgstr "Amèrica/Los_Angeles"
 
 #: 
 msgid "America/Lower_Princes"
-msgstr "Amèrica/LowerPrinces"
+msgstr "Amèrica/Lower_Princes"
 
 #: 
 msgid "America/Maceio"
@@ -19888,7 +19878,7 @@ msgstr "Amèrica/Metlakatla"
 
 #: 
 msgid "America/Mexico_City"
-msgstr "Amèrica/MexicoCity"
+msgstr "Amèrica/Mexico_City"
 
 #: 
 msgid "America/Miquelon"
@@ -19932,15 +19922,15 @@ msgstr "Amèrica/Noronha"
 
 #: 
 msgid "America/North_Dakota/Beulah"
-msgstr "Amèrica/NorthDakota/Beulah"
+msgstr "Amèrica/North_Dakota/Beulah"
 
 #: 
 msgid "America/North_Dakota/Center"
-msgstr "Amèrica/NorthDakota/Center"
+msgstr "Amèrica/North_Dakota/Center"
 
 #: 
 msgid "America/North_Dakota/New_Salem"
-msgstr "Amèrica/NorthDakota/NewSalem"
+msgstr "Amèrica/North_Dakota/NewSalem"
 
 #: 
 msgid "America/Ojinaga"
@@ -19968,23 +19958,23 @@ msgstr "Amèrica/Port-au-Prince"
 
 #: 
 msgid "America/Port_of_Spain"
-msgstr "Amèrica/PortofSpain"
+msgstr "Amèrica/Port_of_Spain"
 
 #: 
 msgid "America/Porto_Velho"
-msgstr "Amèrica/PortoVelho"
+msgstr "Amèrica/Porto_Velho"
 
 #: 
 msgid "America/Puerto_Rico"
-msgstr "Amèrica/PuertoRico"
+msgstr "Amèrica/Puerto_Rico"
 
 #: 
 msgid "America/Rainy_River"
-msgstr "Amèrica/RainyRiver"
+msgstr "Amèrica/Rainy_River"
 
 #: 
 msgid "America/Rankin_Inlet"
-msgstr "Amèrica/RankinInlet"
+msgstr "Amèrica/Rankin_Inlet"
 
 #: 
 msgid "America/Recife"
@@ -20000,7 +19990,7 @@ msgstr "Amèrica/Resolute"
 
 #: 
 msgid "America/Rio_Branco"
-msgstr "Amèrica/RioBranco"
+msgstr "Amèrica/Rio_Branco"
 
 #: 
 msgid "America/Santarem"
@@ -20012,11 +20002,11 @@ msgstr "Amèrica/Santiago"
 
 #: 
 msgid "America/Santo_Domingo"
-msgstr "Amèrica/SantoDomingo"
+msgstr "Amèrica/Santo_Domingo"
 
 #: 
 msgid "America/Sao_Paulo"
-msgstr "Amèrica/SaoPaulo"
+msgstr "Amèrica/Sao_Paulo"
 
 #: 
 msgid "America/Scoresbysund"
@@ -20028,31 +20018,31 @@ msgstr "Amèrica/Sitka"
 
 #: 
 msgid "America/St_Barthelemy"
-msgstr "Amèrica/StBarthelemy"
+msgstr "Amèrica/St_Barthelemy"
 
 #: 
 msgid "America/St_Johns"
-msgstr "Amèrica/StJohns"
+msgstr "Amèrica/St_Johns"
 
 #: 
 msgid "America/St_Kitts"
-msgstr "Amèrica/StKitts"
+msgstr "Amèrica/St_Kitts"
 
 #: 
 msgid "America/St_Lucia"
-msgstr "Amèrica/StLucia"
+msgstr "Amèrica/St_Lucia"
 
 #: 
 msgid "America/St_Thomas"
-msgstr "Amèrica/StThomas"
+msgstr "Amèrica/St_Thomas"
 
 #: 
 msgid "America/St_Vincent"
-msgstr "Amèrica/Inferior"
+msgstr "Amèrica/St_Vincent"
 
 #: 
 msgid "America/Swift_Current"
-msgstr "Amèrica/SwiftCurrent"
+msgstr "Amèrica/Swift_Current"
 
 #: 
 msgid "America/Tegucigalpa"
@@ -20064,7 +20054,7 @@ msgstr "Amèrica/Thule"
 
 #: 
 msgid "America/Thunder_Bay"
-msgstr "Amèrica/ThunderBay"
+msgstr "Amèrica/Thunder_Bay"
 
 #: 
 msgid "America/Tijuana"
@@ -20256,11 +20246,11 @@ msgstr "Àsia/Hebron"
 
 #: 
 msgid "Asia/Ho_Chi_Minh"
-msgstr "Àsia/HoChiMinh"
+msgstr "Àsia/Ho_Chi_Minh"
 
 #: 
 msgid "Asia/Hong_Kong"
-msgstr "Àsia/HongKong"
+msgstr "Àsia/Hong_Kong"
 
 #: 
 msgid "Asia/Hovd"
@@ -20312,7 +20302,7 @@ msgstr "Àsia/Krasnoyarsk"
 
 #: 
 msgid "Asia/Kuala_Lumpur"
-msgstr "Àsia/KualaLumpur"
+msgstr "Àsia/Kuala_Lumpur"
 
 #: 
 msgid "Asia/Kuching"
@@ -20364,7 +20354,7 @@ msgstr "Àsia/Oral"
 
 #: 
 msgid "Asia/Phnom_Penh"
-msgstr "Àsia/PhnomPenh"
+msgstr "Àsia/Phnom_Penh"
 
 #: 
 msgid "Asia/Pontianak"
@@ -20488,7 +20478,7 @@ msgstr "Atlàntic/Canari"
 
 #: 
 msgid "Atlantic/Cape_Verde"
-msgstr "Atlàntic/CapeVerde"
+msgstr "Atlàntic/Cape_Verde"
 
 #: 
 msgid "Atlantic/Faroe"
@@ -20504,11 +20494,11 @@ msgstr "Atlàntic/Reykjavik"
 
 #: 
 msgid "Atlantic/South_Georgia"
-msgstr "Atlàntic/Geòrgia del Sud"
+msgstr "Atlàntic/Geòrgia_del_Sud"
 
 #: 
 msgid "Atlantic/St_Helena"
-msgstr "Atlàntic/EstHelena"
+msgstr "Atlàntic/St_Helena"
 
 #: 
 msgid "Atlantic/Stanley"
@@ -20524,11 +20514,11 @@ msgstr "Austràlia/Brisbane"
 
 #: 
 msgid "Australia/Broken_Hill"
-msgstr "Austràlia/BrokenHill"
+msgstr "Austràlia/Broken_Hill"
 
 #: 
 msgid "Australia/Currie"
-msgstr "Austràlia/Ciutat"
+msgstr "Austràlia/Currie"
 
 #: 
 msgid "Australia/Darwin"
@@ -20540,7 +20530,7 @@ msgstr "Austràlia/Eucla"
 
 #: 
 msgid "Australia/Hobart"
-msgstr "Austràlia / Hongart"
+msgstr "Austràlia/Hongart"
 
 #: 
 msgid "Australia/Lindeman"
@@ -20548,7 +20538,7 @@ msgstr "Austràlia/Lindeman"
 
 #: 
 msgid "Australia/Lord_Howe"
-msgstr "Austràlia/LordHowe"
+msgstr "Austràlia/Lord_Howe"
 
 #: 
 msgid "Australia/Melbourne"
@@ -20632,7 +20622,7 @@ msgstr "Europa/Helsinki"
 
 #: 
 msgid "Europe/Isle_of_Man"
-msgstr "Europa/IsleofMan"
+msgstr "Europa/Isle_of_Man"
 
 #: 
 msgid "Europe/Istanbul"
@@ -20724,7 +20714,7 @@ msgstr "Europa/Samara"
 
 #: 
 msgid "Europe/San_Marino"
-msgstr "Europa/SanMarino"
+msgstr "Europa/San_Marino"
 
 #: 
 msgid "Europe/Sarajevo"
@@ -20956,7 +20946,7 @@ msgstr "Pacífic/Noumea"
 
 #: 
 msgid "Pacific/Pago_Pago"
-msgstr "Pacífic/Pagopa"
+msgstr "Pacífic/Pago_Pago"
 
 #: 
 msgid "Pacific/Palau"
@@ -20972,7 +20962,7 @@ msgstr "Pacífic/Pohnpei"
 
 #: 
 msgid "Pacific/Port_Moresby"
-msgstr "Pacífic/PortMoresby"
+msgstr "Pacífic/Port_Moresby"
 
 #: 
 msgid "Pacific/Rarotonga"
@@ -21053,7 +21043,7 @@ msgstr "Incloure estudiants?"
 
 #: 
 msgid "Include Parents?"
-msgstr "Incloure els pares?"
+msgstr "Incloure els responsables?"
 
 #: 
 #, fuzzy
@@ -21067,7 +21057,7 @@ msgstr "L'assistència s'ha pres avui per a vostè. El vostre estat actual és: 
 
 #: 
 msgid "Activity Choices by Form Group"
-msgstr "Opcions d'activitat per grup de formularis"
+msgstr "Opcions d'activitat per agrupació"
 
 #: 
 msgid "Ended"
@@ -21084,7 +21074,7 @@ msgstr "Instal·lador del Gibbon"
 
 #: 
 msgid "This report prints all parent mobile phone numbers, whether or not they are set to receive messages from the school. It is useful when sending emergency SMS messages to groups of students. If no parent mobile is available it will display the emergency numbers given in the student record, and this will appear in red."
-msgstr "Aquest informe imprimeix tots els números de telèfon mòbil pare, tant si estan configurats com si no per rebre missatges de l'escola. És útil en enviar missatges SMS d'emergència a grups d'estudiants. Si no hi ha cap mòbil pare disponible, es mostraran els números d'emergència indicats a l'expedient de l'estudiant, i això apareixerà en vermell."
+msgstr "Aquest informe imprimeix tots els números de telèfon mòbil dels responsables, tant si estan configurats com si no per rebre missatges de l'escola. És útil en enviar missatges SMS d'emergència a grups d'estudiants. Si no hi ha cap mòbil de responsable disponible, es mostraran els números d'emergència indicats a l'expedient de l'estudiant, i això apareixerà en vermell."
 
 #: 
 msgid "Manage Groups"
@@ -21112,7 +21102,7 @@ msgstr "Correu electrònic massiu a qualsevol grup del qual un usuari és propie
 
 #: 
 msgid "Include parents in messages posted to groups"
-msgstr "Inclou els pares en els missatges enviats als grups"
+msgstr "Inclou els responsables en els missatges enviats als grups"
 
 #: 
 msgid "Provides an overview of any required data updates for a user, including family data if applicable."
@@ -21120,7 +21110,7 @@ msgstr "Proporciona una visió general de les actualitzacions de dades requeride
 
 #: 
 msgid "View all student activity choices in the current year for a given form group."
-msgstr "Mostra totes les opcions d'activitat de l'estudiant en l'any actual per a un grup de formulari donat."
+msgstr "Mostra totes les opcions d'activitat de l'estudiant en l'any actual per a una agrupació donada."
 
 #: 
 msgid "Cutoff Date"
@@ -21188,7 +21178,7 @@ msgstr "Actualitzacions de dades"
 
 #: 
 msgid " Data"
-msgstr "Dades"
+msgstr " Dades"
 
 #: 
 msgid "Last Updated"
@@ -21501,7 +21491,7 @@ msgstr "Dades familiars"
 
 #: 
 msgid "Parent Email"
-msgstr "Correu electrònic pare"
+msgstr "Correu electrònic del responsable"
 
 #: 
 msgid "Students in year; staff by tutors and courses taught."
@@ -21518,7 +21508,7 @@ msgstr "Tots els estudiants per Alfabet"
 
 #: 
 msgid "Mark as Left"
-msgstr "Marca com a esquerra"
+msgstr "Marca com a retirat"
 
 #: 
 msgid "Date End"
@@ -21855,15 +21845,15 @@ msgstr "Nombre ({number} dígits)"
 
 #: 
 msgid "Decimal ({number} format)"
-msgstr "Decimal (format {number})"
+msgstr "Decimal ({number} format)"
 
 #: 
 msgid "Y or N"
-msgstr "Y o N"
+msgstr "S o N"
 
 #: 
 msgid "True or False"
-msgstr "Cert o fals"
+msgstr "Cert o Fals"
 
 #: 
 msgid "Missing value for a required field."
@@ -21924,11 +21914,11 @@ msgstr "Espaiat %1$d ubicació"
 
 #: 
 msgid "Attendance By Form Group_all"
-msgstr "Assistència per formulari Groupall"
+msgstr "Assistència per agrupació_totes"
 
 #: 
 msgid "Attendance By Form Group_myGroups"
-msgstr "Assistència per formulari GroupmyGroups"
+msgstr "Assistència per agrupació_lesmeuesagrupacions"
 
 #: 
 msgid "Enter Activity Attendance_leader"
@@ -21936,111 +21926,111 @@ msgstr "Introduïu l'assistent d'activitat"
 
 #: 
 msgid "Graphing_all"
-msgstr "Graphingall"
+msgstr "Gradació_totes"
 
 #: 
 msgid "Manage Applications_edit"
-msgstr "Gestiona l'edició d'aplicacions"
+msgstr "Gestiona Aplicacions_edita"
 
 #: 
 msgid "Manage Applications_editDelete"
-msgstr "Gestiona les aplicacionseditaSuprimeix"
+msgstr "Gestiona Aplicacions_editaSuprimeix"
 
 #: 
 msgid "Manage Expenses_all"
-msgstr "Gestiona la despesa"
+msgstr "Gestiona Despeses_totes"
 
 #: 
 msgid "Manage Expenses_myBudgets"
-msgstr "Gestiona les despeses"
+msgstr "Gestiona Despeses_elsmeusPressupostos"
 
 #: 
 msgid "Manage Facility Bookings_allBookings"
-msgstr "Gestiona les reserves de Facility"
+msgstr "Gestiona les reserves d'instal·lacions_toteslesReserves"
 
 #: 
 msgid "Manage Facility Bookings_myBookings"
-msgstr "Gestiona les Reserves del Facility"
+msgstr "Gestiona les reserves d'instal·lacions_lesmeuesReserves"
 
 #: 
 msgid "Manage Facility Changes_allClasses"
-msgstr "Gestiona els canvis de les instal·lacions"
+msgstr "Gestiona els canvis de les instal·lacions_toteslesClasses"
 
 #: 
 msgid "Manage Facility Changes_myClasses"
-msgstr "Gestiona els canvis de les instal·lacions"
+msgstr "Gestiona els canvis de les instal·lacions_lesmeuesClasses"
 
 #: 
 msgid "Manage Facility Changes_myDepartment"
-msgstr "Gestiona els canvis del FacilityDepartment"
+msgstr "Gestiona els canvis de les instal·lacions_elsmeusDepartaments"
 
 #: 
 msgid "Manage Groups_all"
-msgstr "Gestiona Groupsall"
+msgstr "Gestiona els Grups_tots"
 
 #: 
 msgid "Manage Groups_my"
-msgstr "Gestiona els Groupsmy"
+msgstr "Gestiona els Grups_elsmeus"
 
 #: 
 msgid "Manage Staff_confidential"
-msgstr "Gestiona Staffconfidential"
+msgstr "Gestiona el personal_confidencial"
 
 #: 
 msgid "Manage Staff_general"
-msgstr "Gestiona el personal general"
+msgstr "Gestiona el personal_general"
 
 #: 
 msgid "Manage Users_edit"
-msgstr "Gestiona l'edició d'usuaris"
+msgstr "Gestiona els usuaris_edita"
 
 #: 
 msgid "Manage Users_editDelete"
-msgstr "Gestiona els usuariseditDelete"
+msgstr "Gestiona els usuaris_editaSuprimeix"
 
 #: 
 msgid "Manage Weightings_everything"
-msgstr "Gestiona els pesosTot"
+msgstr "Gestiona ponderacions_tot"
 
 #: 
 msgid "Manage Weightings_singleClass"
-msgstr "Gestiona WeightingssingleClass"
+msgstr "Gestiona ponderacions_classe"
 
 #: 
 msgid "My Activities_viewEditEnrolment"
-msgstr "Les meves activitatsviewEditEnrolament"
+msgstr "Les meves activitats_vistaEditaInscripció"
 
 #: 
 msgid "New Message_attendance"
-msgstr "Atenció del missatge nou"
+msgstr "Nou missatge_assistència"
 
 #: 
 msgid "New Message_cannedResponse"
-msgstr "Resposta escanejada nova"
+msgstr "Nou missatge_respostaPredefinida"
 
 #: 
 msgid "New Message_groups_any"
-msgstr "Messagegroupsany nou"
+msgstr "Nou missatge_grups_qualsevol"
 
 #: 
 msgid "New Message_groups_my"
-msgstr "Missatge nougroupsmy"
+msgstr "Nou missatge_grups_elsmeus"
 
 #: 
 msgid "New Message_groups_parents"
-msgstr "Paresgrups de missatges nous"
+msgstr "Nou missatge_grups_responsables"
 
 #: 
 msgid "New Message_readReceipts"
-msgstr "Rebuts de Missatge nou"
+msgstr "Nou missatge_confirmacióLectura"
 
 #: 
 msgid "New Message_transport_any"
-msgstr "Transportany de missatge nou"
+msgstr "Nou missatge_transport_qualsevol"
 
 #: 
 msgid "New Message_transport_parents"
-msgstr "Transportparents de missatge nou"
+msgstr "Nou missatge_transport_responsables"
 
 #: 
 msgid "Student History_my"
@@ -22048,87 +22038,87 @@ msgstr "Història de l'estudiant"
 
 #: 
 msgid "Unit Planner_all"
-msgstr "Unitat Plannerall"
+msgstr "Planificador d'unitats_tot"
 
 #: 
 msgid "Unit Planner_learningAreas"
-msgstr "Unitat PlannerlearningAreas"
+msgstr "Planificador d'unitats_ÀreesAprenentatge"
 
 #: 
 msgid "View Behaviour Records_all"
-msgstr "Mostra el comportament de les gravacions"
+msgstr "Veure registres de comportament_tot"
 
 #: 
 msgid "View Behaviour Records_myChildren"
-msgstr "Mostra els registres del comportament"
+msgstr "Veure registres de comportament_elsmeusFills"
 
 #: 
 msgid "View External Assessments_mine"
-msgstr "Visualitza la mina d'avaluacions externes"
+msgstr "Mostra les proves externes_meues"
 
 #: 
 msgid "View External Assessments_myChildrens"
-msgstr "Mostra les proves externes"
+msgstr "Mostra les proves externes_elsmeusFills"
 
 #: 
 msgid "View Individual Education Plans_myChildren"
-msgstr "Veure Plans d'Educació Individual"
+msgstr "Veure Plans d'Educació Individual_elsmeusFills"
 
 #: 
 msgid "View Internal Assessments_all"
-msgstr "Mostra la llista de proves internes"
+msgstr "Mostra les proves internes_tot"
 
 #: 
 msgid "View Internal Assessments_mine"
-msgstr "Visualitza la mina d'avaluacions internes"
+msgstr "Mostra les proves internes_meues"
 
 #: 
 msgid "View Internal Assessments_myChildrens"
-msgstr "Mostra les proves internes"
+msgstr "Mostra les proves internes_elsmeusFills"
 
 #: 
 msgid "View Invoices_mine"
-msgstr "Mostra la factura"
+msgstr "Mostra les factures_meues"
 
 #: 
 msgid "View Invoices_myChildren"
-msgstr "Mostra les factures"
+msgstr "Mostra les factures_elsmeusFills"
 
 #: 
 msgid "View Markbook_myClasses"
-msgstr "Mostra MarkbookmyClasses"
+msgstr "Mostra Quadern de notes_lesmeuesClasses"
 
 #: 
 msgid "View Markbook_viewMyChildrensClasses"
-msgstr "Visualitza MarkbookviewMyChildrensClasses"
+msgstr "Mostra Quadern de notes_lesClassesdelsMeusFills"
 
 #: 
 msgid "View Student Profile_fullNoNotes"
-msgstr "Mostra el perfil de l'estudiant"
+msgstr "Mostra el perfil de l'estudiant_completSenseNotes"
 
 #: 
 msgid "View Student Profile_my"
-msgstr "Mostra el perfil de l'estudiant"
+msgstr "Mostra el perfil de l'estudiant_meu"
 
 #: 
 msgid "View Timetable by Person_allYears"
-msgstr "Mostra els horaris de PersonallYears"
+msgstr "Veure horari per persona_totselsAnys"
 
 #: 
 msgid "View Timetable by Person_my"
-msgstr "Mostra els horaris per Personmy"
+msgstr "Veure horari per persona_meu"
 
 #: 
 msgid "View Timetable by Person_myChildren"
-msgstr "Mostra els horaris dels nens"
+msgstr "Veure horari per persona_elmeusFills"
 
 #: 
 msgid "Write Internal Assessments_all"
-msgstr "Redacta la llista de proves internes"
+msgstr "Escriu proves internes_tot"
 
 #: 
 msgid "Write Internal Assessments_myClasses"
-msgstr "Escriu les proves internes"
+msgstr "Escriu proves internes_lesmeuesClasses"
 
 #: 
 msgid "Lesson “%1$s” has been created."
@@ -22152,7 +22142,7 @@ msgstr "Dades de finançament"
 
 #: 
 msgid "Parents of students interested in study at %1$s may use our %2$s online form%3$s to initiate the application process."
-msgstr "Els pares dels estudiants interessats en estudiar a %1$s poden utilitzar el nostre formulari en línia %2$s%3$s per iniciar el procés de sol·licitud."
+msgstr "Els responsables dels estudiants interessats en estudiar a %1$s poden utilitzar el nostre formulari en línia %2$s%3$s per iniciar el procés de sol·licitud."
 
 #: 
 msgid "Couldn't load this tab."
@@ -22173,10 +22163,6 @@ msgstr "Benvolguts %1$s,\\n\\nBenvinguts a %2$s, el sistema de %3$s per gestiona
 #: 
 msgid "Long Term Medication Details"
 msgstr "Detalls dels medicaments a llarg termini"
-
-#: 
-msgid "Tetanus Within 10 Years"
-msgstr "Tetanus en 10 anys"
 
 #: 
 msgid "Phone %1$s Type"
@@ -22200,7 +22186,7 @@ msgstr "Nom curt del grup d'any, tal com s'estableix a l'administrador de l'esco
 
 #: 
 msgid "e.g. Mr, Mrs, Dr"
-msgstr "p. ex. Sr., Sra. Dr"
+msgstr "p. ex. Sr, Sra, Dr"
 
 #: 
 msgid "Most common name, alias, nickname, handle, etc"
@@ -22220,7 +22206,7 @@ msgstr "Actualitza Insereix"
 
 #: 
 msgid "Used to group staff when creating a staff directory."
-msgstr "S'utilitza per agrupar el pentagrama quan es crea un directori de pentagrama."
+msgstr "S'utilitza per agrupar el personal quan es crea un directori de personal."
 
 #: 
 msgid "Choose the child you are registering for."
@@ -22268,15 +22254,15 @@ msgstr "Això és útil per recollir estudiants que estan configurats com a comp
 
 #: 
 msgid "Manage Units_all"
-msgstr "Gestiona Unitsall"
+msgstr "Gestiona Unitats_tot"
 
 #: 
 msgid "Manage Units_learningAreas"
-msgstr "Gestiona UnitatslearningAreas"
+msgstr "Gestiona Unitats_ÀreesAprenentatge"
 
 #: 
 msgid "Markbook_viewMyChildrensClasses"
-msgstr "MarkbookviewMyChildrensClasses"
+msgstr "Quadern de notes_vistaLesClassesDelsMeusFills"
 
 #: 
 msgid "Sync Results"
@@ -22312,7 +22298,7 @@ msgstr "La vostra sol·licitud s'ha completat correctament, però no s'han pogut
 
 #: 
 msgid "Include Expected and Left."
-msgstr "Inclou l'esperat i l'esquerra."
+msgstr "Inclou l'esperat i el retirat."
 
 #: 
 msgid "Afrikaans"
@@ -22528,7 +22514,7 @@ msgstr "suahili"
 
 #: 
 msgid "Swedish "
-msgstr "suec"
+msgstr "Suec "
 
 #: 
 msgid "Tamil"
@@ -22620,7 +22606,7 @@ msgstr "Cobertura"
 
 #: 
 msgid "Approve Staff Absences"
-msgstr "Aprova les absències del pentagrama"
+msgstr "Aprova les absències del personal"
 
 #: 
 msgid "Individual Needs Overview"
@@ -22628,7 +22614,7 @@ msgstr "Resum de les necessitats individuals"
 
 #: 
 msgid "Manage Staff Absences"
-msgstr "Gestiona les absències del pentagrama"
+msgstr "Gestiona les absències del personal"
 
 #: 
 msgid "Manage Staff Coverage"
@@ -22644,7 +22630,7 @@ msgstr "La meva cobertura"
 
 #: 
 msgid "New Absence_any"
-msgstr "Absència nova"
+msgstr "Absència nova_qualsevol"
 
 #: 
 msgid "New Absence"
@@ -22652,7 +22638,7 @@ msgstr "Absència nova"
 
 #: 
 msgid "New Absence_mine"
-msgstr "Absència nova"
+msgstr "Absència nova_meua"
 
 #: 
 msgid "Open Requests"
@@ -22664,7 +22650,7 @@ msgstr "Sol·licita cobertura"
 
 #: 
 msgid "Staff Absence Summary"
-msgstr "Resum d'absència de pentagrama"
+msgstr "Resum d'absència de personal"
 
 #: 
 msgid "Substitute Availability"
@@ -22672,7 +22658,7 @@ msgstr "Disponibilitat de substitució"
 
 #: 
 msgid "View Absences_any"
-msgstr "Mostra l'absència"
+msgstr "Mostra les absències_qualsevol"
 
 #: 
 msgid "View Absences"
@@ -22680,7 +22666,7 @@ msgstr "Mostra les absències"
 
 #: 
 msgid "View Absences_mine"
-msgstr "Visualitza Absencesmine"
+msgstr "Mostra les absències_meues"
 
 #: 
 msgid "Weekly Absences"
@@ -22720,7 +22706,7 @@ msgstr "Edita informació per als usuaris que poden proporcionar cobertura de pe
 
 #: 
 msgid "Manage settings for the Staff module"
-msgstr "Gestiona la configuració del mòdul de pentagrama"
+msgstr "Gestiona la configuració del mòdul de personal"
 
 #: 
 msgid "Provides a visual graph of individual needs school-wide."
@@ -22812,11 +22798,11 @@ msgstr "S'han de preomplir les classes amb dades d'altres classes?"
 
 #: 
 msgid "The minumum number of hours for an absence to count as a full day (1.0)"
-msgstr "El nombre mínim d'hores per a una absència per comptar com a dia complet (1,0)"
+msgstr "El nombre mínim d'hores per a una absència per comptar com a dia complet (1.0)"
 
 #: 
 msgid "The minumum number of hours for an absence to count as a half day (0.5). Absences less than this count as 0"
-msgstr "El nombre mínim d'hores per a una absència a comptar com a mig dia (0,5). Absències menors que aquest recompte com a 0"
+msgstr "El nombre mínim d'hores per a una absència a comptar com a mig dia (0.5). Absències menors que aquest recompte com a 0"
 
 #: 
 msgid "Users who can approve staff absences. Leave this blank if approval is not used."
@@ -22932,15 +22918,15 @@ msgstr "Una llista opcional, separada per comes, de raons que estan disponibles 
 
 #: 
 msgid "Staff Absence Types"
-msgstr "Tipus d'absència de pentagrama"
+msgstr "Tipus d'absència de personal"
 
 #: 
 msgid "Staff Absence"
-msgstr "Absència del pentagrama"
+msgstr "Absència del personal"
 
 #: 
 msgid "Staff Coverage"
-msgstr "Cobertura del pentagrama"
+msgstr "Cobertura del personal"
 
 #: 
 msgid "{count} Day"
@@ -23448,7 +23434,7 @@ msgstr "Genera informes"
 
 #: 
 msgid "Lesson Planner_viewOnly"
-msgstr "Lliçó PlannerviewOnly"
+msgstr "Planificador de lliçons_visualització"
 
 #: 
 msgid "Manage Access"
@@ -23464,7 +23450,7 @@ msgstr "Gestiona els criteris"
 
 #: 
 msgid "Manage Investigations_all"
-msgstr "Gestiona tots els estudis"
+msgstr "Gestiona les investigacions_tot"
 
 #: 
 msgid "Manage Investigations"
@@ -23472,7 +23458,7 @@ msgstr "Gestiona les investigacions"
 
 #: 
 msgid "Manage Investigations_my"
-msgstr "Gestiona les investigacions"
+msgstr "Gestiona les investigacions_meues"
 
 #: 
 msgid "Manage Reporting Cycles"
@@ -23484,11 +23470,11 @@ msgstr "Gestiona els informes"
 
 #: 
 msgid "Manage Roles_all"
-msgstr "Gestiona Rolesall"
+msgstr "Gestiona els Rols_tot"
 
 #: 
 msgid "Manage Roles_viewOnly"
-msgstr "Gestiona RolesviewOnly"
+msgstr "Gestiona els Rols_visualitzar"
 
 #: 
 msgid "My Reporting"
@@ -23508,7 +23494,7 @@ msgstr "Profunditat de la lectura"
 
 #: 
 msgid "Proof Read_all"
-msgstr "Prova de Readall"
+msgstr "Prova de lectura_tot"
 
 #: 
 msgid "Proof Read"
@@ -23516,7 +23502,7 @@ msgstr "Prova de lectura"
 
 #: 
 msgid "Proof Read_mine"
-msgstr "Lemina de prova"
+msgstr "Prova de lectura_meua"
 
 #: 
 msgid "Report Settings"
@@ -23528,15 +23514,15 @@ msgstr "Envia notificacions"
 
 #: 
 msgid "Staff Coverage Summary"
-msgstr "Resum de la cobertura del pentagrama"
+msgstr "Resum de la cobertura del personal"
 
 #: 
 msgid "Staff Directory_brief"
-msgstr "Directori de pentagrama"
+msgstr "Directori de personal"
 
 #: 
 msgid "Staff Directory"
-msgstr "Directori de pentagrama"
+msgstr "Directori de personal"
 
 #: 
 msgid "Staff Directory_full"
@@ -23568,7 +23554,7 @@ msgstr "Mostra els informes passats"
 
 #: 
 msgid "View Reports_mine"
-msgstr "Mostra la mina dels informes"
+msgstr "Mostra els informes_meus"
 
 #: 
 msgid "View Reports"
@@ -23576,15 +23562,15 @@ msgstr "Mostra els informes"
 
 #: 
 msgid "View Reports_myChildren"
-msgstr "Mostra els informes"
+msgstr "Mostra els informes_elsmeusFills"
 
 #: 
 msgid "View Student Profile_fullEditAllNotes"
-msgstr "Visualitza Perfil de l'estudiantfullEditAllNotes"
+msgstr "Mostra Perfil de l'estudiant_completEditaTotesLesNotes"
 
 #: 
 msgid "Write Reports_editAll"
-msgstr "Escriu ReportseditAll"
+msgstr "Escriu informes_editaTot"
 
 #: 
 msgid "Write Reports"
@@ -23592,7 +23578,7 @@ msgstr "Escriu informes"
 
 #: 
 msgid "Write Reports_mine"
-msgstr "Escriu Reportsmine"
+msgstr "Escriu informes_meus"
 
 #: 
 msgid "Allow a user to manage all Indiviudal Needs investigations."
@@ -23612,7 +23598,7 @@ msgstr "Permet que els professors de classe i els caps d'any contribueixin a les
 
 #: 
 msgid "Allows parents to view their children's report archive."
-msgstr "Permet als pares veure l'arxiu d'informes dels seus fills."
+msgstr "Permet als responsables veure l'arxiu d'informes dels seus fills."
 
 #: 
 msgid "Allows students to view their own report archive."
@@ -23752,7 +23738,7 @@ msgstr "Habilita les notificacions per als assistents educatius"
 
 #: 
 msgid "Enable Notifications for Form Group Tutors"
-msgstr "Habilita les notificacions per als tutors de grups de formulari"
+msgstr "Habilita les notificacions per als tutors d'agrupacions"
 
 #: 
 msgid "Enable Pinned Messages on Home"
@@ -23780,7 +23766,7 @@ msgstr "Afegeix un giny del mur de missatges a la pàgina d'inici, fent hihgligh
 
 #: 
 msgid "Comma-separated list of biographical groupings displayed in the staff directory."
-msgstr "Llista separada per comes d'agrupacions biogràfiques que es mostren al directori del pentagrama."
+msgstr "Llista separada per comes d'agrupacions biogràfiques que es mostren al directori del personal."
 
 #: 
 msgid "Default text for the Comment field in New Absence."
@@ -23808,7 +23794,7 @@ msgstr "La primera assistència a classe d'un dia ha de tenir l'opció de regist
 
 #: 
 msgid "Should the Form Group Tutors of a student be notified of new behaviour records?"
-msgstr "S'ha de notificar als tutors de grup de formulari d'un estudiant de nous registres de comportament?"
+msgstr "S'ha de notificar als tutors d'agrupacions d'un estudiant de nous registres de comportament?"
 
 #: 
 msgid "Template text to be included in the Description field of a First Aid Record."
@@ -23904,11 +23890,11 @@ msgstr "Estratègies provades"
 
 #: 
 msgid "Parents Informed?"
-msgstr "Els pares informats?"
+msgstr "Els responsables informats?"
 
 #: 
 msgid "Parent Response"
-msgstr "Resposta pare"
+msgstr "Resposta responsables"
 
 #: 
 msgid "Resolution Details"
@@ -23928,7 +23914,7 @@ msgstr "Per exemple, a través d'una trucada telefònica, correu electrònic, Ma
 
 #: 
 msgid "Reasons why parents are not aware of the situation."
-msgstr "Raons per les quals els pares no són conscients de la situació."
+msgstr "Raons per les quals els responsables no són conscients de la situació."
 
 #: 
 msgid "Submitting this referral will notify the student's form tutor for further investigation."
@@ -24152,11 +24138,11 @@ msgstr "Avís de crèdit SMS baix."
 
 #: 
 msgid "This email relates to the following students: "
-msgstr "Aquest correu electrònic està relacionat amb els estudiants següents:"
+msgstr "Aquest correu electrònic està relacionat amb els estudiants següents: "
 
 #: 
 msgid "This email relates to the following student: "
-msgstr "Aquest correu electrònic està relacionat amb el següent estudiant:"
+msgstr "Aquest correu electrònic està relacionat amb el següent estudiant: "
 
 #: 
 msgid "Duplicate With Members"
@@ -24423,11 +24409,13 @@ msgid "Edit Archive"
 msgstr "Edita l'arxiu"
 
 #: 
-msgid "Viewable to Staff"
-msgstr "Visualitzable al pentagrama"
+#, fuzzy
+msgid "Viewable by Staff"
+msgstr "Visualitzable al personal"
 
 #: 
-msgid "Viewable to Other"
+#, fuzzy
+msgid "Viewable by Other"
 msgstr "Visualitzable a altres"
 
 #: 
@@ -24857,7 +24845,7 @@ msgstr "Retira l'estudiant"
 
 #: 
 msgid "Enables admin to set a student to left and notify other users."
-msgstr "Permet a l'administrador establir un estudiant a l'esquerra i notificar a altres usuaris."
+msgstr "Permet a l'administrador establir un estudiant retirat i notificar a altres usuaris."
 
 #: 
 msgid "Enables users to browse Gibbon's event log."
@@ -24873,7 +24861,7 @@ msgstr "Requereix l'àrbitre del formulari de sol·licitud"
 
 #: 
 msgid "A short name to use instead of \"Effort\" in the second grade column of the markbook.."
-msgstr "Un nom curt que s'ha d'utilitzar en comptes de \"Esforç\" a la columna de segon grau del llibre de qualificacions."
+msgstr "Un nom curt que s'ha d'utilitzar en comptes de \"Esforç\" a la columna de segon grau del llibre de qualificacions.."
 
 #: 
 msgid "Should the referee email address field be required?"
@@ -24881,7 +24869,7 @@ msgstr "S'ha de requerir el camp d'adreça de correu electrònic de l'àrbitre?"
 
 #: 
 msgid "Staff Left"
-msgstr "Pentagrama esquerre"
+msgstr "Personal retirat"
 
 #: 
 msgid "Use the class listing on the right to choose an Internal Assessment to edit."
@@ -24937,7 +24925,7 @@ msgstr "S'ha produït un error en el tema a causa d'un nom incorrecte de fitxer 
 
 #: 
 msgid "Set this to Left unless the student's withdraw date is in the future."
-msgstr "Establiu això a l'esquerra llevat que la data de retirada de l'estudiant sigui en el futur."
+msgstr "Establiu això a retirat llevat que la data de retirada de l'estudiant sigui en el futur."
 
 #: 
 msgid "Withdraw Note"
@@ -24985,11 +24973,11 @@ msgstr "Recepció de {organisation} via {system}"
 
 #: 
 msgid "The following staff members have been marked as Left on {date}:"
-msgstr "Els membres del personal següents s'han marcat com a esquerra el {date}:"
+msgstr "Els membres del personal següents s'han marcat com a retirats el {date}:"
 
 #: 
 msgid "Contact "
-msgstr "Contacte"
+msgstr "Contacte "
 
 #: 
 msgid "Migrate Reports"
@@ -25146,12 +25134,12 @@ msgstr "No registrat"
 #: 
 #, fuzzy
 msgid "Lesson â%1$sâ has been created."
-msgstr "S'ha creat la lliçó .%1$s.."
+msgstr "S'ha creat la lliçó â%1$sâ."
 
 #: 
 #, fuzzy
 msgid "Lesson â%1$sâ has been updated."
-msgstr "La lliçó .%1$s. s'ha actualitzat."
+msgstr "La lliçó â%1$sâ s'ha actualitzat."
 
 #: 
 msgid "Update Available"
@@ -25223,7 +25211,7 @@ msgstr "Envia informes"
 
 #: 
 msgid "Send Reports to Parents"
-msgstr "Envia els informes als pares"
+msgstr "Envia els informes als responsables"
 
 #: 
 msgid "Send Reports to Students"
@@ -25328,11 +25316,11 @@ msgstr "Informació del servidor"
 
 #: 
 msgid "View Form Groups_all"
-msgstr "Mostra els grups de formulari"
+msgstr "Mostra les agrupacions_totes"
 
 #: 
 msgid "View Form Groups_myChildren"
-msgstr "Mostra els grups de formulari"
+msgstr "Mostra les agrupacions_elsmeusfills"
 
 #: 
 msgid "Comply with privacy regulations by flushing older, non-academic, data from the system."
@@ -25348,7 +25336,7 @@ msgstr "Gestionar la llista de les condicions mèdiques que es poden adjuntar a 
 
 #: 
 msgid "Shows the number of classes students are enroled in, organised by form group"
-msgstr "Mostra el nombre de classes en què es matriculen els estudiants, organitzades per grup de formularis"
+msgstr "Mostra el nombre de classes en què es matriculen els estudiants, organitzades per agrupacions"
 
 #: 
 msgid "Application Processing Fee"
@@ -25388,11 +25376,11 @@ msgstr "Text introductori de la condició mèdica"
 
 #: 
 msgid "Parent Daily Email Summary Introduction"
-msgstr "Introducció del resum del correu electrònic diari pare"
+msgstr "Introducció del resum del correu electrònic diari als responsables"
 
 #: 
 msgid "Parent Daily Email Summary PostScript"
-msgstr "Resum de correu electrònic diari pare"
+msgstr "Resum de correu electrònic diari als responsables"
 
 #: 
 msgid "Payment Type Options"
@@ -25408,11 +25396,11 @@ msgstr "Una llista d'àrees a preseleccionar quan es realitzen treballs de reten
 
 #: 
 msgid "A name to use for \"Homework\" in the planner. This noun should be in a plural form."
-msgstr "Un nom a usar per a «Deures» en el planificador. Aquest substantiu ha de ser plural."
+msgstr "Un nom a usar per a \"Deures\" en el planificador. Aquest substantiu ha de ser plural."
 
 #: 
 msgid "A name to use for \"Homework\" in the planner. This noun should be in a singular form."
-msgstr "Un nom a usar per a «Deures» en el planificador. Aquest substantiu ha de ser d'una forma singular."
+msgstr "Un nom a usar per a \"Deures\" en el planificador. Aquest substantiu ha de ser d'una forma singular."
 
 #: 
 msgid "Allow students to choose a backup, in case enroled activity is full."
@@ -25460,7 +25448,7 @@ msgstr "Nova aplicació amb SEN/Medical"
 
 #: 
 msgid "Parent Daily Email Summary"
-msgstr "Resum del correu electrònic diari pare"
+msgstr "Resum del correu electrònic diari dels responsables"
 
 #: 
 msgid "Tutor Daily Email Summary"
@@ -25568,7 +25556,7 @@ msgstr "Esteu segur que voleu saltar a aquesta lliçó? Qualsevol canvi sense de
 
 #: 
 msgid " (Main Tutor)"
-msgstr "(Tutor principal)"
+msgstr " (Tutor principal)"
 
 #: 
 msgid "This user's personal data was cleared on {date} as part of a data retention action. The following database tables were cleared: {tables}"
@@ -25632,7 +25620,7 @@ msgstr "S'han netejat {count} registres correctament. Aquests registres encara e
 
 #: 
 msgid "This action will scrub selected data for all users in the specified category whose status is Left, and whose end date preceeds the specified data. This process clears certain fields, rather than removing any database rows."
-msgstr "Aquesta acció netejarà les dades seleccionades per a tots els usuaris de la categoria especificada l'estat de la qual és esquerre, i la data final de la qual és anterior a les dades especificades. Aquest procés neteja certs camps, en lloc d'eliminar qualsevol fila de base de dades."
+msgstr "Aquesta acció netejarà les dades seleccionades per a tots els usuaris de la categoria especificada l'estat de la qual és retirat, i la data final de la qual és anterior a les dades especificades. Aquest procés neteja certs camps, en lloc d'eliminar qualsevol fila de base de dades."
 
 #: 
 msgid "Include users with an end date preceding this date. Last login is used as a fallback. Must be prior to the current school year."
@@ -25688,7 +25676,7 @@ msgstr "No s'ha pogut connectar al servidor gibbonedu.com."
 
 #: 
 msgid "Please contact support@gibbonedu.com if the problem persists."
-msgstr "Si us plau, poseu-vos en contacte amb support.gibbonedu.com si el problema persisteix."
+msgstr "Si us plau, poseu-vos en contacte amb support@gibbonedu.com si el problema persisteix."
 
 #: 
 msgid "Failed to authenticate service key. Check that your organization name and key are entered correctly."
@@ -25712,7 +25700,7 @@ msgstr "{name} té una condició mèdica nova o actualitzada ({condition}) amb u
 
 #: 
 msgid "Students and parents accepted to an upcoming school year will have their status set to \"Expected\", unless you choose to send a welcome email to them, in which case their status will be \"Full\"."
-msgstr "Els estudiants i pares acceptats en un curs escolar pròxim tindran la seva condició d'esperats, llevat que opteu per enviar-los un correu de benvinguda, en aquest cas la seva condició serà \"Full\"."
+msgstr "Els estudiants i responsables acceptats en un curs escolar pròxim tindran la seva condició d'\"esperats\", llevat que opteu per enviar-los un correu de benvinguda, en aquest cas la seva condició serà \"Full\"."
 
 #: 
 msgid "Student could not be enrolled, so this will have to be done manually at a later date."
@@ -25824,7 +25812,7 @@ msgstr "Llegeix en línia"
 
 #: 
 msgid "Duplication was successful, however {count} criteria did not match form groups or courses in the target school year and could not be copied."
-msgstr "La duplicació va tenir èxit, però els criteris {count} no coincidien amb els grups de formulari o els cursos del curs escolar objectiu i no es van poder copiar."
+msgstr "La duplicació va tenir èxit, però els criteris {count} no coincidien amb les agrupacions o els cursos del curs escolar objectiu i no es van poder copiar."
 
 #: 
 msgid "View Online"
@@ -25856,7 +25844,7 @@ msgstr "Neteja les dades de finançament dels estudiants, inclosa la informació
 
 #: 
 msgid "Clear all behaviour data including positive and negative behaviour records and any behaviour letters sent to parents."
-msgstr "Neteja totes les dades de comportament, inclosos els registres de comportament positiu i negatiu i les cartes de comportament enviades als pares."
+msgstr "Neteja totes les dades de comportament, inclosos els registres de comportament positiu i negatiu i les cartes de comportament enviades als responsables."
 
 #: 
 msgid "Clear individual needs records including archived records and individual needs investigations."
@@ -25920,7 +25908,7 @@ msgstr "Documentació"
 
 #: 
 msgid "Our docs provide technical information as well as user guides for Administrators, Developers, Teachers, and Parents."
-msgstr "Els nostres documents proporcionen informació tècnica, així com guies d'usuari per a administradors, desenvolupadors, professors i pares."
+msgstr "Els nostres documents proporcionen informació tècnica, així com guies d'usuari per a administradors, desenvolupadors, professors i responsables."
 
 #: 
 msgid "Expert Support"
@@ -25952,7 +25940,7 @@ msgstr "Tens una clau de servei? Vegeu i configureu les vostres llicències a la
 
 #: 
 msgid "Parent Personal Data"
-msgstr "Dades personals dels pares"
+msgstr "Dades personals dels responsables"
 
 #: 
 msgid "Staff Personal Data"
@@ -25996,7 +25984,7 @@ msgstr "Aquesta pàgina permet a un usuari sol·licitar actualitzacions de dades
 
 #: 
 msgid "Choose Staff"
-msgstr "Trieu el pentagrama"
+msgstr "Trieu el personal"
 
 #: 
 msgid "Staff Data Updates"
@@ -26034,15 +26022,15 @@ msgstr "Configuració de l'assistència"
 
 #: 
 msgid "New Message_formGroups_any"
-msgstr "MissatgeformGroupsany nou"
+msgstr "Nou missatge_agrupacions_qualsevol"
 
 #: 
 msgid "New Message_formGroups_my"
-msgstr "Missatge nouGroupsmy"
+msgstr "Nou missatge_agrupacions_lesmeues"
 
 #: 
 msgid "New Message_formGroups_parents"
-msgstr "Nou Missatgeformformaparets"
+msgstr "Nou missatge_agrupacions_responsables"
 
 #: 
 msgid "Personal Document Settings"
@@ -26058,11 +26046,11 @@ msgstr "Configuració del planificador"
 
 #: 
 msgid "Update Staff Data_any"
-msgstr "Actualitza les dades del personal"
+msgstr "Actualitza les dades del personal_qualsevol"
 
 #: 
 msgid "Update Staff Data_my"
-msgstr "Actualitza el «Datamy»"
+msgstr "Actualitza les dades del personal_meues"
 
 #: 
 msgid "Allows users to create data update request for their staff record."
@@ -26094,7 +26082,7 @@ msgstr "Mostra els recursos"
 
 #: 
 msgid "View the form groups in which a user's children study."
-msgstr "Consulteu els grups de formulari en què estudien els fills d'un usuari."
+msgstr "Consulteu les agrupacions en què estudien els fills d'un usuari."
 
 #: 
 msgid "South Sudan"
@@ -26118,19 +26106,19 @@ msgstr "Cal una actualització de l'editor"
 
 #: 
 msgid "Enable Parent Dashboard?"
-msgstr "Voleu habilitar el tauler pare?"
+msgstr "Voleu habilitar el Tauler de control del responsable?"
 
 #: 
 msgid "Enable Staff Dashboard?"
-msgstr "Voleu habilitar el Tauler del pentagrama?"
+msgstr "Voleu habilitar el Tauler de control del personal?"
 
 #: 
 msgid "Enable Student Dashboard?"
-msgstr "Voleu habilitar el tauler d'estudiants?"
+msgstr "Voleu habilitar el Tauler de control d'estudiants?"
 
 #: 
 msgid "Front End Cache"
-msgstr "Memòria cau del final frontal"
+msgstr "Memòria cau del dispositiu"
 
 #: 
 msgid "Include Alternate Email?"
@@ -26154,15 +26142,15 @@ msgstr "El camp de correu alternatiu ha de ser visible en el formulari de regist
 
 #: 
 msgid "Should the Parent Dashboard be visible to users?"
-msgstr "Ha de ser visible per als usuaris el Tauler pare?"
+msgstr "Ha de ser visible per als usuaris el Tauler de control del responsable?"
 
 #: 
 msgid "Should the Staff Dashboard be visible to users?"
-msgstr "Cal que el Tauler del pentagrama sigui visible per als usuaris?"
+msgstr "Cal que el Tauler de control del personal sigui visible per als usuaris?"
 
 #: 
 msgid "Should the Student Dashboard be visible to users?"
-msgstr "Cal que el Tauler de l'estudiant sigui visible per als usuaris?"
+msgstr "Cal que el Tauler de control de l'estudiant sigui visible per als usuaris?"
 
 #: 
 msgid "Application Form Accepted"
@@ -26262,7 +26250,7 @@ msgstr "Visibilitat"
 
 #: 
 msgid "Note that certain fields are available depending on the role categories (Staff, Student, Parent) that a user is assigned to. These fields, such as personal documents and custom fields, will be editable after the user has been created."
-msgstr "Tingueu en compte que hi ha certs camps disponibles depenent de les categories de rol (Pacient, Estudiant, Pare) a les quals s'assigna un usuari. Aquests camps, com ara documents personals i camps personalitzats, es podran editar un cop s'hagi creat l'usuari."
+msgstr "Tingueu en compte que hi ha certs camps disponibles depenent de les categories de rol (Pacient, Estudiant, Responsable) a les quals s'assigna un usuari. Aquests camps, com ara documents personals i camps personalitzats, es podran editar un cop s'hagi creat l'usuari."
 
 #: 
 msgid "Create a linked student record?"
@@ -26306,7 +26294,7 @@ msgstr "Flux de treball del desenvolupador"
 
 #: 
 msgid "The updater has detected a change in the composer.lock file. In the command line, navigate to your Gibbon base path and run the {composer} command. Visit the {docsLink} page in the docs for more information about using composer.<br/><br/>Once you have updated composer, click {updateLink} to dismiss this message. "
-msgstr "L'actualitzador ha detectat un canvi al fitxer composer.lock. A la línia d'ordres, navegueu fins al camí base del Gibbon i executeu l'ordre {composer}. Visiteu la pàgina {docsLink} als documents per obtenir més informació sobre l'ús de l'editor.<br/><br/>Un cop hàgiu actualitzat l'editor, feu clic a {updateLink} per descartar aquest missatge."
+msgstr "L'actualitzador ha detectat un canvi al fitxer composer.lock. A la línia d'ordres, navegueu fins al camí base del Gibbon i executeu l'ordre {composer}. Visiteu la pàgina {docsLink} als documents per obtenir més informació sobre l'ús de l'editor.<br/><br/>Un cop hàgiu actualitzat l'editor, feu clic a {updateLink} per descartar aquest missatge. "
 
 #: 
 msgid "{context} Fields"
@@ -26358,11 +26346,11 @@ msgstr "No s'ha especificat l'estudiant, la lliçó o els deures."
 
 #: 
 msgid "Change of Form Group"
-msgstr "Canvi de grup de formulari"
+msgstr "Canvi de agrupació"
 
 #: 
 msgid "Student's form group was changed from {formGroupFrom} to {formGroupTo} on {date}"
-msgstr "El grup de formularis de l'estudiant s'ha canviat de {formGroupFrom} a {formGroupTo} el dia {date}"
+msgstr "L'agrupació de l'estudiant s'ha canviat de {formGroupFrom} a {formGroupTo} el dia {date}"
 
 #: 
 msgid "This report prints a summary of personal documents including passports and ID cards for the selected students."
@@ -26386,7 +26374,7 @@ msgstr "gibbonFormGroupup"
 
 #: 
 msgid "Phone "
-msgstr "Telèfon"
+msgstr "Telèfon "
 
 #: 
 msgid "Student Agreements:"
@@ -26470,7 +26458,7 @@ msgstr "Aquesta acció a granel es pot utilitzar per actualitzar l'estat de més
 
 #: 
 msgid "All Students by Form Group"
-msgstr "Tots els estudiants per grup de formulari"
+msgstr "Tots els estudiants per agrupació"
 
 #: 
 msgid "Absence"
@@ -26494,7 +26482,7 @@ msgstr "Filtra pel nom d'origen de les dades"
 
 #: 
 msgid "Draft reports are not accessible by parents or students."
-msgstr "Els projectes d'informe no són accessibles per pares o estudiants."
+msgstr "Els projectes d'informe no són accessibles per responsables o estudiants."
 
 #: 
 msgid "Two-sided"
@@ -26526,7 +26514,7 @@ msgstr "Instal·lació completa"
 
 #: 
 msgid "Error details: {error_message}"
-msgstr "Detalls d'error: {errormessage}"
+msgstr "Detalls d'error: {error_message}"
 
 #: 
 #, fuzzy
@@ -26631,7 +26619,7 @@ msgstr "Aplicacions de l'estudiant"
 
 #: 
 msgid "Staff Applications"
-msgstr "Aplicacions del pentagrama"
+msgstr "Aplicacions del personal"
 
 #: 
 msgid "Welcome"
@@ -26700,7 +26688,7 @@ msgstr "Nom llarg de la fila - com s'utilitza en el calendari de destinació"
 
 #: 
 msgid "Space Name - the Gibbon name for the room the lesson takes place in."
-msgstr "Nom de l'espai: el nom de Gibbon per a la sala on es fa la lliçó."
+msgstr "Nom de l'espai - el nom de Gibbon per a la sala on es fa la lliçó."
 
 #: 
 msgid "An new public registration, for %1$s, is pending approval."
@@ -26708,7 +26696,7 @@ msgstr "Un nou registre públic, per a %1$s, està pendent d'aprovació."
 
 #: 
 msgid "Sort by "
-msgstr "Ordena per"
+msgstr "Ordena per "
 
 #: 
 msgid "Session Timetout"
@@ -26754,7 +26742,7 @@ msgstr "Un administrador del sistema ha tancat la sessió manualment a {system}.
 #, fuzzy
 msgid "A warning has been issued for a student (%1$s) in your form group,\n"
 "                                     pending a behaviour letter."
-msgstr "S'ha emès un avís per a un estudiant (%1$s) en el vostre grup de formulari,\n"
+msgstr "S'ha emès un avís per a un estudiant (%1$s) en el vostra agrupació,\n"
 "                                     pendent d'una carta de comportament."
 
 #: 
@@ -26899,7 +26887,7 @@ msgstr "Estat antic"
 
 #: 
 msgid "Max per Student"
-msgstr "Màx. per estudiant"
+msgstr "Màx per estudiant"
 
 #: 
 msgid "The most a student can sign up for in this activity type. Set to 0 for unlimited."
@@ -26915,7 +26903,7 @@ msgstr "Script CLI"
 
 #: 
 msgid "By using a {linkCLIScript}, {systemName} can be configured to automatically generate and email behaviour letters to parents and tutors, once certain behaviour threshold levels have been reached. Visit the {linkEmailTemplates} page to customise the templates for each behaviour letter email."
-msgstr "Mitjançant l'ús d'un {linkCLIScript}, es pot configurar {systemName} per generar automàticament i enviar cartes de comportament per correu electrònic als pares i tutors, una vegada que s'hagin assolit determinats nivells de llindar de comportament. Visiteu la pàgina {linkEmailTemplates} per personalitzar les plantilles de cada correu electrònic de carta de comportament."
+msgstr "Mitjançant l'ús d'un {linkCLIScript}, es pot configurar {systemName} per generar automàticament i enviar cartes de comportament per correu electrònic als responsables i tutors, una vegada que s'hagin assolit determinats nivells de llindar de comportament. Visiteu la pàgina {linkEmailTemplates} per personalitzar les plantilles de cada correu electrònic de carta de comportament."
 
 #: 
 msgid "Test Payment"
@@ -27223,7 +27211,7 @@ msgstr "Continuarem sense dades de demostració."
 
 #: 
 msgid "Database \"{name}\" not found and unable to create one. Please manually create the database, or provide account that can create it."
-msgstr "No s'ha trobat la base de dades «{name}» i no s'ha pogut crear una. Si us plau, creeu manualment la base de dades o proporcioneu un compte que la pugui crear."
+msgstr "No s'ha trobat la base de dades \"{name}\" i no s'ha pogut crear una. Si us plau, creeu manualment la base de dades o proporcioneu un compte que la pugui crear."
 
 #: 
 msgid "Unable to read ../gibbon.sql, and so the installer cannot proceed."
@@ -27231,11 +27219,11 @@ msgstr "No s'ha pogut llegir ../gibbon.sql, de manera que l'instal·lador no pot
 
 #: 
 msgid "../gibbon_demo.sql does not exist."
-msgstr "../gibbondemo.sql no existeix."
+msgstr "../gibbon_demo.sql no existeix."
 
 #: 
 msgid "Unable to read ../gibbon_demo.sql."
-msgstr "No s'ha pogut llegir ../gibbondemo.sql."
+msgstr "No s'ha pogut llegir ../gibbon_demo.sql."
 
 #: 
 msgid "Your online payment was cancelled before it was completed. No charges have been processed."
@@ -27429,7 +27417,7 @@ msgstr "La següent funcionalitat és inactiva perquè depèn d'un o més camps 
 
 #: 
 msgid "Required fields: "
-msgstr "Camps obligatoris:"
+msgstr "Camps obligatoris: "
 
 #: 
 msgid "Your request was successful, but some fields were not unique and could not be added to the form: {duplicate}"
@@ -27785,11 +27773,11 @@ msgstr "Crea un estudiant"
 
 #: 
 msgid "Create Parents"
-msgstr "Crea pares"
+msgstr "Crea responsables"
 
 #: 
 msgid "Create a Gibbon user account for one or more parents and connect them to the student's family."
-msgstr "Crea un compte d'usuari de Gibbon per a un o més pares i connecta'ls a la família de l'estudiant."
+msgstr "Crea un compte d'usuari de Gibbon per a un o més responsables i connecta'ls a la família de l'estudiant."
 
 #: 
 msgid "Create Medical Record"
@@ -27813,7 +27801,7 @@ msgstr "Detalls financers"
 
 #: 
 msgid "Send a processing fee request to the parent by email."
-msgstr "Envia una sol·licitud de comissió de tractament al pare per correu electrònic."
+msgstr "Envia una sol·licitud de comissió de tractament al responsable per correu electrònic."
 
 #: 
 msgid "Application Processing Email Template"
@@ -27821,7 +27809,7 @@ msgstr "Plantilla de correu electrònic de processament d'aplicacions"
 
 #: 
 msgid "The content of email templates can be customized in System Admin > Email Templates."
-msgstr "El contingut de les plantilles de correu electrònic es pot personalitzar a System Admin . Plantilles de correu electrònic."
+msgstr "El contingut de les plantilles de correu electrònic es pot personalitzar a Administrar el sistema > Plantilles de correu electrònic."
 
 #: 
 msgid "Application Form Referee"
@@ -27869,7 +27857,7 @@ msgstr "Plantilla d'acceptació de l'estudiant"
 
 #: 
 msgid "Parent Acceptance Template"
-msgstr "Plantilla d'acceptació pare"
+msgstr "Plantilla d'acceptació dels responsables"
 
 #: 
 msgid "Enrol Student"
@@ -27909,7 +27897,7 @@ msgstr "Els camps d'estudiants s'adjunten a les dades d'usuari d'un estudiant un
 
 #: 
 msgid "Parent fields enable the creation of parent users once an application has been accepted."
-msgstr "Els camps pare permeten la creació d'usuaris pares un cop s'ha acceptat una aplicació."
+msgstr "Els camps dels responsables permeten la creació d'usuaris amb rol de responsables un cop s'ha acceptat una aplicació."
 
 #: 
 msgid "Adds a checkbox that must be checked to confirm agreement with a statement before the form can be submitted."
@@ -27933,7 +27921,7 @@ msgstr "Els camps genèrics es poden afegir ad hoc a qualsevol formulari, però 
 
 #: 
 msgid "Family fields enable the creation of a family record in Gibbon once an application has been accepted. Students and parents will be automatically attached to the new family."
-msgstr "Els camps familiars permeten la creació d'un registre familiar a Gibbon un cop acceptada una sol·licitud. Els estudiants i els pares s'adjuntaran automàticament a la nova família."
+msgstr "Els camps familiars permeten la creació d'un registre familiar a Gibbon un cop acceptada una sol·licitud. Els estudiants i els responsables s'adjuntaran automàticament a la nova família."
 
 #: 
 msgid "Add blocks of text to your form, such as additional information or instructions for users to follow."
@@ -28018,7 +28006,7 @@ msgstr "El registre seleccionat no existeix."
 
 #: 
 msgid "This application is attached to an admissions account for {name}, who is an existing user in {system}. Some parent and family details in the application form have been hidden, as they have been superseded by the active user's data."
-msgstr "Aquesta sol·licitud està adjuntada a un compte d'admissió de {name}, que és un usuari existent a {system}. S'han ocultat alguns detalls de pare i família en el formulari de sol·licitud, ja que han estat reemplaçats per les dades de l'usuari actiu."
+msgstr "Aquesta sol·licitud està adjuntada a un compte d'admissió de {name}, que és un usuari existent a {system}. S'han ocultat alguns detalls de responsable i família en el formulari de sol·licitud, ja que han estat reemplaçats per les dades de l'usuari actiu."
 
 #: 
 msgid "This application is attached to an admissions account for {name}, who is no longer active in {system}. Upon acceptance, this user will be reactivated and their personal details will be updated based on the information in this application form."
@@ -28042,7 +28030,7 @@ msgstr "{role} existent"
 
 #: 
 msgid "New Parent"
-msgstr "Pare nou"
+msgstr "Responsable nou"
 
 #: 
 msgid "Current Application"
@@ -28074,7 +28062,7 @@ msgstr "Planificador de cobertura diari"
 
 #: 
 msgid "Duty Schedule_edit"
-msgstr "Edició de la planificació del deure"
+msgstr "Planificació de deures_edita"
 
 #: 
 msgid "Duty Schedule"
@@ -28082,11 +28070,11 @@ msgstr "Planificació de deures"
 
 #: 
 msgid "Duty Schedule_view"
-msgstr "Vista de la planificació del deure"
+msgstr "Planificació de deures_vista"
 
 #: 
 msgid "New Message_confidential"
-msgstr "Missatge confidencial nou"
+msgstr "Nou Missatge_confidencial"
 
 #: 
 msgid "Timetable Settings"
@@ -28194,7 +28182,7 @@ msgstr "Camps de número de telèfon"
 
 #: 
 msgid "View Staff"
-msgstr "Mostra el pentagrama"
+msgstr "Mostra el personal"
 
 #: 
 msgid "We have successfully recorded your confirmation for: {subject}"
@@ -28222,15 +28210,15 @@ msgstr "Els rebuts de lectura per correu electrònic no s'han activat per a aque
 
 #: 
 msgid "At Least One Parent"
-msgstr "Menys d'un pare"
+msgstr "Menys d'un responsable"
 
 #: 
 msgid "Both Parents"
-msgstr "Ambdós pares"
+msgstr "Ambdós responsables"
 
 #: 
 msgid "Student and Parent"
-msgstr "Estudiant i pare"
+msgstr "Estudiant i responsable"
 
 #: 
 msgid "Any Recipient"
@@ -28472,7 +28460,7 @@ msgstr "Cobert per {name}"
 
 #: 
 msgid "Staff Duty"
-msgstr "Deure de pentagrama"
+msgstr "Deure de personal"
 
 #: 
 msgid "PROFILE PHOTO"
@@ -28484,11 +28472,11 @@ msgstr "Torna a la part superior"
 
 #: 
 msgid "First Aid Record_editAll"
-msgstr "First Aid RecordeditAll"
+msgstr "Registre de primers auxilis_editaTot"
 
 #: 
 msgid "First Aid Record_viewOnlyAddNotes"
-msgstr "First Aid RecordviewOnlyAddNotes"
+msgstr "Registre de primers auxilis_visualitzacióAfegirNotes"
 
 #: 
 msgid "Allows user to view first aid records and add incident notes, but not add or edit records."
@@ -28524,7 +28512,7 @@ msgstr "Registre de comportament per a l'estudiant"
 
 #: 
 msgid "{formGroup} was the last group to have their initial Form Group attendance taken (by {person} at {time})"
-msgstr "{formGroup} va ser l'últim grup que va tenir l'assistència inicial del grup de formularis (per {person} a les {time})"
+msgstr "{formGroup} va ser l'últim grup que va tenir l'assistència inicial de la agrupació (per {person} a les {time})"
 
 #: 
 msgid "This is a main catalog record. Updating it will also update {count} copies of this record."
@@ -28600,7 +28588,7 @@ msgstr "S'ha creat un registre de primers auxilis per a {name} a les {time}. S'h
 
 #: 
 msgid "These contacts can be used when following up on an emergency, or for less serious issues, when parents and staff need to be notified by email."
-msgstr "Aquests contactes es poden utilitzar en el seguiment d'una emergència, o per a problemes menys greus, quan els pares i el personal han de ser notificats per correu electrònic."
+msgstr "Aquests contactes es poden utilitzar en el seguiment d'una emergència, o per a problemes menys greus, quan els responsables i el personal han de ser notificats per correu electrònic."
 
 #: 
 msgid "If selected, this user will be notified to enter follow up details about the first aid incident."
@@ -28608,7 +28596,7 @@ msgstr "Si està seleccionat, se li notificarà a aquest usuari que introdueixi 
 
 #: 
 msgid "As a staff member, your view of this rubric accounts for all current records, including those before their complete date. Parents and students will only see the rubric based on completed data."
-msgstr "Com a membre del personal, la vostra vista d'aquesta rúbrica compta amb tots els registres actuals, inclosos els anteriors a la seva data completa. Els pares i els estudiants només veuran la rúbrica basada en dades completades."
+msgstr "Com a membre del personal, la vostra vista d'aquesta rúbrica compta amb tots els registres actuals, inclosos els anteriors a la seva data completa. Els responsables i els estudiants només veuran la rúbrica basada en dades completades."
 
 #: 
 msgid "Include Signature? (email only)"
@@ -28694,7 +28682,7 @@ msgstr "Un altre interval de notificacions"
 
 #: 
 msgid "Staff Notification Interval"
-msgstr "Interval de notificacions del pentagrama"
+msgstr "Interval de notificacions del personal"
 
 #: 
 msgid "Frequency of notification icon update in status tray, for all non-staff users. In thousands of a second."
@@ -28734,7 +28722,7 @@ msgstr "Gestiona les prestatgeries de la biblioteca"
 
 #: 
 msgid "View Behaviour Records_my"
-msgstr "Mostra el comportament de les gravacions"
+msgstr "Mostra el el registre de comportament_meu"
 
 #: 
 msgid "Allows user to manage shelves displaying library items for library browsing."
@@ -28746,7 +28734,7 @@ msgstr "Permet als usuaris veure els registres de comportament creats per ells"
 
 #: 
 msgid "Ivory Coast (Cote d'Ivoire)"
-msgstr "Costa d'Ivori"
+msgstr "Costa d'Ivori (Cote d'Ivoire)"
 
 #: 
 msgid "Display privacy options?"
@@ -28774,7 +28762,7 @@ msgstr "Caducitat de la qualificació de la primera ajuda"
 
 #: 
 msgid "Student Form Group Changed"
-msgstr "S'ha canviat el grup del formulari de l'estudiant"
+msgstr "S'ha canviat l'agrupació de l'estudiant"
 
 #: 
 msgid "Edit Shelf"
@@ -28910,7 +28898,7 @@ msgstr "Si està activat, podeu compartir l'Informe d'enviament d'aquest missatg
 
 #: 
 msgid "{student}'s form group was changed from {formGroupFrom} to {formGroupTo} on {date}"
-msgstr "El grup de formularis de {student} s'ha canviat de {formGroupFrom} a {formGroupTo} el dia {date}"
+msgstr "L'agrupació de {student} s'ha canviat de {formGroupFrom} a {formGroupTo} el dia {date}"
 
 #: 
 msgid "{student} {formGroup} will withdraw from {school}, effective from {date}."
@@ -28958,7 +28946,7 @@ msgstr "Els meus estudiants"
 
 #: 
 msgid "Follow Up By "
-msgstr "Seguiment"
+msgstr "Seguiment "
 
 #: 
 msgid " "
@@ -29018,7 +29006,7 @@ msgstr "Explora les activitats"
 
 #: 
 msgid "Explore Activities_studentRegister"
-msgstr "Explora les activitatsConsultaRegistre"
+msgstr "Explora les activitats_registreEstudiant"
 
 #: 
 msgid "Manage Categories"
@@ -29042,11 +29030,11 @@ msgstr "Gestiona les llistes de correu"
 
 #: 
 msgid "Manage Staffing"
-msgstr "Gestiona el pentagrama"
+msgstr "Gestiona el personal"
 
 #: 
 msgid "New Message_mailingList"
-msgstr "Llista nova de missatges"
+msgstr "Nou missatge_llistaCorreu"
 
 #: 
 msgid "Progress by Department"
@@ -29062,19 +29050,19 @@ msgstr "Estudiants no inscrits"
 
 #: 
 msgid "View Activities_myChildren"
-msgstr "Mostra les activitatsmyChildren"
+msgstr "Mostra les activitats_elsmeusFills"
 
 #: 
 msgid "View Behaviour Records_myself"
-msgstr "Veure Comportament Recordsmeu"
+msgstr "Veure Registres de Comportament_meu"
 
 #: 
 msgid "View Unassigned Staff"
-msgstr "Mostra el pentagrama no assignat"
+msgstr "Mostra el personal no assignat"
 
 #: 
 msgid "Allows parents to view activities for their children"
-msgstr "Permet als pares veure activitats per als seus fills"
+msgstr "Permet als responsables veure activitats per als seus fills"
 
 #: 
 msgid "Allows users to assign staff to activities"
@@ -29118,7 +29106,7 @@ msgstr "Veure el progrés de redacció d'informes per departament i classe."
 
 #: 
 msgid "Ivory Coast (CÃ´te d'Ivoire)"
-msgstr "Costa d'Ivori"
+msgstr "Costa d'Ivori (Cóte d'Ivoire)"
 
 #: 
 msgid "Conflict"
@@ -29152,7 +29140,7 @@ msgstr "Benvolguts %1$s,<br/><br/>Benvinguts a %2$s, el sistema de %3$s per gest
 #: 
 #, fuzzy
 msgid "%1$s has edited a student note (\"%2$s\") about %3$s."
-msgstr "%1$s ha editat una nota d'estudiant («%2$s») sobre %3$s."
+msgstr "%1$s ha editat una nota d'estudiant (\"%2$s\") sobre %3$s."
 
 #: 
 msgid "Add List"
@@ -29436,7 +29424,7 @@ msgstr "Inclou"
 
 #: 
 msgid "{count} Activity(s)"
-msgstr "{count} activitats"
+msgstr "{count} activitat(s)"
 
 #: 
 msgid "Max"
@@ -29444,7 +29432,7 @@ msgstr "Màx"
 
 #: 
 msgid "{count} Sign-up(s)"
-msgstr "{count} Inscripcions"
+msgstr "{count} Inscripcio(ns)"
 
 #: 
 msgid "The maximum available spaces is {max}, which is less than the total sign ups. {difference} participants will not be automatically added to groups, but can still be added manually."
@@ -29512,7 +29500,7 @@ msgstr "Cancel·la l'absència"
 
 #: 
 msgid "Staff Absence Cancelled"
-msgstr "S'ha cancel·lat l'absència del pentagrama"
+msgstr "S'ha cancel·lat l'absència del personal"
 
 #: 
 msgid "{name}'s absence and coverage request on {date} for {type} has been cancelled."
@@ -29532,7 +29520,7 @@ msgstr "Cel"
 
 #: 
 msgid "Teal"
-msgstr "Teal"
+msgstr "Verd blavós"
 
 #: 
 msgid "Violet"
@@ -29681,7 +29669,7 @@ msgstr "Notificació d'efectiu"
 #: 
 #, fuzzy
 msgid "Your PHP environment cannot handle all of the fields in this form (the current limit is %1$s). Ask your web host or system administrator to increase the value of the max_input_vars in php.ini to at least %2$s and try again."
-msgstr "El vostre entorn PHP no pot gestionar tots els camps d'aquest formulari (el límit actual és %1$s). Demaneu al vostre amfitrió web o a l'administrador del sistema que augmenti el valor dels maxinputvars a php.ini almenys a %2$s i torneu-ho a provar."
+msgstr "El vostre entorn PHP no pot gestionar tots els camps d'aquest formulari (el límit actual és %1$s). Demaneu al vostre amfitrió web o a l'administrador del sistema que augmenti el valor dels max_input_vars a php.ini almenys a %2$s i torneu-ho a provar."
 
 #: 
 msgid "Bookable"
@@ -29741,7 +29729,7 @@ msgstr "La vostra sol·licitud ha fallat a causa d'un error."
 
 #: 
 msgid "Also add parents of any selected students as new recipients."
-msgstr "Afegeix també els pares dels estudiants seleccionats com a nous destinataris."
+msgstr "Afegeix també els responsables dels estudiants seleccionats com a nous destinataris."
 
 #: 
 msgid "Resend Email?"
@@ -29869,7 +29857,7 @@ msgstr "Color personalitzat"
 
 #: 
 msgid "Send an email to the student and/or parent once the form has been accepted."
-msgstr "Envia un correu electrònic a l'estudiant i/o pare un cop acceptat el formulari."
+msgstr "Envia un correu electrònic a l'estudiant i/o responsable un cop acceptat el formulari."
 
 #: 
 msgid "Your request failed because your session authentication has expired. Please log out and log in again."
@@ -29886,4 +29874,501 @@ msgstr "Si només existeix una coincidència, s'obrirà automàticament."
 #: 
 msgid "All Day Events"
 msgstr "Esdeveniments de tot el dia"
+
+#: 
+msgid "Explore Activities_registerByParent"
+msgstr "Explora el registre d'activitats_perResponsable"
+
+#: 
+msgid "Impersonate User"
+msgstr "Impersonalitza l'usuari"
+
+#: 
+msgid "Manage Calendars_all"
+msgstr "Gestiona Calendaris_tot"
+
+#: 
+msgid "Manage Calendars"
+msgstr "Gestiona els calendaris"
+
+#: 
+msgid "Manage Events_all"
+msgstr "Gestiona Esdeveniments_tot"
+
+#: 
+msgid "Manage Events"
+msgstr "Gestiona els esdeveniments"
+
+#: 
+msgid "Manage Events_my"
+msgstr "Gestiona Esdeveniments_meu"
+
+#: 
+msgid "Manage Student Alerts_all"
+msgstr "Gestiona les alertes dels estudiants_tot"
+
+#: 
+msgid "Manage Student Alerts"
+msgstr "Gestiona les alertes dels estudiants"
+
+#: 
+msgid "Manage Student Alerts_headOfYear"
+msgstr "Gestiona les alertes dels estudiants_perCurs"
+
+#: 
+msgid "Manage Student Alerts_my"
+msgstr "Gestiona les alertes dels estudiants_meues"
+
+#: 
+msgid "Student Alert Settings"
+msgstr "Paràmetres d'alerta de l'estudiant"
+
+#: 
+msgid "Student Alerts by Class"
+msgstr "Alertes dels estudiants per classe"
+
+#: 
+msgid "Student Alerts by Form Group"
+msgstr "Alertes dels estudiants per agrupacions"
+
+#: 
+msgid "View Calendar"
+msgstr "Mostra el calendari"
+
+#: 
+msgid "Allows parents to view activities and register for their children"
+msgstr "Permet als responsables veure activitats i registrar-se als seus fills"
+
+#: 
+msgid "Allows users to create ands edit thier own calendar events."
+msgstr "Permet als usuaris crear i editar esdeveniments de calendari propis."
+
+#: 
+msgid "Enables users to add and edit events on any calendar."
+msgstr "Permet als usuaris afegir i editar esdeveniments en qualsevol calendari."
+
+#: 
+msgid "Manage, create and edit alerts for students."
+msgstr "Gestiona, crea i edita alertes per a estudiants."
+
+#: 
+msgid "Manage, create and edit all Calendar events."
+msgstr "Gestiona, crea i edita tots els esdeveniments del calendari."
+
+#: 
+msgid "Manage, create, edit and approve all alerts for a given year group."
+msgstr "Gestiona, crea, edita i aprova totes les alertes d'un grup d'any determinat."
+
+#: 
+msgid "Manage, create, edit and approve all student alerts."
+msgstr "Gestiona, crea, edita i aprova totes les alertes dels estudiants."
+
+#: 
+msgid "View a calendar of school dates and events."
+msgstr "Veure un calendari de dates i esdeveniments escolars."
+
+#: 
+msgid "View all alerts for a given class."
+msgstr "Mostra totes les alertes d'una classe determinada."
+
+#: 
+msgid "View all alerts for a given form group."
+msgstr "Mostra totes les alertes d'una agrupació donada."
+
+#: 
+msgid "Student Alerts"
+msgstr "Alertes de l'estudiant"
+
+#: 
+msgid "View and manage school events on a shared calendar."
+msgstr "Visualitza i gestiona els esdeveniments escolars en un calendari compartit."
+
+#: 
+msgid "View, create and manage alerts for students"
+msgstr "Visualitza, crea i gestiona alertes per a estudiants"
+
+#: 
+msgid "Catalyst License Key"
+msgstr "Clau de llicència Catalyst"
+
+#: 
+msgid "Catalyst License Organisation Name"
+msgstr "Nom de l'organització de la llicència Catalyst"
+
+#: 
+msgid "Staff Duty Types"
+msgstr "Tipus de Funcions del Personal"
+
+#: 
+msgid "Name of organisation on your Catalyst License"
+msgstr "Nom de l'organització a la vostra llicència Catalyst"
+
+#: 
+msgid "Organisation's private key, as registered on your Catalyst License"
+msgstr "La clau privada de l'organització, tal com està registrada a la vostra llicència Catalyst"
+
+#: 
+msgid "New Class Alert"
+msgstr "Alerta de classe nova"
+
+#: 
+msgid "New Global Alert"
+msgstr "Alerta global nova"
+
+#: 
+msgid "Pending Student Alert"
+msgstr "Alerta pendent de l'estudiant"
+
+#: 
+msgid "Updated Student Alert"
+msgstr "Alerta d'estudiant actualitzada"
+
+#: 
+msgid "Event Types"
+msgstr "Tipus d'esdeveniment"
+
+#: 
+msgid "Edit Event Type"
+msgstr "Edita el tipus d'esdeveniment"
+
+#: 
+msgid "Add Event Type"
+msgstr "Afegeix un tipus d'esdeveniment"
+
+#: 
+msgid "Add Event"
+msgstr "Afegeix un esdeveniment"
+
+#: 
+msgid "Event Type"
+msgstr "Tipus d'esdeveniment"
+
+#: 
+msgid "Event Name"
+msgstr "Nom de l'esdeveniment"
+
+#: 
+msgid "Tentative"
+msgstr "Tentatiu"
+
+#: 
+msgid "Event Status"
+msgstr "Estat de l'esdeveniment"
+
+#: 
+msgid "Event Details"
+msgstr "Detalls de l'esdeveniment"
+
+#: 
+msgid "Location Type"
+msgstr "Tipus d'ubicació"
+
+#: 
+msgid "Location Details"
+msgstr "Detalls de la ubicació"
+
+#: 
+msgid "Location URL"
+msgstr "URL de la ubicació"
+
+#: 
+msgid "All Events"
+msgstr "Tots els esdeveniments"
+
+#: 
+msgid "My Events"
+msgstr "Els meus Esdeveniments"
+
+#: 
+msgid "Event Enrolment"
+msgstr "Matrícula d'Esdeveniments"
+
+#: 
+msgid "Class Enrolment"
+msgstr "Matrícula de classe"
+
+#: 
+msgid "Select Manually"
+msgstr "Selecciona manualment"
+
+#: 
+msgid "Attendees"
+msgstr "Assistents"
+
+#: 
+msgid "Manage Event"
+msgstr "Gestiona l'esdeveniment"
+
+#: 
+msgid "View Event"
+msgstr "Mostra l'esdeveniment"
+
+#: 
+msgid "Event Role"
+msgstr "Rol de l'esdeveniment"
+
+#: 
+#, fuzzy
+msgid "All Participants & Staff"
+msgstr "Tots els participants"
+
+#: 
+msgid "Added on"
+msgstr "Afegit"
+
+#: 
+msgid "Edit Calendar"
+msgstr "Edita el Calendari"
+
+#: 
+msgid "Add Calendar"
+msgstr "Afegeix Calendari"
+
+#: 
+msgid "If yes, members of the public can see events on this calendar without logging in."
+msgstr "Si és així, els membres del públic poden veure esdeveniments en aquest calendari sense entrar en sessió."
+
+#: 
+msgid "Editors"
+msgstr "Editors"
+
+#: 
+msgid "Edit All Events?"
+msgstr "Voleu editar tots els esdeveniments?"
+
+#: 
+msgid "Add a person..."
+msgstr "Afegeix una persona..."
+
+#: 
+msgid "Edit Event"
+msgstr "Edita l'esdeveniment"
+
+#: 
+msgid "Add New Staff"
+msgstr "Afegeix personal nou"
+
+#: 
+msgid "Online Lesson"
+msgstr "Lliçó en línia"
+
+#: 
+msgid "Displays a video link for online lessons"
+msgstr "Mostra un enllaç de vídeo per a les classes en línia"
+
+#: 
+msgid "Replace the lesson name with the smart block name?"
+msgstr "Voleu reemplaçar el nom de la lliçó pel nom del bloc intel·ligent?"
+
+#: 
+msgid "Click the link to join the video call: {link}"
+msgstr "Feu clic a l'enllaç per unir-vos a la videotrucada: {link}"
+
+#: 
+msgid "Attendance records exist for this lesson."
+msgstr "Hi ha registres d'assistència per a aquesta lliçó."
+
+#: 
+msgid "Notify Parents"
+msgstr "Notifica als responsables"
+
+#: 
+msgid "Date Uploaded"
+msgstr "Data de pujada"
+
+#: 
+msgid "Uploaded By"
+msgstr "Pujat per"
+
+#: 
+msgid "View Previous Photos"
+msgstr "Mostra les fotografies anteriors"
+
+#: 
+msgid "Add Type"
+msgstr "Afegeix un tipus"
+
+#: 
+msgid "Tag"
+msgstr "Etiqueta"
+
+#: 
+msgid "Admin Only"
+msgstr "Només administrador"
+
+#: 
+msgid "Determines whether this type of alert requires full access to Manage Student Alerts."
+msgstr "Determina si aquest tipus d'alerta requereix accés complet per gestionar les alertes dels estudiants."
+
+#: 
+msgid "Alert Levels"
+msgstr "Nivells d'alerta"
+
+#: 
+msgid "Enables this type of alert to use low, medium, and high alert levels. This determines the alert colour."
+msgstr "Permet aquest tipus d'alerta per utilitzar nivells d'alerta baixos, mitjans i alts. Això determina el color d'alerta."
+
+#: 
+msgid "Alert Types"
+msgstr "Tipus d'alerta"
+
+#: 
+msgid "Edit Type"
+msgstr "Tipus d'edició"
+
+#: 
+msgid "Enables the automatic creation of alerts based on student data. Only core alerts can be created automatically."
+msgstr "Habilita la creació automàtica d'alertes en funció de les dades de l'estudiant. Només es poden crear automàticament les alertes del nucli."
+
+#: 
+msgid "Low Alert Threshold"
+msgstr "Llindar d'alerta baixa"
+
+#: 
+msgid "The number of concerns needed to automatically raise a {level} level alert for a student."
+msgstr "El nombre de preocupacions necessàries per elevar automàticament una alerta de nivell {level} per a un estudiant."
+
+#: 
+msgid "Medium Alert Threshold"
+msgstr "Llindar d'alerta mitjana"
+
+#: 
+msgid "High Alert Threshold"
+msgstr "Llindar d'alerta alta"
+
+#: 
+msgid "Gibbon Catalyst License"
+msgstr "Llicència Gibbon Catalyst"
+
+#: 
+msgid "Automatic Student Alerts"
+msgstr "Alertes automàtiques de l'estudiant"
+
+#: 
+msgid "This option enables Administrators to impersonate another account in the system for troubleshooting and testing purposes. The selected user will still be able to log in and out of their own account. You will need to log out and back in to your own account when finished."
+msgstr "Aquesta opció permet als administradors suplantar un altre compte en el sistema per a la resolució de problemes i proves. L'usuari seleccionat encara podrà iniciar sessió i sortir del seu compte. Haureu de tancar la sessió i tornar al vostre compte quan finalitzi."
+
+#: 
+msgid "Your active session will be switched to the selected user."
+msgstr "La vostra sessió activa es canviarà a l'usuari seleccionat."
+
+#: 
+msgid "Only includes Accepted applications from a given year."
+msgstr "Només inclou les sol·licituds acceptades d'un any determinat."
+
+#: 
+msgid "Manage Alerts"
+msgstr "Gestiona les alertes"
+
+#: 
+msgid "View Alert"
+msgstr "Visualitza l'alerta"
+
+#: 
+msgid "Alert"
+msgstr "Alerta"
+
+#: 
+msgid "Add Class Alert"
+msgstr "Afegeix una alerta de classe"
+
+#: 
+msgid "Alert Status"
+msgstr "Estat d'alerta"
+
+#: 
+msgid "Add Alert"
+msgstr "Afegeix una alerta"
+
+#: 
+msgid "This will create a class alert. These students alerts will not automatically show up on a student profile, but can be collected and used to determine when a global alert may be necessary."
+msgstr "Això crearà una alerta de classe. Aquestes alertes d'estudiants no es mostraran automàticament en un perfil d'estudiant, però es poden recollir i utilitzar per determinar quan pot ser necessària una alerta global."
+
+#: 
+msgid "This will create a global alert. When approved, these student alerts will show up on a student profile. Global alerts can be used to draw attention to a particular concern or important status for a student."
+msgstr "Això crearà una alerta global. Quan s'aprovi, aquestes alertes d'estudiant es mostraran en un perfil d'estudiant. Les alertes globals es poden utilitzar per cridar l'atenció sobre una preocupació particular o estat important per a un estudiant."
+
+#: 
+msgid "You do not have edit access to this record."
+msgstr "No teniu accés d'edició a aquest registre."
+
+#: 
+msgid "Edit Alert"
+msgstr "Edita l'alerta"
+
+#: 
+msgid "Add Global Alert"
+msgstr "Afegeix una alerta global"
+
+#: 
+msgid "Global"
+msgstr "Global"
+
+#: 
+msgid "Date Recorded"
+msgstr "Data d'enregistrament"
+
+#: 
+msgid "Updated By"
+msgstr "Actualitzat per"
+
+#: 
+msgid "{student} ({formGroup}) has a new {type} alert"
+msgstr "{student} ({formGroup}) té una alerta {type} nova"
+
+#: 
+msgid "{user} has {actioned} the {type} alert for {student} ({formGroup})"
+msgstr "{user} té {actioned} l'alerta {type} per a {student} ({formGroup})"
+
+#: 
+msgid "{user} has added a pending {type} alert for {student} ({formGroup}), which requires approval"
+msgstr "{user} ha afegit una alerta {type} pendent per a {student} ({formGroup}), que requereix aprovació"
+
+#: 
+msgid "{user} has added a new class-level {type} alert for {student} ({formGroup})"
+msgstr "{user} ha afegit una nova alerta de nivell de classe {type} per a {student} ({formGroup})"
+
+#: 
+msgid "Payment Description"
+msgstr "Descripció del pagament"
+
+#: 
+msgid "Parent Registration Access"
+msgstr "Accés d'inscripció familiar"
+
+#: 
+msgid "If parent registration is enabled, which student year groups can parents register activities for?"
+msgstr "Si la inscripció familiar està activada, per a quins grups d'estudiants de curs poden registrar activitats els responsables?"
+
+#: 
+msgid "Create New Staff Account"
+msgstr "Crea un compte de personal nou"
+
+#: 
+msgid "The system will perform following action:"
+msgstr "El sistema realitzarà la següent acció:"
+
+#: 
+msgid "If Create New Staff Account is checked, the system will also perform the following actions"
+msgstr "Si es marca Crea un compte de personal nou, el sistema també realitzarà les accions següents"
+
+#: 
+msgid "Edited By"
+msgstr "Editat per"
+
+#: 
+msgid "Class, original facility, new facility, person"
+msgstr "Classe, instal·lació original, instal·lació nova, persona"
+
+#: 
+msgid "Facility, preferred name, surname"
+msgstr "Instal·lació, nom preferit, cognom"
+
+#: 
+msgid "Prof."
+msgstr "Profe."
+
+#: 
+msgid "Sibling"
+msgstr "Hermano"
 
