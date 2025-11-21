@@ -30372,3 +30372,131 @@ msgstr "Profe."
 msgid "Sibling"
 msgstr "Hermano"
 
+#: 
+msgid "Layers"
+msgstr "Capes"
+
+#: 
+msgid "Allows users to create and edit thier own calendar events."
+msgstr "Permet als usuaris crear i editar esdeveniments de calendari propis."
+
+#: 
+msgid "Digital Publication"
+msgstr "Publicació digital"
+
+#: 
+msgid "URL Link"
+msgstr "Enllaç URL"
+
+#: 
+msgid "Notify Staff"
+msgstr "Notifica al personal"
+
+#: 
+msgid "This event does not have any attendees."
+msgstr "Aquest esdeveniment no té assistents."
+
+#: 
+msgid "Optional notes that will be shared with email recipients."
+msgstr "Notes opcionals que es compartiran amb destinataris de correu electrònic."
+
+#: 
+msgid "Edit Participants"
+msgstr "Edita els participants"
+
+#: 
+msgid "Viewable by Participants"
+msgstr "Visualitzable pels participants"
+
+#: 
+msgid "If yes, participants can always see events they have been added to, regardless of other permissions."
+msgstr "Si és així, els participants sempre poden veure esdeveniments als quals s'han afegit, independentment d'altres permisos."
+
+#: 
+msgid "Staff can add and edit their own events. They cannot edit other events without editor access."
+msgstr "El personal pot afegir i editar els seus propis esdeveniments. No poden editar altres esdeveniments sense accés a l'editor."
+
+#: 
+msgid "Added On"
+msgstr "Afegit el"
+
+#: 
+msgid "Future Absence"
+msgstr "Absència futura"
+
+#: 
+msgid "Choose Participant"
+msgstr "Trieu un participant"
+
+#: 
+msgid "Form Tutor"
+msgstr "Tutor de la agrupació"
+
+#: 
+msgid "Sender"
+msgstr "Remitent"
+
+#: 
+msgid "Email Report for Event: "
+msgstr "Informe de correu electrònic per a l'esdeveniment:"
+
+#: 
+msgid "Total Emails Sent: %1$s"
+msgstr "Total de correus electrònics enviats: %1$s"
+
+#: 
+msgid "Emails Sent: %1$s"
+msgstr "Correus electrònics enviats: %1$s"
+
+#: 
+msgid "Emails Failed: %1$s"
+msgstr "Els correus electrònics han fallat: %1$s"
+
+#: 
+msgid "Errors"
+msgstr "Errors"
+
+#: 
+msgid "Email Report"
+msgstr "Informe de correu electrònic"
+
+#: 
+msgid "<b>"
+msgstr "<b>"
+
+#: 
+msgid "Cancel {event}?"
+msgstr "Voleu cancel·lar {event}?"
+
+#: 
+msgid "Should all {event} scheduled for this day no longer appear on the timetable?"
+msgstr "Tots els {event} programats per a aquest dia ja no haurien d'aparèixer en el calendari?"
+
+#: 
+msgid "Access to this action must be manually enabled in the configuration file."
+msgstr "L'accés a aquesta acció s'ha d'habilitar manualment al fitxer de configuració."
+
+#: 
+msgid "Secure HTTPS Connection"
+msgstr "Connexió HTTPS segura"
+
+#: 
+msgid "Requires a valid SSL Certificate"
+msgstr "Requereix un certificat SSL vàlid"
+
+#: 
+msgid "{user} has approved a {type} alert for {student} ({formGroup})"
+msgstr "{user} ha aprovat una alerta {type} per a {student} ({formGroup})"
+
+#: 
+msgid "The combined short name for this class, {courseClassName}, is longer than the recommended length of 16 characters. Please note this may cause visual issues on the timetable and in dropdown menus."
+msgstr "El nom curt combinat per a aquesta classe, {courseClassName}, és més llarg que la longitud recomanada de 16 caràcters. Tingueu en compte que això pot causar problemes visuals en els horaris i en els menús desplegables."
+
+#: 
+msgid "Remove Exception"
+msgstr "Elimina l'excepció"
+
+#: 
+msgid "Jump To"
+msgstr "Ves a"
+
